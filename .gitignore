@@ -1,0 +1,8 @@
+./assets/data/Civ5DebugDatabase.db
+./assets/data/Localization-Full.db
+./assets/data/key_list.csv
+./assets/data/check_duplicates.py
+./assets/data/ContentGenerator.py
+./assets/data/convert translations.py
+./assets/data/generate_structure.py
+./assets/data/structure2.json
