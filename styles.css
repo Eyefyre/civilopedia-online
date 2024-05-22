@@ -22,19 +22,6 @@ body {
     line-height: 1.3rem;
     /* line-height: 1.8vh; */
 }
-
-@media only screen and (max-width: 991px) {
-    #desktop-content {
-        display: None;
-    }
-}
-
-@media only screen and (min-width: 992px) {
-    #mobile-content {
-        display: None;
-    }
-}
-
 .nav-tabs {
     border: 0;
 }

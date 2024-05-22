@@ -5449,7 +5449,7 @@
         "item_id": "item_436",
         "view_id": "view_3",
         "strings": {
-            "image": "./assets/images/worldcongressportrait.png",
+            "image": "./assets/images/policy_icons/socialpolicy.png",
             "title": "TXT_KEY_PEDIA_POLICIES_PAGE_LABEL",
             "quote": "TXT_KEY_PEDIA_QUOTE_BLOCK_POLICIES",
             "section_title": "TXT_KEY_PEDIA_POLICIES_PAGE_LABEL",
@@ -5471,7 +5471,7 @@
         "item_id": "item_247",
         "view_id": "view_3",
         "strings": {
-            "image": "./assets/images/worldcongressportrait.png",
+            "image": "./assets/images/leader_icons/genghis_khan.png",
             "title": "TXT_KEY_PEDIA_CIVILIZATIONS_PAGE_LABEL",
             "quote": "TXT_KEY_PEDIA_QUOTE_BLOCK_CIVS",
             "section_title": "TXT_KEY_PEDIA_CIVILIZATIONS_PAGE_LABEL",
@@ -5537,7 +5537,7 @@
         "item_id": "item_151",
         "view_id": "view_3",
         "strings": {
-            "image": "./assets/images/worldcongressportrait.png",
+            "image": "./assets/images/terrain_icons/tundra.png",
             "title": "TXT_KEY_PEDIA_TERRAIN_PAGE_LABEL",
             "quote": "TXT_KEY_PEDIA_QUOTE_BLOCK_TERRAIN",
             "section_title": "TXT_KEY_PEDIA_TERRAIN_LABEL",
@@ -8067,7 +8067,7 @@
         "item_id": "item_459",
         "view_id": "view_1",
         "strings": {
-            "image": "./assets/images/policy_icons/free_religion.png",
+            "image": "./assets/images/policy_icons/religious_tolerance.png",
             "title": "TXT_KEY_POLICY_FREE_RELIGION",
             "game_info": "TXT_KEY_POLICY_FREE_RELIGION_HELP",
             "historical_info": "TXT_KEY_POLICY_FREERELIGION_TEXT",
@@ -8239,7 +8239,7 @@
         "item_id": "item_472",
         "view_id": "view_1",
         "strings": {
-            "image": "./assets/images/policy_icons/flourishing_of_arts.png",
+            "image": "./assets/images/policy_icons/flourishing_of_the_arts.png",
             "title": "TXT_KEY_POLICY_FLOURISHING_OF_ARTS",
             "game_info": "TXT_KEY_POLICY_FLOURISHING_OF_ARTS_HELP",
             "historical_info": "TXT_KEY_POLICY_FLOURISHING_OF_ARTS_TEXT",
@@ -8323,7 +8323,7 @@
         "item_id": "item_478",
         "view_id": "view_1",
         "strings": {
-            "image": "./assets/images/policy_icons/caravans.png",
+            "image": "./assets/images/policy_icons/wagon_trains.png",
             "title": "TXT_KEY_POLICY_CARAVANS",
             "game_info": "TXT_KEY_POLICY_CARAVANS_HELP",
             "historical_info": "TXT_KEY_POLICY_CARAVANS_TEXT",
@@ -8479,7 +8479,7 @@
         "item_id": "item_490",
         "view_id": "view_1",
         "strings": {
-            "image": "./assets/images/policy_icons/sovreignty.png",
+            "image": "./assets/images/policy_icons/sovereignty.png",
             "title": "TXT_KEY_POLICY_SOVEREIGNTY",
             "game_info": "TXT_KEY_POLICY_SOVEREIGNTY_HELP",
             "historical_info": "TXT_KEY_POLICY_SOVEREIGNTY_TEXT",
@@ -9619,7 +9619,7 @@
             "title": "TXT_KEY_CIV5_FEATURES_RIVER_TITLE",
             "game_info": "TXT_KEY_CIV5_FEATURES_RIVER_TEXT",
             "yields": "TXT_KEY_PEDIA_NO_YIELD",
-            "movement_cost": "TXT_KEY_CIV5_FEATURES_RIVER_MVT_TEXT",
+            "movement_cost": "{TXT_KEY_CIV5_FEATURES_RIVER_MVT_TEXT} [ICON_MOVES]",
             "combat_modifier": "0%"
         }
     },
@@ -10071,7 +10071,7 @@
             "title": "TXT_KEY_IMPROVEMENT_MINE",
             "game_info": "TXT_KEY_CIV5_IMPROVEMENTS_MINE_TEXT",
             "yields": "+1 [ICON_PRODUCTION]",
-            "prerequisite_techs": [
+            "improves_resources": [
                 "item_122",
                 "item_120",
                 "item_119",
@@ -10085,7 +10085,7 @@
             "can_be_built_on": [
                 "item_155"
             ],
-            "improves_resources": [
+            "prerequisite_techs": [
                 "item_1035"
             ]
         }
