@@ -1,6 +1,6 @@
 @font-face {
     font-family: "Tw Cen MT";
-    src: url("/assets/fonts/Tw\ Cen\ MT.ttf");
+    src: url("./assets/fonts/Tw\ Cen\ MT.ttf");
 }
 
 #category-dropdown,
@@ -69,7 +69,7 @@ body {
 
 #civilopedia-topbar {
     border-width: 0px 38;
-    border-image: url("/assets/images/fancytrim1024.png");
+    border-image: url("./assets/images/fancytrim1024.png");
     border-image-width: 2rem 5rem;
     border-image-slice: 19 50 fill;
     border-image-repeat: initial;
@@ -147,17 +147,17 @@ body {
     order: -1;
     margin-left: 0;
     margin-right: 0.5em;
-    background-image: url("/assets/images/icon_images/icon_plus.png");
+    background-image: url("./assets/images/icon_images/icon_plus.png");
     transition: none;
 }
 
 .accordion-button:not(.collapsed)::after {
-    background-image: url("/assets/images/icon_images/icon_minus.png");
+    background-image: url("./assets/images/icon_images/icon_minus.png");
 }
 
 .accordion-button {
     border-width: 0px 38px;
-    border-image: url("/assets/images/listheader_normal.png");
+    border-image: url("./assets/images/listheader_normal.png");
     border-image-width: 8px 0px;
     border-image-slice: 30% 40% fill;
     border-image-repeat: initial;
@@ -167,7 +167,7 @@ body {
 
 .accordion-button:hover {
     border-width: 0px 38px;
-    border-image: url("/assets/images/listheader_active.png");
+    border-image: url("./assets/images/listheader_active.png");
     border-image-width: 8px 0px;
     border-image-slice: 30% 48% fill;
     border-image-repeat: initial;
@@ -195,7 +195,7 @@ body {
 }
 
 .list-group-item:hover {
-    border-image: url("/assets/images/civilopediasidebuttons272x22hl.png");
+    border-image: url("./assets/images/civilopediasidebuttons272x22hl.png");
     border-image-width: 8px 0px;
     border-image-slice: 30% 40% fill;
     border-image-repeat: initial;
@@ -236,25 +236,25 @@ body {
 
 
 ::-webkit-scrollbar-button:single-button:vertical:decrement {
-    background: url("/assets/images/scrollbarup_icon.png") no-repeat;
+    background: url("./assets/images/scrollbarup_icon.png") no-repeat;
 }
 
 ::-webkit-scrollbar-button:single-button:vertical:decrement:hover {
-    background: url("/assets/images/scrollbarup_icon_active.png") no-repeat;
+    background: url("./assets/images/scrollbarup_icon_active.png") no-repeat;
 }
 
 
 ::-webkit-scrollbar-button:single-button:vertical:increment {
-    background: url("/assets/images/scrollbardown_icon.png") no-repeat;
+    background: url("./assets/images/scrollbardown_icon.png") no-repeat;
 }
 
 ::-webkit-scrollbar-button:single-button:vertical:increment:hover {
-    background: url("/assets/images/scrollbardown_icon_active.png") no-repeat;
+    background: url("./assets/images/scrollbardown_icon_active.png") no-repeat;
 }
 
 .accordion-button {
     border-width: 0px 38px;
-    border-image: url("/assets/images/listheader_normal.png");
+    border-image: url("./assets/images/listheader_normal.png");
     border-image-width: 8px 0px;
     border-image-slice: 30% 40% fill;
     border-image-repeat: initial;
@@ -264,21 +264,21 @@ body {
 
 .accordion-button:hover {
     border-width: 0px 38px;
-    border-image: url("/assets/images/listheader_active.png");
+    border-image: url("./assets/images/listheader_active.png");
     border-image-width: 8px 0px;
     border-image-slice: 30% 48% fill;
     border-image-repeat: initial;
 }
 
 * {
-    cursor: url("/assets/images/Pointer.png"), auto !important;
+    cursor: url("./assets/images/Pointer.png"), auto !important;
 }
 
 
 .item-title{
     font-size: 1.25rem;
     border-width: 0px 38px;
-    border-image: url("/assets/images/civilopediatitle_copy.png");
+    border-image: url("./assets/images/civilopediatitle_copy.png");
     border-image-width: 32px 50px;
     border-image-slice: 18 30 fill;
     border-image-repeat: initial;
