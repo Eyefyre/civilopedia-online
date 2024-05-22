@@ -1,0 +1,2249 @@
+{
+    "cat_1": {
+        "label": "TXT_KEY_PEDIA_CATEGORY_1_LABEL",
+        "sections": {
+            "sec_1": {
+                "label": "TXT_KEY_PEDIA_CATEGORY_1_LABEL",
+                "items": {
+                    "item_1": "TXT_KEY_PEDIA_CATEGORY_1_LABEL",
+                    "item_2": "TXT_KEY_PEDIA_CATEGORY_2_LABEL",
+                    "item_3": "TXT_KEY_PEDIA_CATEGORY_3_LABEL",
+                    "item_4": "TXT_KEY_PEDIA_CATEGORY_4_LABEL",
+                    "item_5": "TXT_KEY_PEDIA_CATEGORY_5_LABEL",
+                    "item_6": "TXT_KEY_PEDIA_CATEGORY_6_LABEL",
+                    "item_7": "TXT_KEY_PEDIA_CATEGORY_7_LABEL",
+                    "item_8": "TXT_KEY_PEDIA_CATEGORY_8_LABEL",
+                    "item_9": "TXT_KEY_PEDIA_CATEGORY_9_LABEL",
+                    "item_10": "TXT_KEY_PEDIA_CATEGORY_10_LABEL",
+                    "item_11": "TXT_KEY_PEDIA_CATEGORY_11_LABEL",
+                    "item_12": "TXT_KEY_PEDIA_CATEGORY_12_LABEL",
+                    "item_13": "TXT_KEY_PEDIA_CATEGORY_13_LABEL",
+                    "item_14": "TXT_KEY_PEDIA_CATEGORY_14_LABEL",
+                    "item_15": "TXT_KEY_PEDIA_CATEGORY_15_LABEL",
+                    "item_16": "TXT_KEY_PEDIA_CATEGORY_16_LABEL"
+                }
+            }
+        }
+    },
+    "cat_2": {
+        "label": "TXT_KEY_PEDIA_CATEGORY_2_LABEL",
+        "sections": {
+            "sec_2": {
+                "label": "TXT_KEY_PEDIA_GAME_CONCEPT_PAGE_LABEL",
+                "items": {
+                    "item_17": "TXT_KEY_PEDIA_GAME_CONCEPT_PAGE_LABEL"
+                }
+            },
+            "sec_3": {
+                "label": "TXT_KEY_GAME_CONCEPT_SECTION_1",
+                "items": {
+                    "item_18": "TXT_KEY_CITIES_HEADING1_TITLE",
+                    "item_19": "TXT_KEY_CITIES_HOWTOBUILD_HEADING2_TITLE",
+                    "item_20": "TXT_KEY_CITIES_WHERETOCONSTRUCT_HEADING2_TITLE",
+                    "item_21": "TXT_KEY_CITIES_CITYBANNER_HEADING2_TITLE",
+                    "item_22": "TXT_KEY_CITIES_CITYSCREEN_HEADING2_TITLE",
+                    "item_23": "TXT_KEY_CITIES_COMBATUNITS_HEADING3_TITLE",
+                    "item_24": "TXT_KEY_CITIES_CONSTRUCTIONINCITIES_HEADING2_TITLE",
+                    "item_25": "TXT_KEY_CITIES_CITYBUILD_HEADING3_TITLE",
+                    "item_26": "TXT_KEY_CITIES_CHANGINGCONSTRUCTION_HEADING3_TITLE",
+                    "item_27": "TXT_KEY_CITIES_PURCHASINGITEM_HEADING3_TITLE",
+                    "item_28": "TXT_KEY_CITIES_CONSTRUCTINGUNITS_HEADING3_TITLE",
+                    "item_29": "TXT_KEY_CITIES_CONSTRUCTINGBUILDINGS_HEADING3_TITLE",
+                    "item_30": "TXT_KEY_CITIES_CONSTRUCTINGWONDERS_HEADING3_TITLE",
+                    "item_31": "TXT_KEY_CITIES_WORKINGLAND_HEADING2_TITLE",
+                    "item_32": "TXT_KEY_CITIES_ASSIGNINGCITIZENS_HEADING3_TITLE",
+                    "item_33": "TXT_KEY_CITIES_IMPROVINGLAND_HEADING3_TITLE",
+                    "item_34": "TXT_KEY_CITIES_SPECIALISTS_HEADING2_TITLE",
+                    "item_35": "TXT_KEY_CITIES_SPECIALISTSNOTWORKINGFIELDS_HEADING3_TITLE",
+                    "item_36": "TXT_KEY_CITIES_BENEFITSSPECIALISTS_HEADING3_TITLE",
+                    "item_37": "TXT_KEY_CITIES_UNEMPLOYEDCITIZENS_HEADING3_TITLE",
+                    "item_38": "TXT_KEY_CITIES_CITYCOMBAT_HEADING2_TITLE",
+                    "item_39": "TXT_KEY_CITIES_ATTACKINGCITY_HEADING3_TITLE",
+                    "item_40": "TXT_KEY_CITIES_ATTACKINGRANGEDUNITS_HEADING3_TITLE",
+                    "item_41": "TXT_KEY_CITIES_DEFENDINGCITY_HEADING2_TITLE",
+                    "item_42": "TXT_KEY_CITIES_CONQUERINGCITY_HEADING2_TITLE",
+                    "item_43": "TXT_KEY_CITIES_DESTROYINGCITY_HEADING3_TITLE",
+                    "item_44": "TXT_KEY_CITIES_INDESTRUCTIBLECITY_HEADING3_TITLE",
+                    "item_45": "TXT_KEY_CITIES_ANNEXINGCITY_HEADING3_TITLE",
+                    "item_46": "TXT_KEY_CITIES_MAKINGCITYPUPPET_HEADING3_TITLE",
+                    "item_47": "TXT_KEY_PEDIA_CATEGORY_6_LABEL",
+                    "item_48": "TXT_KEY_BUILDINGS_HOWTOCONSTRUCT_HEADING2_TITLE",
+                    "item_49": "TXT_KEY_BUILDINGS_PURCHASING_HEADING3_TITLE",
+                    "item_50": "TXT_KEY_BUILDINGS_PREREQUISITES_HEADING2_TITLE",
+                    "item_51": "TXT_KEY_BUILDINGS_MAINTENANCE_HEADING2_TITLE",
+                    "item_52": "TXT_KEY_BUILDINGS_PALACE_HEADING2_TITLE",
+                    "item_53": "TXT_KEY_BUILDINGS_CAPTUREDCITIES_HEADING2_TITLE"
+                }
+            },
+            "sec_4": {
+                "label": "TXT_KEY_GAME_CONCEPT_SECTION_2",
+                "items": {
+                    "item_1110": "TXT_KEY_COMBAT_HEADING1_TITLE",
+                    "item_1111": "TXT_KEY_COMBAT_DECLAREWAR_HEADING2_TITLE",
+                    "item_1112": "TXT_KEY_COMBAT_DIPLODECLAREWAR_HEADING3_TITLE",
+                    "item_1113": "TXT_KEY_COMBAT_ATTACKUNIT_HEADING3_TITLE",
+                    "item_1114": "TXT_KEY_COMBAT_ENTERTERRITORY_HEADING3_TITLE",
+                    "item_1115": "TXT_KEY_COMBAT_RECEIVEWAR_HEADING3_TITLE",
+                    "item_1116": "TXT_KEY_COMBAT_ENDWAR_HEADING2_TITLE",
+                    "item_1117": "TXT_KEY_COMBAT_WHICHUNITSFIGHT_HEADING2_TITLE",
+                    "item_1118": "TXT_KEY_COMBAT_UNITCOMBATSTATS_HEADING2_TITLE",
+                    "item_1119": "TXT_KEY_COMBAT_RANGEDSTRENGTH_HEADING3_TITLE",
+                    "item_1120": "TXT_KEY_COMBAT_RANGESTAT_HEADING3_TITLE",
+                    "item_1121": "TXT_KEY_COMBAT_COMBATSTRENGTH_HEADING3_TITLE",
+                    "item_1122": "TXT_KEY_COMBAT_HITPOINTS_HEADING3_TITLE",
+                    "item_1123": "TXT_KEY_COMBAT_MELEE_HEADING2_TITLE",
+                    "item_1124": "TXT_KEY_COMBAT_MELEECOMBATSTRENGTH_HEADING3_TITLE",
+                    "item_1125": "TXT_KEY_COMBAT_MULTIPLECOMBAT_HEADING3_TITLE",
+                    "item_1126": "TXT_KEY_COMBAT_COMBATTABLE_HEADING3_TITLE",
+                    "item_1127": "TXT_KEY_COMBAT_INITIATINGMELEE_HEADING3_TITLE",
+                    "item_1128": "TXT_KEY_COMBAT_MELEERESULTS_HEADING3_TITLE",
+                    "item_1129": "TXT_KEY_COMBAT_RANGED_HEADING2_TITLE",
+                    "item_1130": "TXT_KEY_COMBAT_RANGECOMBATSTRENGTH_HEADING3_TITLE",
+                    "item_1131": "TXT_KEY_COMBAT_RANGE_HEADING3_TITLE",
+                    "item_1132": "TXT_KEY_COMBAT_LINEOFSIGHT_HEADING3_TITLE",
+                    "item_1133": "TXT_KEY_COMBAT_INITIATINGRANGE_HEADING3_TITLE",
+                    "item_1134": "TXT_KEY_COMBAT_COMBATRESULTS_HEADING3_TITLE",
+                    "item_1135": "TXT_KEY_COMBAT_COMBATBONUS_HEADING2_TITLE",
+                    "item_1136": "TXT_KEY_COMBAT_TERRAINBONUS_HEADING3_TITLE",
+                    "item_1137": "TXT_KEY_COMBAT_FORT_HEADING3_TITLE",
+                    "item_1138": "TXT_KEY_COMBAT_FORTIFICATION_HEADING3_TITLE",
+                    "item_1139": "TXT_KEY_COMBAT_FORTIFY_HEADING4_TITLE",
+                    "item_1140": "TXT_KEY_COMBAT_FORTIFICATIONBONUS_HEADING4_TITLE",
+                    "item_1141": "TXT_KEY_COMBAT_ALERTORDER_HEADING4_TITLE",
+                    "item_1142": "TXT_KEY_COMBAT_NAVAL_HEADING2_TITLE",
+                    "item_1143": "TXT_KEY_COMBAT_CITY_HEADING2_TITLE",
+                    "item_1144": "TXT_KEY_COMBAT_CITYHITPOINTS_HEADING4_TITLE",
+                    "item_1145": "TXT_KEY_COMBAT_ATTACKWITHRANGEDUNITS_HEADING3_TITLE",
+                    "item_1146": "TXT_KEY_COMBAT_ATTACKWITHMELEECOMBAT_HEADING3_TITLE",
+                    "item_1147": "TXT_KEY_COMBAT_GARRISONINCITIES_HEADING3_TITLE",
+                    "item_1148": "TXT_KEY_COMBAT_CITYFIRINGATTACKERS_HEADING3_TITLE",
+                    "item_1149": "TXT_KEY_COMBAT_CAPTURINGCITIES_HEADING3_TITLE",
+                    "item_1150": "TXT_KEY_COMBAT_SPECIALCITYCAPTURE_HEADING4_TITLE",
+                    "item_1151": "TXT_KEY_COMBAT_SEIGEWEAPONS_HEADING2_TITLE",
+                    "item_1152": "TXT_KEY_COMBAT_GREATGENERALS_HEADING2_TITLE",
+                    "item_1153": "TXT_KEY_COMBAT_COMBATDAMAGE_HEADING2_TITLE",
+                    "item_1154": "TXT_KEY_COMBAT_HEALTINGDAMAGE_HEADING3_TITLE",
+                    "item_1155": "TXT_KEY_COMBAT_NAVALDAMAGE_HEADING3_TITLE",
+                    "item_1156": "TXT_KEY_COMBAT_FORITFYBUTTON_HEADING3_TITLE",
+                    "item_1157": "TXT_KEY_COMBAT_EXPERIENCEPOINTS_HEADING2_TITLE",
+                    "item_1158": "TXT_KEY_COMBAT_ACQUIRINGXP_HEADING3_TITLE",
+                    "item_1159": "TXT_KEY_COMBAT_METHODSOFXP_HEADING3_TITLE",
+                    "item_1160": "TXT_KEY_COMBAT_EXPENDING_HEADING3_TITLE",
+                    "item_1161": "TXT_KEY_COMBAT_PROMOTIONSLIST_HEADING3_TITLE"
+                }
+            },
+            "sec_5": {
+                "label": "TXT_KEY_GAME_CONCEPT_SECTION_3",
+                "items": {
+                    "item_1162": "TXT_KEY_TERRAIN_HEADING1_TITLE",
+                    "item_1163": "TXT_KEY_TERRAIN_RESOURCES_HEADING2_TITLE",
+                    "item_1164": "TXT_KEY_TERRAIN_TABLES_HEADING2_TITLE",
+                    "item_1165": "TXT_KEY_TERRAIN_TYPES_HEADING2_TITLE",
+                    "item_1166": "TXT_KEY_TERRAIN_EXPLAINVALUES_HEADING3_TITLE",
+                    "item_1167": "TXT_KEY_TERRAIN_COAST_HEADING3_TITLE",
+                    "item_1168": "TXT_KEY_TERRAIN_DESERT_HEADING3_TITLE",
+                    "item_1169": "TXT_KEY_TERRAIN_GRASSLAND_HEADING3_TITLE",
+                    "item_1170": "TXT_KEY_TERRAIN_HILLS_HEADING3_TITLE",
+                    "item_1171": "TXT_KEY_TERRAIN_MOUNTAIN_HEADING3_TITLE",
+                    "item_1172": "TXT_KEY_TERRAIN_OCEAN_HEADING3_TITLE",
+                    "item_1173": "TXT_KEY_TERRAIN_PLAINS_HEADING3_TITLE",
+                    "item_1174": "TXT_KEY_TERRAIN_SNOW_HEADING3_TITLE",
+                    "item_1175": "TXT_KEY_TERRAIN_TUNDRA_HEADING3_TITLE",
+                    "item_1176": "TXT_KEY_TERRAIN_FEATURES_HEADING2_TITLE",
+                    "item_1177": "TXT_KEY_TERRAIN_FEATUREVALUES_HEADING3_TITLE",
+                    "item_1178": "TXT_KEY_TERRAIN_FALLOUT_HEADING3_TITLE",
+                    "item_1179": "TXT_KEY_TERRAIN_FLOODPLAINS_HEADING3_TITLE",
+                    "item_1180": "TXT_KEY_TERRAIN_FOREST_HEADING3_TITLE",
+                    "item_1181": "TXT_KEY_TERRAIN_ICE_HEADING3_TITLE",
+                    "item_1182": "TXT_KEY_TERRAIN_JUNGLE_HEADING3_TITLE",
+                    "item_1183": "TXT_KEY_TERRAIN_MARSH_HEADING3_TITLE",
+                    "item_1184": "TXT_KEY_TERRAIN_NATURALWONDERS_HEADING3_TITLE",
+                    "item_1185": "TXT_KEY_TERRAIN_OASIS_HEADING3_TITLE",
+                    "item_1186": "TXT_KEY_TERRAIN_RIVERS_HEADING2_TITLE",
+                    "item_1187": "TXT_KEY_TERRAIN_RIVERLOCATIONS_HEADING3_TITLE",
+                    "item_1188": "TXT_KEY_TERRAIN_CITYYIELDMODIFIER_HEADING3_TITLE",
+                    "item_1189": "TXT_KEY_TERRAIN_OFFENSIVEPENALTY_HEADING3_TITLE",
+                    "item_1190": "TXT_KEY_TERRAIN_MOVEMENTEFFECT_HEADING3_TITLE"
+                }
+            },
+            "sec_6": {
+                "label": "TXT_KEY_GAME_CONCEPT_SECTION_4",
+                "items": {
+                    "item_1191": "TXT_KEY_RESOURCES_HEADING1_TITLE",
+                    "item_1192": "TXT_KEY_RESOURCES_BONUS_HEADING2_TITLE",
+                    "item_1193": "TXT_KEY_RESOURCES_LUXURY_HEADING2_TITLE",
+                    "item_1194": "TXT_KEY_RESOURCES_CITYREQUESTS_HEADING3_TITLE",
+                    "item_1195": "TXT_KEY_RESOURCES_STRATEGIC_HEADING2_TITLE"
+                }
+            },
+            "sec_7": {
+                "label": "TXT_KEY_GAME_CONCEPT_SECTION_5",
+                "items": {
+                    "item_1196": "TXT_KEY_WORKERS_HEADING1_TITLE",
+                    "item_1197": "TXT_KEY_WORKERS_CREATING_HEADING2_TITLE",
+                    "item_1198": "TXT_KEY_WORKERS_COMBAT_HEADING2_TITLE",
+                    "item_1199": "TXT_KEY_WORKERS_ACTIONPANEL_HEADING2_TITLE",
+                    "item_1200": "TXT_KEY_WORKERS_CLEARINGLAND_HEADING2_TITLE",
+                    "item_1201": "TXT_KEY_WORKERS_TIMETOCLEARLAND_HEADING3_TITLE",
+                    "item_1202": "TXT_KEY_WORKERS_BUILDINGROADS_HEADING2_TITLE",
+                    "item_1203": "TXT_KEY_WORKERS_CONSTRUCTROAD_HEADING3_TITLE",
+                    "item_1204": "TXT_KEY_WORKERS_TRADEROUTES_HEADING3_TITLE",
+                    "item_1205": "TXT_KEY_WORKERS_IMPROVEMENTS_HEADING2_TITLE",
+                    "item_1206": "TXT_KEY_WORKERS_WHERETOCONSTRUCT_HEADING3_TITLE",
+                    "item_1207": "TXT_KEY_WORKERS_DURATIONTOCONSTRUCT_HEADING3_TITLE",
+                    "item_1208": "TXT_KEY_WORKERS_TIMELEFT_HEADING3_TITLE",
+                    "item_1209": "TXT_KEY_WORKERS_LEAVINGANDRESUMING_HEADING3_TITLE",
+                    "item_1210": "TXT_KEY_WORKERS_FARM_HEADING3_TITLE",
+                    "item_1211": "TXT_KEY_WORKERS_MINE_HEADING3_TITLE",
+                    "item_1212": "TXT_KEY_WORKERS_SPECIALFORT_HEADING3_TITLE",
+                    "item_1213": "TXT_KEY_WORKERS_WORKBOATS_HEADING2_TITLE",
+                    "item_1214": "TXT_KEY_WORKERS_PILLAGINGROADS_HEADING2_TITLE",
+                    "item_1215": "TXT_KEY_WORKERS_REPAIRINGROADS_HEADING3_TITLE",
+                    "item_1216": "TXT_KEY_WORKERS_FISHINGBOATSOILPLATFORMS_HEADING3_TITLE",
+                    "item_1217": "TXT_KEY_WORKERS_GREATPEOPLE_HEADING2_TITLE"
+                }
+            },
+            "sec_8": {
+                "label": "TXT_KEY_GAME_CONCEPT_SECTION_6",
+                "items": {
+                    "item_1218": "TXT_KEY_FOOD_HEADING1_TITLE",
+                    "item_1219": "TXT_KEY_FOOD_CITIES_HEADING2_TITLE",
+                    "item_1220": "TXT_KEY_FOOD_GETFOOD_HEADING2_TITLE",
+                    "item_1221": "TXT_KEY_FOOD_BESTTILES_HEADING3_TITLE",
+                    "item_1222": "TXT_KEY_FOOD_BONUS_HEADING4_TITLE",
+                    "item_1223": "TXT_KEY_FOOD_OASIS_HEADING4_TITLE",
+                    "item_1224": "TXT_KEY_FOOD_FLOODPLAINS_HEADING4_TITLE",
+                    "item_1225": "TXT_KEY_FOOD_GRASSLAND_HEADING4_TITLE",
+                    "item_1226": "TXT_KEY_FOOD_IMPROVEMENTS_HEADING3_TITLE",
+                    "item_1227": "TXT_KEY_FOOD_BUILDINGWONDERSOCIAL_HEADING3_TITLE",
+                    "item_1228": "TXT_KEY_FOOD_MARITIME_HEADING3_TITLE",
+                    "item_1229": "TXT_KEY_FOOD_WELOVEKING_HEADING3_TITLE",
+                    "item_1230": "TXT_KEY_FOOD_UNHAPPINESS_HEADING3_TITLE",
+                    "item_1231": "TXT_KEY_FOOD_CITYGROWTH_HEADING2_TITLE",
+                    "item_1232": "TXT_KEY_FOOD_BUCKET_HEADING3_TITLE",
+                    "item_1233": "TXT_KEY_FOOD_SETTLERS_HEADING2_TITLE"
+                }
+            },
+            "sec_9": {
+                "label": "TXT_KEY_GAME_CONCEPT_SECTION_7",
+                "items": {
+                    "item_1234": "TXT_KEY_TECH_HEADING1_TITLE",
+                    "item_1235": "TXT_KEY_TECH_TECHANDBEAKERS_HEADING2_TITLE",
+                    "item_1236": "TXT_KEY_TECH_BEAKERS_HEADING2_TITLE",
+                    "item_1237": "TXT_KEY_TECH_INCREASINGBEAKERS_HEADING3_TITLE",
+                    "item_1238": "TXT_KEY_TECH_ANCIENTRUINS_HEADING4_TITLE",
+                    "item_1239": "TXT_KEY_TECH_TRADE_HEADING4_TITLE",
+                    "item_1240": "TXT_KEY_TECH_BUILDINGS_HEADING4_TITLE",
+                    "item_1241": "TXT_KEY_TECH_WONDERS_HEADING4_TITLE",
+                    "item_1242": "TXT_KEY_TECH_GREATSCIENTIST_HEADING4_TITLE",
+                    "item_1243": "TXT_KEY_TECH_RATIONALISM_HEADING4_TITLE",
+                    "item_1244": "TXT_KEY_TECH_CHOOSINGTECH_HEADING2_TITLE",
+                    "item_1245": "TXT_KEY_TECH_CHOOSERESEARCH_HEADING3_TITLE",
+                    "item_1246": "TXT_KEY_TECH_CHANGERESEARCH_HEADING3_TITLE",
+                    "item_1247": "TXT_KEY_TECH_AVAILABLETECH_HEADING2_TITLE",
+                    "item_1248": "TXT_KEY_TECH_TECHTREE_HEADING2_TITLE"
+                }
+            },
+            "sec_10": {
+                "label": "TXT_KEY_GAME_CONCEPT_SECTION_8",
+                "items": {
+                    "item_1249": "TXT_KEY_CULTURE_HEADING1_TITLE",
+                    "item_1250": "TXT_KEY_CULTURE_GETTING_HEADING2_TITLE",
+                    "item_1251": "TXT_KEY_CULTURE_EXPANDTERRITORY_HEADING2_TITLE",
+                    "item_1252": "TXT_KEY_CULTURE_ACQUIRESOCIALPOLICY_HEADING2_TITLE",
+                    "item_1253": "TXT_KEY_CULTURE_VICTORY_HEADING2_TITLE",
+                    "item_1254": "TXT_KEY_CULTURE_TOURISM_HEADING2_TITLE",
+                    "item_1255": "TXT_KEY_CULTURE_TOURISM_AND_CULTURE_HEADING2_TITLE",
+                    "item_1256": "TXT_KEY_CULTURE_TOURISM_BENEFITS_HEADING2_TITLE",
+                    "item_1257": "TXT_KEY_CULTURE_GREAT_WORKS_HEADING2_TITLE",
+                    "item_1258": "TXT_KEY_CULTURE_GREAT_WORK_ART_HEADING2_TITLE",
+                    "item_1259": "TXT_KEY_CULTURE_GREAT_WORK_WRITING_HEADING2_TITLE",
+                    "item_1260": "TXT_KEY_CULTURE_GREAT_WORK_MUSIC_HEADING2_TITLE",
+                    "item_1261": "TXT_KEY_CULTURE_MANAGE_GREAT_WORKS_HEADING2_TITLE",
+                    "item_1262": "TXT_KEY_CULTURE_ARCH_HEADING2_TITLE",
+                    "item_1263": "TXT_KEY_CULTURE_ANTIQUITY_HEADING2_TITLE",
+                    "item_1264": "TXT_KEY_CULTURE_ARTIFACTS_HEADING2_TITLE"
+                }
+            },
+            "sec_11": {
+                "label": "TXT_KEY_GAME_CONCEPT_SECTION_9",
+                "items": {
+                    "item_1265": "TXT_KEY_DIPLOMACY_HEADING1_TITLE",
+                    "item_1266": "TXT_KEY_DIPLOMACY_WHOCANCONDUCT_HEADING2_TITLE",
+                    "item_1267": "TXT_KEY_DIPLOMACY_INITIATING_HEADING2_TITLE",
+                    "item_1268": "TXT_KEY_DIPLOMACY_WITHCIVS_HEADING2_TITLE",
+                    "item_1269": "TXT_KEY_DIPLOMACY_DECLAREWAR_HEADING3_TITLE",
+                    "item_1270": "TXT_KEY_DIPLOMACY_PEACE_HEADING3_TITLE",
+                    "item_1271": "TXT_KEY_DIPLOMACY_TRADE_HEADING3_TITLE",
+                    "item_1272": "TXT_KEY_DIPLOMACY_DEMAND_HEADING3_TITLE",
+                    "item_1273": "TXT_KEY_DIPLOMACY_DISCUSS_HEADING3_TITLE",
+                    "item_1274": "TXT_KEY_DIPLOMACY_DENOUNCE_HEADING3_TITLE",
+                    "item_1275": "TXT_KEY_DIPLOMACY_FRIENDSHIP_HEADING3_TITLE",
+                    "item_1276": "TXT_KEY_DIPLOMACY_EXIT_HEADING3_TITLE",
+                    "item_1277": "TXT_KEY_DIPLOMACY_TRADESCREEN_HEADING2_TITLE",
+                    "item_1278": "TXT_KEY_DIPLOMACY_OPENBORDERS_HEADING3_TITLE",
+                    "item_1279": "TXT_KEY_DIPLOMACY_DEFENSIVEPACT_HEADING3_TITLE",
+                    "item_1280": "TXT_KEY_DIPLOMACY_RESEARCHAGREE_HEADING3_TITLE",
+                    "item_1281": "TXT_KEY_DIPLOMACY_TRADECITIES_HEADING3_TITLE",
+                    "item_1282": "TXT_KEY_DIPLOMACY_OTHERPLAYERS_HEADING3_TITLE",
+                    "item_1283": "TXT_KEY_DIPLOMACY_RESOURCES_HEADING3_TITLE",
+                    "item_1284": "TXT_KEY_DIPLOMACY_NEGOTIATING_HEADING2_TITLE",
+                    "item_1285": "TXT_KEY_DIPLOMACY_DECLARINGWAR_HEADING2_TITLE",
+                    "item_1286": "TXT_KEY_DIPLOMACY_NEGOTIATEPEACE_HEADING2_TITLE",
+                    "item_1287": "TXT_KEY_CONCEPT_DIPLOMACY_EMBASSY_TOPIC"
+                }
+            },
+            "sec_12": {
+                "label": "TXT_KEY_GAME_CONCEPT_SECTION_10",
+                "items": {
+                    "item_1288": "TXT_KEY_HAPPINESS_HEADING1_TITLE",
+                    "item_1289": "TXT_KEY_HAPPINESS_STARTING_HEADING2_TITLE",
+                    "item_1290": "TXT_KEY_HAPPINESS_CAUSESUNHAPPINESS_HEADING2_TITLE",
+                    "item_1291": "TXT_KEY_HAPPINESS_CAUSES_HEADING2_TITLE",
+                    "item_1292": "TXT_KEY_HAPPINESS_LEVELSUNHAPPINESS_HEADING2_TITLE",
+                    "item_1293": "TXT_KEY_HAPPINESS_UNHAPPY_HEADING3_TITLE",
+                    "item_1294": "TXT_KEY_HAPPINESS_VERYUNHAPPY_HEADING3_TITLE",
+                    "item_1295": "TXT_KEY_HAPPINESS_REVOLT_HEADING3_TITLE"
+                }
+            },
+            "sec_13": {
+                "label": "TXT_KEY_GAME_CONCEPT_SECTION_11",
+                "items": {
+                    "item_1296": "TXT_KEY_FOGOFWAR_HEADING1_TITLE",
+                    "item_1297": "TXT_KEY_FOGOFWAR_THREESTATES_HEADING2_TITLE",
+                    "item_1298": "TXT_KEY_FOGOFWAR_VISIBLE_HEADING3_TITLE",
+                    "item_1299": "TXT_KEY_FOGOFWAR_REVEALED_HEADING3_TITLE",
+                    "item_1300": "TXT_KEY_FOGOFWAR_FOG_HEADING3_TITLE",
+                    "item_1301": "TXT_KEY_FOGOFWAR_SEEN_HEADING2_TITLE",
+                    "item_1302": "TXT_KEY_FOGOFWAR_OBSCURINGTERRAIN_HEADING2_TITLE",
+                    "item_1303": "TXT_KEY_FOGOFWAR_INDIRECTFIRE_HEADING2_TITLE"
+                }
+            },
+            "sec_14": {
+                "label": "TXT_KEY_GAME_CONCEPT_SECTION_12",
+                "items": {
+                    "item_1304": "TXT_KEY_SOCIALPOLICY_HEADING1_TITLE",
+                    "item_1305": "TXT_KEY_SOCIALPOLICY_GAINING_HEADING2_TITLE",
+                    "item_1306": "TXT_KEY_SOCIALPOLICY_BRANCHES_HEADING2_TITLE",
+                    "item_1307": "TXT_KEY_SOCIALPOLICY_TRADITION_HEADING3_TITLE",
+                    "item_1308": "TXT_KEY_SOCIALPOLICY_LIBERTY_HEADING3_TITLE",
+                    "item_1309": "TXT_KEY_SOCIALPOLICY_HONOR_HEADING3_TITLE",
+                    "item_1310": "TXT_KEY_SOCIALPOLICY_PIETY_HEADING3_TITLE",
+                    "item_1311": "TXT_KEY_SOCIALPOLICY_PATRONAGE_HEADING3_TITLE",
+                    "item_1312": "TXT_KEY_SOCIALPOLICY_AESTHETICS_HEADING3_TITLE",
+                    "item_1313": "TXT_KEY_SOCIALPOLICY_COMMERCE_HEADING3_TITLE",
+                    "item_1314": "TXT_KEY_SOCIALPOLICY_EXPLORATION_HEADING3_TITLE",
+                    "item_1315": "TXT_KEY_SOCIALPOLICY_RATIONALISM_HEADING3_TITLE",
+                    "item_1316": "TXT_KEY_SOCIALPOLICY_IDEOLOGY_HEADING3_TITLE",
+                    "item_1317": "TXT_KEY_SOCIALPOLICY_FREEDOM_HEADING3_TITLE",
+                    "item_1318": "TXT_KEY_SOCIALPOLICY_ORDER_HEADING3_TITLE",
+                    "item_1319": "TXT_KEY_SOCIALPOLICY_AUTOCRACY_HEADING3_TITLE",
+                    "item_1320": "TXT_KEY_SOCIALPOLICY_CULTUREVICTORY_HEADING2_TITLE"
+                }
+            },
+            "sec_15": {
+                "label": "TXT_KEY_GAME_CONCEPT_SECTION_13",
+                "items": {
+                    "item_1321": "TXT_KEY_GOLD_HEADING1_TITLE",
+                    "item_1322": "TXT_KEY_GOLD_WHERETOGET_HEADING2_TITLE",
+                    "item_1323": "TXT_KEY_GOLD_TERRAIN_HEADING3_TITLE",
+                    "item_1324": "TXT_KEY_GOLD_RESOURCES_HEADING3_TITLE",
+                    "item_1325": "TXT_KEY_GOLD_TRADINGPOST_HEADING3_TITLE",
+                    "item_1326": "TXT_KEY_GOLD_BUILDINGS_HEADING3_TITLE",
+                    "item_1327": "TXT_KEY_GOLD_WONDERS_HEADING3_TITLE",
+                    "item_1328": "TXT_KEY_GOLD_TRADE_ROUTES_HEADING3_TITLE",
+                    "item_1329": "TXT_KEY_GOLD_TRADE_ROUTES_BLOCKADE_HEADING4_TITLE",
+                    "item_1330": "TXT_KEY_GOLD_BARBARIAN_HEADING3_TITLE",
+                    "item_1331": "TXT_KEY_GOLD_ANCIENTRUINS_HEADING3_TITLE",
+                    "item_1332": "TXT_KEY_GOLD_CITYSTATES_HEADING3_TITLE",
+                    "item_1333": "TXT_KEY_GOLD_PILLAGE_HEADING3_TITLE",
+                    "item_1334": "TXT_KEY_GOLD_CAPTURE_HEADING3_TITLE",
+                    "item_1335": "TXT_KEY_GOLD_DIPLOMACY_HEADING3_TITLE",
+                    "item_1336": "TXT_KEY_GOLD_TRADEMISSION_HEADING3_TITLE",
+                    "item_1337": "TXT_KEY_GOLD_EXPENDING_HEADING2_TITLE",
+                    "item_1338": "TXT_KEY_GOLD_MAINTENANCE_HEADING3_TITLE",
+                    "item_1339": "TXT_KEY_GOLD_ROAD_HEADING3_TITLE",
+                    "item_1340": "TXT_KEY_GOLD_PURCHASETILES_HEADING3_TITLE",
+                    "item_1341": "TXT_KEY_GOLD_PURCHASEUNITS_HEADING3_TITLE",
+                    "item_1342": "TXT_KEY_GOLD_BUYFRIENDSHIP_HEADING3_TITLE",
+                    "item_1343": "TXT_KEY_GOLD_UPGRADE_UNITS_HEADING3_TITLE",
+                    "item_1344": "TXT_KEY_GOLD_EXPENDING_DIPLOMACY_HEADING3_TITLE",
+                    "item_1345": "TXT_KEY_GOLD_FLATFEE_HEADING4_TITLE",
+                    "item_1346": "TXT_KEY_GOLD_PERTURN_HEADING4_TITLE",
+                    "item_1347": "TXT_KEY_GOLD_PLUNDERED_HEADING3_TITLE",
+                    "item_1348": "TXT_KEY_GOLD_LOSECITY_HEADING3_TITLE",
+                    "item_1349": "TXT_KEY_GOLD_RUNNINGOUT_HEADING2_TITLE"
+                }
+            },
+            "sec_16": {
+                "label": "TXT_KEY_GAME_CONCEPT_SECTION_14",
+                "items": {
+                    "item_1350": "TXT_KEY_ADVISORS_HEADING1_TITLE",
+                    "item_1351": "TXT_KEY_ADVISORS_ECONOMIC_HEADING3_TITLE",
+                    "item_1352": "TXT_KEY_ADVISORS_MILITARY_HEADING3_TITLE",
+                    "item_1353": "TXT_KEY_ADVISORS_FOREIGN_HEADING3_TITLE",
+                    "item_1354": "TXT_KEY_ADVISORS_SCIENCE_HEADING3_TITLE",
+                    "item_1355": "TXT_KEY_ADVISORS_CONTACTING_HEADING2_TITLE",
+                    "item_1356": "TXT_KEY_ADVISORS_TURNINGOFF_HEADING2_TITLE"
+                }
+            },
+            "sec_17": {
+                "label": "TXT_KEY_GAME_CONCEPT_SECTION_15",
+                "items": {
+                    "item_1357": "TXT_KEY_SPECIALISTSANDGP_HEADING1_TITLE",
+                    "item_1358": "TXT_KEY_BUILDINGS_SPECIALISTS_HEADING2_TITLE",
+                    "item_1359": "TXT_KEY_SPECIALISTSANDGP_SPECIALISTS_HEADING2_TITLE",
+                    "item_1360": "TXT_KEY_SPECIALISTSANDGP_ARTIST_HEADING3_TITLE",
+                    "item_1393": "TXT_KEY_SPECIALISTSANDGP_WRITER_TITLE",
+                    "item_1394": "TXT_KEY_SPECIALISTSANDGP_MUSICIAN_TITLE",
+                    "item_1361": "TXT_KEY_SPECIALISTSANDGP_ENGINEER_HEADING3_TITLE",
+                    "item_1362": "TXT_KEY_SPECIALISTSANDGP_MERCHANT_HEADING3_TITLE",
+                    "item_1363": "TXT_KEY_SPECIALISTSANDGP_SCIENTIST_HEADING3_TITLE",
+                    "item_1364": "TXT_KEY_SPECIALISTSANDGP_ASSIGNING_HEADING3_TITLE",
+                    "item_1365": "TXT_KEY_SPECIALISTSANDGP_EFFECTSOFASSIGNING_HEADING3_TITLE",
+                    "item_1366": "TXT_KEY_SPECIALISTSANDGP_GREATPEOPLE_HEADING2_TITLE",
+                    "item_1367": "TXT_KEY_SPECIALISTSANDGP_GENERATING_HEADING3_TITLE",
+                    "item_1368": "TXT_KEY_SPECIALISTSANDGP_ABILITIES_HEADING3_TITLE",
+                    "item_1369": "TXT_KEY_SPECIALISTSANDGP_SPECIALIMPROVEMENT_HEADING4_TITLE",
+                    "item_1370": "TXT_KEY_SPECIALISTSANDGP_SPECIALABILITY_HEADING4_TITLE",
+                    "item_1371": "TXT_KEY_SPECIALISTSANDGP_MOVINGGREATPEOPLE_HEADING2_TITLE",
+                    "item_1372": "TXT_KEY_SPECIALISTSANDGP_GREATARTIST_HEADING3_TITLE",
+                    "item_1373": "TXT_KEY_SPECIALISTSANDGP_LANDMARK_HEADING4_TITLE",
+                    "item_1374": "TXT_KEY_SPECIALISTSANDGP_CULTUREBOMB_HEADING4_TITLE",
+                    "item_1395": "TXT_KEY_SPECIALISTSANDGP_ART_CREATEGW_HEADING4_TITLE",
+                    "item_1396": "TXT_KEY_SPECIALISTSANDGP_GREATWRITER_HEADING3_TITLE",
+                    "item_1397": "TXT_KEY_SPECIALISTSANDGP_WRITER_CREATEGW_HEADING4_TITLE",
+                    "item_1398": "TXT_KEY_SPECIALISTSANDGP_TREATISE_HEADING4_TITLE",
+                    "item_1399": "TXT_KEY_SPECIALISTSANDGP_GREATMUSICIAN_HEADING3_TITLE",
+                    "item_1400": "TXT_KEY_SPECIALISTSANDGP_MUSICIAN_CREATEGW_HEADING4_TITLE",
+                    "item_1401": "TXT_KEY_SPECIALISTSANDGP_CONCERT_TOUR_HEADING4_TITLE",
+                    "item_1375": "TXT_KEY_SPECIALISTSANDGP_GREATENGINEER_HEADING3_TITLE",
+                    "item_1376": "TXT_KEY_SPECIALISTSANDGP_MANUFACTORY_HEADING4_TITLE",
+                    "item_1377": "TXT_KEY_SPECIALISTSANDGP_HURRYPRODUCTION_HEADING4_TITLE",
+                    "item_1378": "TXT_KEY_SPECIALISTSANDGP_GREATMERCHANT_HEADING3_TITLE",
+                    "item_1379": "TXT_KEY_SPECIALISTSANDGP_CUSTOMSHOUSE_HEADING4_TITLE",
+                    "item_1380": "TXT_KEY_SPECIALISTSANDGP_TRADEMISSION_HEADING4_TITLE",
+                    "item_1381": "TXT_KEY_SPECIALISTSANDGP_GREATSCIENTIST_HEADING3_TITLE",
+                    "item_1382": "TXT_KEY_SPECIALISTSANDGP_ACADEMY_HEADING4_TITLE",
+                    "item_1383": "TXT_KEY_SPECIALISTSANDGP_LEARNNEWTECH_HEADING4_TITLE",
+                    "item_1384": "TXT_KEY_SPECIALISTSANDGP_GREATGENERAL_HEADING3_TITLE",
+                    "item_1385": "TXT_KEY_SPECIALISTSANDGP_CITADEL_HEADING4_TITLE",
+                    "item_1386": "TXT_KEY_SPECIALISTSANDGP_COMBATBONUS_HEADING4_TITLE",
+                    "item_1387": "TXT_KEY_SPECIALISTSANDGP_GREATADMIRAL_TITLE",
+                    "item_1388": "TXT_KEY_SPECIALISTSANDGP_GREATADMIRAL_ABILITY_TITLE",
+                    "item_1389": "TXT_KEY_SPECIALISTSANDGP_GREATADMIRAL_ABILITY2_TITLE",
+                    "item_1390": "TXT_KEY_SPECIALISTSANDGP_GREATPROPHET_TITLE",
+                    "item_1391": "TXT_KEY_SPECIALISTSANDGP_GREATPROPHET_IMPROVEMENT_TITLE",
+                    "item_1392": "TXT_KEY_SPECIALISTSANDGP_GREATPROPHET_ABILITY_TITLE"
+                }
+            },
+            "sec_18": {
+                "label": "TXT_KEY_GAME_CONCEPT_SECTION_16",
+                "items": {
+                    "item_1402": "TXT_KEY_CITYSTATE_HEADING1_TITLE",
+                    "item_1403": "TXT_KEY_CITYSTATE_TYPES_HEADING2_TITLE",
+                    "item_1404": "TXT_KEY_CITYSTATE_CULTURED_HEADING3_TITLE",
+                    "item_1405": "TXT_KEY_CITYSTATE_MARITIME_HEADING3_TITLE",
+                    "item_1422": "TXT_KEY_CITY_STATE_MERCANTILE_ADJECTIVE",
+                    "item_1423": "TXT_KEY_CITY_STATE_RELIGIOUS_ADJECTIVE",
+                    "item_1406": "TXT_KEY_CITYSTATE_MILITARISTIC_HEADING3_TITLE",
+                    "item_1407": "TXT_KEY_CITYSTATE_COMMUNICATEWITH_HEADING2_TITLE",
+                    "item_1408": "TXT_KEY_CITYSTATE_INFLUENCE_HEADING2_TITLE",
+                    "item_1409": "TXT_KEY_CITYSTATE_GIVEGOLD_HEADING3_TITLE",
+                    "item_1410": "TXT_KEY_CITYSTATE_GIVEUNITS_HEADING3_TITLE",
+                    "item_1411": "TXT_KEY_CITYSTATE_DONOTHING_HEADING3_TITLE",
+                    "item_1412": "TXT_KEY_CITYSTATE_INFLUENCELEVELS_HEADING3_TITLE",
+                    "item_1413": "TXT_KEY_CITYSTATE_PERMANENTWAR_HEADING4_TITLE",
+                    "item_1414": "TXT_KEY_CITYSTATE_WAR_HEADING4_TITLE",
+                    "item_1415": "TXT_KEY_CITYSTATE_NEUTRAL_HEADING4_TITLE",
+                    "item_1416": "TXT_KEY_CITYSTATE_FRIENDS_HEADING4_TITLE",
+                    "item_1417": "TXT_KEY_CITYSTATE_ALLIES_HEADING4_TITLE",
+                    "item_1418": "TXT_KEY_CITYSTATE_MISSIONS_HEADING2_TITLE",
+                    "item_1419": "TXT_KEY_CITYSTATE_WAROFTHE_HEADING2_TITLE",
+                    "item_1420": "TXT_KEY_CITYSTATE_LIBERATING_HEADING2_TITLE",
+                    "item_1421": "TXT_KEY_CITYSTATE_DIPLOVICTORY_HEADING2_TITLE",
+                    "item_1424": "TXT_KEY_CONCEPT_CITY_STATE_BULLYING_TOPIC",
+                    "item_1425": "TXT_KEY_CONCEPT_CITY_STATE_SPREAD_RELIGION_TOPIC"
+                }
+            },
+            "sec_19": {
+                "label": "TXT_KEY_GAME_CONCEPT_SECTION_17",
+                "items": {
+                    "item_1426": "TXT_KEY_MOVEMENT_HEADING1_TITLE",
+                    "item_1427": "TXT_KEY_MOVEMENT_HOWTOORDER_HEADING2_TITLE",
+                    "item_1428": "TXT_KEY_MOVEMENT_RIGHTCLICK_HEADING3_TITLE",
+                    "item_1429": "TXT_KEY_MOVEMENT_MOVEMODE_HEADING3_TITLE",
+                    "item_1430": "TXT_KEY_MOVEMENT_LEGAL_HEADING3_TITLE",
+                    "item_1431": "TXT_KEY_MOVEMENT_ILLEGAL_HEADING2_TITLE",
+                    "item_1432": "TXT_KEY_MOVEMENT_MULTIPLETURN_HEADING2_TITLE",
+                    "item_1433": "TXT_KEY_MOVEMENT_POINTS_HEADING2_TITLE",
+                    "item_1434": "TXT_KEY_MOVEMENT_EXPENDINGPOINTS_HEADING3_TITLE",
+                    "item_1435": "TXT_KEY_MOVEMENT_RAILANDROADS_HEADING2_TITLE",
+                    "item_1436": "TXT_KEY_MOVEMENT_RIVERS_HEADING3_TITLE",
+                    "item_1437": "TXT_KEY_MOVEMENT_STACKINGLIMITS_HEADING3_TITLE",
+                    "item_1438": "TXT_KEY_MOVEMENT_COMBAT_HEADING2_TITLE",
+                    "item_1439": "TXT_KEY_MOVEMENT_ATTACKORDERS_HEADING3_TITLE",
+                    "item_1440": "TXT_KEY_MOVEMENT_CONTROLZONES_HEADING3_TITLE",
+                    "item_1441": "TXT_KEY_MOVEMENT_NAVAL_HEADING2_TITLE",
+                    "item_1442": "TXT_KEY_MOVEMENT_EMBARKING_HEADING3_TITLE"
+                }
+            },
+            "sec_20": {
+                "label": "TXT_KEY_GAME_CONCEPT_SECTION_18",
+                "items": {
+                    "item_1443": "TXT_KEY_AIRPOWER_HEADING1_TITLE",
+                    "item_1444": "TXT_KEY_AIRPOWER_AIRUNITS_HEADING2_TITLE",
+                    "item_1445": "TXT_KEY_AIRPOWER_HELIGUNSHIPS_HEADING2_TITLE",
+                    "item_1446": "TXT_KEY_AIRPOWER_MOVEMENT_HEADING3_TITLE",
+                    "item_1447": "TXT_KEY_AIRPOWER_ANTITANKBONUS_HEADING3_TITLE",
+                    "item_1448": "TXT_KEY_AIRPOWER_AIRBASES_HEADING2_TITLE",
+                    "item_1449": "TXT_KEY_AIRPOWER_BASELOCATIONS_HEADING3_TITLE",
+                    "item_1450": "TXT_KEY_AIRPOWER_FIGHTERS_HEADING4_TITLE",
+                    "item_1451": "TXT_KEY_AIRPOWER_BOMBERS_HEADING4_TITLE",
+                    "item_1452": "TXT_KEY_AIRPOWER_STEALTH_HEADING4_TITLE",
+                    "item_1453": "TXT_KEY_AIRPOWER_ATOMIC_HEADING4_TITLE",
+                    "item_1454": "TXT_KEY_AIRPOWER_ALLMISSILES_HEADING4_TITLE",
+                    "item_1455": "TXT_KEY_AIRPOWER_NAVALUNIT_HEADING3_TITLE",
+                    "item_1456": "TXT_KEY_AIRPOWER_CARRIER_HEADING4_TITLE",
+                    "item_1457": "TXT_KEY_AIRPOWER_CRUISER_HEADING4_TITLE",
+                    "item_1458": "TXT_KEY_AIRPOWER_NUCSUBMARINE_HEADING4_TITLE",
+                    "item_1459": "TXT_KEY_AIRPOWER_STACKING_HEADING3_TITLE",
+                    "item_1460": "TXT_KEY_AIRPOWER_AIRRANGE_HEADING2_TITLE",
+                    "item_1461": "TXT_KEY_AIRPOWER_RECON_HEADING2_TITLE",
+                    "item_1462": "TXT_KEY_AIRPOWER_MISSIONS_HEADING2_TITLE",
+                    "item_1463": "TXT_KEY_AIRPOWER_REBASE_HEADING3_TITLE",
+                    "item_1464": "TXT_KEY_AIRPOWER_AIRSTRIKE_HEADING3_TITLE",
+                    "item_1465": "TXT_KEY_AIRPOWER_AIRSWEEP_HEADING3_TITLE",
+                    "item_1466": "TXT_KEY_AIRPOWER_INTERCEPTION_HEADING3_TITLE",
+                    "item_1467": "TXT_KEY_AIRPOWER_AIRSTRIKES_HEADING2_TITLE",
+                    "item_1468": "TXT_KEY_AIRPOWER_INTERCEPTION_HEADING2_TITLE",
+                    "item_1469": "TXT_KEY_AIRPOWER_AIRSWEEPS_HEADING3_TITLE",
+                    "item_1470": "TXT_KEY_AIRPOWER_MISSILES_HEADING2_TITLE",
+                    "item_1471": "TXT_KEY_AIRPOWER_ATOMICBOMBS_HEADING2_TITLE",
+                    "item_1472": "TXT_KEY_AIRPOWER_NUCMISSILES_HEADING2_TITLE"
+                }
+            },
+            "sec_21": {
+                "label": "TXT_KEY_GAME_CONCEPT_SECTION_19",
+                "items": {
+                    "item_1473": "TXT_KEY_BARBARIAN_HEADING1_TITLE",
+                    "item_1474": "TXT_KEY_BARBARIAN_ANCIENTRUINS_HEADING2_TITLE",
+                    "item_1475": "TXT_KEY_BARBARIAN_RUINBENEFITS_HEADING3_TITLE",
+                    "item_1476": "TXT_KEY_BARBARIAN_FREETECH_HEADING4_TITLE",
+                    "item_1477": "TXT_KEY_BARBARIAN_MAP_HEADING4_TITLE",
+                    "item_1478": "TXT_KEY_BARBARIAN_WEAPONS_HEADING4_TITLE",
+                    "item_1479": "TXT_KEY_BARBARIAN_SURVIVORS_HEADING4_TITLE",
+                    "item_1480": "TXT_KEY_BARBARIAN_TREASURE_HEADING4_TITLE",
+                    "item_1481": "TXT_KEY_BARBARIAN_CULTURE_HEADING4_TITLE",
+                    "item_1482": "TXT_KEY_BARBARIAN_WORKERS_HEADING4_TITLE",
+                    "item_1483": "TXT_KEY_BARBARIAN_BARBARIANS_HEADING2_TITLE",
+                    "item_1484": "TXT_KEY_BARBARIAN_ENCAMPMENTS_HEADING3_TITLE",
+                    "item_1485": "TXT_KEY_BARBARIAN_DESTROYING_HEADING4_TITLE",
+                    "item_1486": "TXT_KEY_BARBARIAN_NEWENCAMPMENTS_HEADING4_TITLE",
+                    "item_1487": "TXT_KEY_BARBARIAN_UNITS_HEADING2_TITLE",
+                    "item_1488": "TXT_KEY_BARBARIAN_NAVALUNITS_HEADING3_TITLE",
+                    "item_1489": "TXT_KEY_BARBARIAN_CAPTURED_HEADING3_TITLE",
+                    "item_1490": "TXT_KEY_BARBARIAN_POINTLIMITS_HEADING3_TITLE",
+                    "item_1491": "TXT_KEY_BARBARIAN_THEEND_HEADING2_TITLE"
+                }
+            },
+            "sec_22": {
+                "label": "TXT_KEY_GAME_CONCEPT_SECTION_20",
+                "items": {
+                    "item_1492": "TXT_KEY_UNITS_HEADING1_TITLE",
+                    "item_1493": "TXT_KEY_UNITS_CONSTRUCTING_HEADING2_TITLE",
+                    "item_1494": "TXT_KEY_UNITS_CHARACTERISTICS_HEADING2_TITLE",
+                    "item_1495": "TXT_KEY_UNITS_MOVESPEED_HEADING3_TITLE",
+                    "item_1496": "TXT_KEY_UNITS_COMBATSTRENGTH_HEADING3_TITLE",
+                    "item_1497": "TXT_KEY_UNITS_SPECIALABILITIES_HEADING2_TITLE",
+                    "item_1498": "TXT_KEY_UNITS_NATIONAL_HEADING2_TITLE",
+                    "item_1499": "TXT_KEY_UNITS_MOVEMENT_HEADING2_TITLE",
+                    "item_1500": "TXT_KEY_UNITS_UNITCOMBAT_HEADING2_TITLE",
+                    "item_1501": "TXT_KEY_UNITS_NONCOMBAT_HEADING2_TITLE",
+                    "item_1502": "TXT_KEY_UNITS_COMBATUNITS_HEADING2_TITLE",
+                    "item_1503": "TXT_KEY_UNITS_NAVAL_HEADING3_TITLE",
+                    "item_1504": "TXT_KEY_UNITS_AIR_HEADING3_TITLE"
+                }
+            },
+            "sec_23": {
+                "label": "TXT_KEY_GAME_CONCEPT_SECTION_21",
+                "items": {
+                    "item_1505": "TXT_KEY_TECH_TECHVICTORY_HEADING2_TITLE",
+                    "item_1506": "TXT_KEY_VICTORY_HEADING1_TITLE",
+                    "item_1507": "TXT_KEY_VICTORY_CITYSTATES_HEADING2_TITLE",
+                    "item_1508": "TXT_KEY_VICTORY_HOWTOLOSE_HEADING2_TITLE",
+                    "item_1509": "TXT_KEY_VICTORY_LOSINGCITY_HEADING3_TITLE",
+                    "item_1510": "TXT_KEY_VICTORY_ANOTHERCIVWINS_HEADING3_TITLE",
+                    "item_1511": "TXT_KEY_VICTORY_2050ARRIVES_HEADING3_TITLE",
+                    "item_1512": "TXT_KEY_VICTORY_HOWTOWIN_HEADING2_TITLE",
+                    "item_1513": "TXT_KEY_VICTORY_DOMINATION_HEADING3_TITLE",
+                    "item_1514": "TXT_KEY_VICTORY_DESTROYING_HEADING4_TITLE",
+                    "item_1515": "TXT_KEY_VICTORY_CAPITAL_HEADING4_TITLE",
+                    "item_1516": "TXT_KEY_VICTORY_SCIENCE_HEADING3_TITLE",
+                    "item_1517": "TXT_KEY_VICTORY_SPACESHIP_HEADING4_TITLE",
+                    "item_1518": "TXT_KEY_VICTORY_CULTURAL_HEADING3_TITLE",
+                    "item_1519": "TXT_KEY_VICTORY_DIPLOMATIC_HEADING3_TITLE",
+                    "item_1520": "TXT_KEY_VICTORY_WHOVOTES_HEADING4_TITLE",
+                    "item_1521": "TXT_KEY_VICTORY_LIBERATION_HEADING4_TITLE",
+                    "item_1522": "TXT_KEY_VICTORY_ENDOFTIME_HEADING2_TITLE",
+                    "item_1523": "TXT_KEY_VICTORY_VICTORYPOINTS_HEADING3_TITLE",
+                    "item_1524": "TXT_KEY_SCORE_HEADING1_TITLE",
+                    "item_1525": "TXT_KEY_SCORE_ELIMINATION_HEADING2_TITLE",
+                    "item_1526": "TXT_KEY_SCORE_TIMETOVICTORY_HEADING2_TITLE",
+                    "item_1527": "TXT_KEY_SCORE_VICTORYPOINTS_HEADING2_TITLE",
+                    "item_1528": "TXT_KEY_SCORE_MAPSIZE_HEADING3_TITLE",
+                    "item_1529": "TXT_KEY_SCORE_CURRENTSCORE_HEADING2_TITLE"
+                }
+            },
+            "sec_24": {
+                "label": "TXT_KEY_GAME_CONCEPT_SECTION_22",
+                "items": {
+                    "item_1530": "TXT_KEY_CONCEPT_ESPIONAGE_SPIES_TOPIC",
+                    "item_1531": "TXT_KEY_CONCEPT_ESPIONAGE_MOVING_SPIES_TOPIC",
+                    "item_1532": "TXT_KEY_CONCEPT_ESPIONAGE_MORE_TOPIC",
+                    "item_1541": "TXT_KEY_ADVISOR_ESPIONAGE_TECH_STOLEN_TOPIC",
+                    "item_1542": "TXT_KEY_ADVISOR_ESPIONAGE_CANT_STEAL_ANYMORE_TOPIC",
+                    "item_1533": "TXT_KEY_CONCEPT_ESPIONAGE_RIG_ELECTION_TOPIC",
+                    "item_1534": "TXT_KEY_CONCEPT_ESPIONAGE_SURVEILLANCE_TOPIC",
+                    "item_1535": "TXT_KEY_CONCEPT_ESPIONAGE_COUNTER_INTEL_TOPIC",
+                    "item_1536": "TXT_KEY_CONCEPT_ESPIONAGE_POLICE_STATION_TOPIC",
+                    "item_1537": "TXT_KEY_CONCEPT_ESPIONAGE_NATIONAL_INTELLIGENCE_TOPIC",
+                    "item_1538": "TXT_KEY_CONCEPT_ESPIONAGE_GREAT_FIREWALL_TOPIC",
+                    "item_1539": "TXT_KEY_CONCEPT_ESPIONAGE_PROMOTIONS_TOPIC",
+                    "item_1540": "TXT_KEY_CONCEPT_ESPIONAGE_GETTING_CAUGHT_TOPIC"
+                }
+            },
+            "sec_25": {
+                "label": "TXT_KEY_GAME_CONCEPT_SECTION_23",
+                "items": {
+                    "item_1543": "TXT_KEY_CONCEPT_RELIGION_FAITH_EARNING_TOPIC",
+                    "item_1544": "TXT_KEY_CONCEPT_RELIGION_PANTHEONS_TOPIC",
+                    "item_1545": "TXT_KEY_CONCEPT_RELIGION_BELIEFS_TOPIC",
+                    "item_1546": "TXT_KEY_CONCEPT_RELIGION_PANTHEON_BELIEFS_TOPIC",
+                    "item_1547": "TXT_KEY_CONCEPT_RELIGION_FOUNDER_TOPIC",
+                    "item_1548": "TXT_KEY_CONCEPT_RELIGION_FOLLOWER_TOPIC",
+                    "item_1549": "TXT_KEY_CONCEPT_RELIGION_ENHANCER_TOPIC",
+                    "item_1550": "TXT_KEY_CONCEPT_RELIGION_FAITH_SPENDING_TOPIC",
+                    "item_1551": "TXT_KEY_CONCEPT_RELIGION_FOUNDING_RELIGION_TOPIC",
+                    "item_1552": "TXT_KEY_CONCEPT_RELIGION_ENHANCING_RELIGION_TOPIC",
+                    "item_1553": "TXT_KEY_CONCEPT_RELIGION_SPREADING_RELIGION_TOPIC",
+                    "item_1554": "TXT_KEY_CONCEPT_RELIGION_BUILDINGS_TOPIC",
+                    "item_1555": "TXT_KEY_CONCEPT_RELIGION_UNITS_TOPIC",
+                    "item_1556": "TXT_KEY_CONCEPT_RELIGION_MAJORITY_TOPIC",
+                    "item_1557": "TXT_KEY_CONCEPT_RELIGION_DEFENDING_TOPIC",
+                    "item_1558": "TXT_KEY_CONCEPT_CITY_STATE_SPREAD_RELIGION_TOPIC"
+                }
+            },
+            "sec_26": {
+                "label": "TXT_KEY_GAME_CONCEPT_SECTION_24",
+                "items": {
+                    "item_1559": "TXT_KEY_TRADE_ROUTES_HEADING2_TITLE",
+                    "item_1560": "TXT_KEY_TRADE_CARAVAN_HEADING2_TITLE",
+                    "item_1561": "TXT_KEY_TRADE_CARGO_HEADING2_TITLE",
+                    "item_1562": "TXT_KEY_TRADE_EXTENDING_HEADING2_TITLE",
+                    "item_1563": "TXT_KEY_TRADE_BOOST_HEADING2_TITLE",
+                    "item_1564": "TXT_KEY_TRADE_WAR_HEADING2_TITLE",
+                    "item_1565": "TXT_KEY_TRADE_PILLAGE_HEADING2_TITLE",
+                    "item_1566": "TXT_KEY_TRADE_RELIGION_HEADING2_TITLE",
+                    "item_1567": "TXT_KEY_TRADE_SCIENCE_HEADING2_TITLE"
+                }
+            },
+            "sec_27": {
+                "label": "TXT_KEY_GAME_CONCEPT_SECTION_25",
+                "items": {
+                    "item_1576": "TXT_KEY_TOPIC_CONGRESS",
+                    "item_1568": "TXT_KEY_CONGRESS_SESSIONS_HEADING2_TITLE",
+                    "item_1569": "TXT_KEY_CONGRESS_RESOLUTIONS_HEADING2_TITLE",
+                    "item_1570": "TXT_KEY_CONGRESS_PROJECTS_HEADING2_TITLE",
+                    "item_1571": "TXT_KEY_CONGRESS_DELEGATES_HEADING2_TITLE",
+                    "item_1572": "TXT_KEY_CONGRESS_TRADING_HEADING2_TITLE",
+                    "item_1573": "TXT_KEY_CONGRESS_INTRIGUE_HEADING2_TITLE",
+                    "item_1574": "TXT_KEY_CONGRESS_UN_HEADING2_TITLE",
+                    "item_1575": "TXT_KEY_CONGRESS_VICTORY_HEADING2_TITLE"
+                }
+            }
+        }
+    },
+    "cat_3": {
+        "label": "TXT_KEY_PEDIA_CATEGORY_3_LABEL",
+        "sections": {
+            "sec_28": {
+                "label": "TXT_KEY_PEDIA_TECH_PAGE_LABEL",
+                "items": {
+                    "item_1028": "TXT_KEY_PEDIA_TECH_PAGE_LABEL"
+                }
+            },
+            "sec_29": {
+                "label": "TXT_KEY_ERA_0",
+                "items": {
+                    "item_1029": "TXT_KEY_TECH_AGRICULTURE_TITLE",
+                    "item_1030": "TXT_KEY_TECH_ANIMAL_HUSBANDRY_TITLE",
+                    "item_1031": "TXT_KEY_TECH_ARCHERY_TITLE",
+                    "item_1032": "TXT_KEY_TECH_BRONZE_WORKING_TITLE",
+                    "item_1033": "TXT_KEY_TECH_CALENDAR_TITLE",
+                    "item_1034": "TXT_KEY_TECH_MASONRY_TITLE",
+                    "item_1035": "TXT_KEY_TECH_MINING_TITLE",
+                    "item_1036": "TXT_KEY_TECH_POTTERY_TITLE",
+                    "item_1037": "TXT_KEY_TECH_SAILING_TITLE",
+                    "item_1038": "TXT_KEY_TECH_THE_WHEEL_TITLE",
+                    "item_1039": "TXT_KEY_TECH_TRAPPING_TITLE",
+                    "item_1040": "TXT_KEY_TECH_WRITING_TITLE"
+                }
+            },
+            "sec_30": {
+                "label": "TXT_KEY_ERA_1",
+                "items": {
+                    "item_1041": "TXT_KEY_TECH_CONSTRUCTION_TITLE",
+                    "item_1042": "TXT_KEY_TECH_CURRENCY_TITLE",
+                    "item_1043": "TXT_KEY_TECH_DRAMA_TITLE",
+                    "item_1044": "TXT_KEY_TECH_ENGINEERING_TITLE",
+                    "item_1045": "TXT_KEY_TECH_HORSEBACK_RIDING_TITLE",
+                    "item_1046": "TXT_KEY_TECH_IRON_WORKING_TITLE",
+                    "item_1047": "TXT_KEY_TECH_MATHEMATICS_TITLE",
+                    "item_1048": "TXT_KEY_TECH_OPTICS_TITLE",
+                    "item_1049": "TXT_KEY_TECH_PHILOSOPHY_TITLE"
+                }
+            },
+            "sec_31": {
+                "label": "TXT_KEY_ERA_2",
+                "items": {
+                    "item_1050": "TXT_KEY_TECH_CHIVALRY_TITLE",
+                    "item_1051": "TXT_KEY_TECH_CIVIL_SERVICE_TITLE",
+                    "item_1052": "TXT_KEY_TECH_COMPASS_TITLE",
+                    "item_1053": "TXT_KEY_TECH_EDUCATION_TITLE",
+                    "item_1054": "TXT_KEY_TECH_GUILDS_TITLE",
+                    "item_1055": "TXT_KEY_TECH_MACHINERY_TITLE",
+                    "item_1056": "TXT_KEY_TECH_METAL_CASTING_TITLE",
+                    "item_1057": "TXT_KEY_TECH_PHYSICS_TITLE",
+                    "item_1058": "TXT_KEY_TECH_STEEL_TITLE",
+                    "item_1059": "TXT_KEY_TECH_THEOLOGY_TITLE"
+                }
+            },
+            "sec_32": {
+                "label": "TXT_KEY_ERA_3",
+                "items": {
+                    "item_1060": "TXT_KEY_TECH_ACOUSTICS_TITLE",
+                    "item_1061": "TXT_KEY_TECH_ARCHITECTURE_TITLE",
+                    "item_1062": "TXT_KEY_TECH_ASTRONOMY_TITLE",
+                    "item_1063": "TXT_KEY_TECH_BANKING_TITLE",
+                    "item_1064": "TXT_KEY_TECH_CHEMISTRY_TITLE",
+                    "item_1065": "TXT_KEY_TECH_ECONOMICS_TITLE",
+                    "item_1066": "TXT_KEY_TECH_GUNPOWDER_TITLE",
+                    "item_1067": "TXT_KEY_TECH_METALLURGY_TITLE",
+                    "item_1068": "TXT_KEY_TECH_NAVIGATION_TITLE",
+                    "item_1069": "TXT_KEY_TECH_PRINTING_PRESS_TITLE"
+                }
+            },
+            "sec_33": {
+                "label": "TXT_KEY_ERA_4",
+                "items": {
+                    "item_1070": "TXT_KEY_TECH_ARCHAEOLOGY_TITLE",
+                    "item_1071": "TXT_KEY_TECH_BIOLOGY_TITLE",
+                    "item_1072": "TXT_KEY_TECH_DYNAMITE_TITLE",
+                    "item_1073": "TXT_KEY_TECH_ELECTRICITY_TITLE",
+                    "item_1074": "TXT_KEY_TECH_FERTILIZER_TITLE",
+                    "item_1075": "TXT_KEY_TECH_INDUSTRIALIZATION_TITLE",
+                    "item_1076": "TXT_KEY_TECH_MILITARY_SCIENCE_TITLE",
+                    "item_1077": "TXT_KEY_TECH_RIFLING_TITLE",
+                    "item_1078": "TXT_KEY_TECH_SCIENTIFIC_THEORY_TITLE",
+                    "item_1079": "TXT_KEY_TECH_STEAM_POWER_TITLE"
+                }
+            },
+            "sec_34": {
+                "label": "TXT_KEY_ERA_5",
+                "items": {
+                    "item_1080": "TXT_KEY_TECH_BALLISTICS_TITLE",
+                    "item_1081": "TXT_KEY_TECH_COMBUSTION_TITLE",
+                    "item_1082": "TXT_KEY_TECH_ELECTRONICS_TITLE",
+                    "item_1083": "TXT_KEY_TECH_FLIGHT_TITLE",
+                    "item_1084": "TXT_KEY_TECH_PLASTICS_TITLE",
+                    "item_1085": "TXT_KEY_TECH_RADIO_TITLE",
+                    "item_1086": "TXT_KEY_TECH_RAILROAD_TITLE",
+                    "item_1087": "TXT_KEY_TECH_REFRIGERATION_TITLE",
+                    "item_1088": "TXT_KEY_TECH_REPLACEABLE_PARTS_TITLE"
+                }
+            },
+            "sec_35": {
+                "label": "TXT_KEY_ERA_6",
+                "items": {
+                    "item_1089": "TXT_KEY_TECH_ATOMIC_THEORY_TITLE",
+                    "item_1090": "TXT_KEY_TECH_COMBINED_ARMS_TITLE",
+                    "item_1091": "TXT_KEY_TECH_COMPUTERS_TITLE",
+                    "item_1092": "TXT_KEY_TECH_ECOLOGY_TITLE",
+                    "item_1093": "TXT_KEY_TECH_NUCLEAR_FISSION_TITLE",
+                    "item_1094": "TXT_KEY_TECH_PENICILIN_TITLE",
+                    "item_1095": "TXT_KEY_TECH_RADAR_TITLE",
+                    "item_1096": "TXT_KEY_TECH_ROCKETRY_TITLE"
+                }
+            },
+            "sec_36": {
+                "label": "TXT_KEY_ERA_7",
+                "items": {
+                    "item_1097": "TXT_KEY_TECH_ADVANCED_BALLISTICS_TITLE",
+                    "item_1098": "TXT_KEY_TECH_FUTURE_TECH_TITLE",
+                    "item_1099": "TXT_KEY_TECH_GLOBALIZATION_TITLE",
+                    "item_1100": "TXT_KEY_TECH_LASERS_TITLE",
+                    "item_1101": "TXT_KEY_TECH_MOBILE_TACTICS_TITLE",
+                    "item_1102": "TXT_KEY_TECH_NANOTECHNOLOGY_TITLE",
+                    "item_1103": "TXT_KEY_TECH_NUCLEAR_FUSION_TITLE",
+                    "item_1104": "TXT_KEY_TECH_PARTICLE_PHYSICS_TITLE",
+                    "item_1105": "TXT_KEY_TECH_ROBOTICS_TITLE",
+                    "item_1106": "TXT_KEY_TECH_SATELLITES_TITLE",
+                    "item_1107": "TXT_KEY_TECH_STEALTH_TITLE",
+                    "item_1108": "TXT_KEY_TECH_TELECOM_TITLE",
+                    "item_1109": "TXT_KEY_TECH_INTERNET_TITLE"
+                }
+            }
+        }
+    },
+    "cat_4": {
+        "label": "TXT_KEY_PEDIA_CATEGORY_4_LABEL",
+        "sections": {
+            "sec_37": {
+                "label": "TXT_KEY_PEDIA_UNITS_PAGE_LABEL",
+                "items": {
+                    "item_878": "TXT_KEY_PEDIA_UNITS_PAGE_LABEL"
+                }
+            },
+            "sec_38": {
+                "label": "TXT_KEY_PEDIA_RELIGIOUS",
+                "items": {
+                    "item_896": "TXT_KEY_UNIT_INQUISITOR",
+                    "item_897": "TXT_KEY_UNIT_MISSIONARY"
+                }
+            },
+            "sec_39": {
+                "label": "TXT_KEY_ERA_0",
+                "items": {
+                    "item_898": "TXT_KEY_UNIT_ARCHER",
+                    "item_899": "TXT_KEY_UNIT_MAYAN_ATLATLIST",
+                    "item_900": "TXT_KEY_UNIT_HUN_BATTERING_RAM",
+                    "item_901": "TXT_KEY_UNIT_BABYLON_BOWMAN",
+                    "item_902": "TXT_KEY_UNIT_BRUTE",
+                    "item_903": "TXT_KEY_UNIT_CARAVAN",
+                    "item_904": "TXT_KEY_UNIT_CARGO_SHIP",
+                    "item_905": "TXT_KEY_UNIT_CHARIOT_ARCHER",
+                    "item_906": "TXT_KEY_UNIT_BYZANTINE_DROMON",
+                    "item_907": "TXT_KEY_UNIT_GALLEY",
+                    "item_908": "TXT_KEY_UNIT_AXMAN",
+                    "item_909": "TXT_KEY_UNIT_GREEK_HOPLITE",
+                    "item_910": "TXT_KEY_UNIT_HUN_HORSE_ARCHER",
+                    "item_911": "TXT_KEY_UNIT_PERSIAN_IMMORTAL",
+                    "item_912": "TXT_KEY_UNIT_AZTEC_JAGUAR",
+                    "item_913": "TXT_KEY_UNIT_POLYNESIAN_MAORI_WARRIOR",
+                    "item_914": "TXT_KEY_UNIT_SHOSHONE_PATHFINDER",
+                    "item_915": "TXT_KEY_UNIT_CELT_PICTISH_WARRIOR",
+                    "item_916": "TXT_KEY_UNIT_CARTHAGINIAN_QUINQUEREME",
+                    "item_917": "TXT_KEY_UNIT_SCOUT",
+                    "item_918": "TXT_KEY_UNIT_SETTLER",
+                    "item_919": "TXT_KEY_UNIT_INCAN_SLINGER",
+                    "item_920": "TXT_KEY_UNIT_SPEARMAN",
+                    "item_921": "TXT_KEY_UNIT_TRIREME",
+                    "item_922": "TXT_KEY_UNIT_EGYPT_WARCHARIOT",
+                    "item_923": "TXT_KEY_UNIT_INDIAN_WARELEPHANT",
+                    "item_924": "TXT_KEY_UNIT_WARRIOR",
+                    "item_925": "TXT_KEY_UNIT_WORK_BOAT",
+                    "item_926": "TXT_KEY_UNIT_WORKER"
+                }
+            },
+            "sec_40": {
+                "label": "TXT_KEY_ERA_1",
+                "items": {
+                    "item_927": "TXT_KEY_UNIT_CARTHAGINIAN_FOREST_ELEPHANT",
+                    "item_928": "TXT_KEY_UNIT_ROMAN_BALLISTA",
+                    "item_929": "TXT_KEY_UNIT_BYZANTINE_CATAPHRACT",
+                    "item_930": "TXT_KEY_UNIT_CATAPULT",
+                    "item_931": "TXT_KEY_UNIT_GREEK_COMPANIONCAVALRY",
+                    "item_932": "TXT_KEY_UNIT_COMPOSITE_BOWMAN",
+                    "item_933": "TXT_KEY_UNIT_HORSEMAN",
+                    "item_934": "TXT_KEY_UNIT_INDONESIAN_KRIS_SWORDSMAN",
+                    "item_935": "TXT_KEY_UNIT_ROMAN_LEGION",
+                    "item_936": "TXT_KEY_UNIT_IROQUOIAN_MOHAWKWARRIOR",
+                    "item_937": "TXT_KEY_UNIT_ASSYRIAN_SIEGE_TOWER",
+                    "item_938": "TXT_KEY_UNIT_SWORDSMAN"
+                }
+            },
+            "sec_41": {
+                "label": "TXT_KEY_ERA_2",
+                "items": {
+                    "item_939": "TXT_KEY_UNIT_DANISH_BERSERKER",
+                    "item_940": "TXT_KEY_UNIT_ARABIAN_CAMELARCHER",
+                    "item_941": "TXT_KEY_UNIT_CHINESE_CHUKONU",
+                    "item_942": "TXT_KEY_UNIT_SPANISH_CONQUISTADOR",
+                    "item_943": "TXT_KEY_UNIT_CROSSBOWMAN",
+                    "item_944": "TXT_KEY_UNIT_GALLEASS",
+                    "item_945": "TXT_KEY_UNIT_VENETIAN_GALLEASS",
+                    "item_946": "TXT_KEY_CIV5_KOREA_HWACHA_HEADING",
+                    "item_947": "TXT_KEY_UNIT_ZULU_IMPI",
+                    "item_948": "TXT_KEY_UNIT_MONGOL_KESHIK",
+                    "item_949": "TXT_KEY_UNIT_KNIGHT",
+                    "item_950": "TXT_KEY_UNIT_GERMAN_LANDSKNECHT",
+                    "item_951": "TXT_KEY_UNIT_ENGLISH_LONGBOWMAN",
+                    "item_952": "TXT_KEY_UNIT_LONGSWORDSMAN",
+                    "item_953": "TXT_KEY_UNIT_SONGHAI_MUSLIMCAVALRY",
+                    "item_954": "TXT_KEY_UNIT_SIAMESE_WARELEPHANT",
+                    "item_955": "TXT_KEY_UNIT_PIKEMAN",
+                    "item_956": "TXT_KEY_UNIT_JAPANESE_SAMURAI",
+                    "item_957": "TXT_KEY_UNIT_TREBUCHET"
+                }
+            },
+            "sec_42": {
+                "label": "TXT_KEY_ERA_3",
+                "items": {
+                    "item_958": "TXT_KEY_UNIT_CANNON",
+                    "item_959": "TXT_KEY_UNIT_CARAVEL",
+                    "item_960": "TXT_KEY_UNIT_FRIGATE",
+                    "item_961": "TXT_KEY_UNIT_SWEDISH_HAKKAPELIITTA",
+                    "item_962": "TXT_KEY_UNIT_OTTOMAN_JANISSARY",
+                    "item_963": "TXT_KEY_UNIT_LANCER",
+                    "item_964": "TXT_KEY_UNIT_AMERICAN_MINUTEMAN",
+                    "item_965": "TXT_KEY_UNIT_FRENCH_MUSKETEER",
+                    "item_1577": "TXT_KEY_UNIT_MUSKETMAN",
+                    "item_966": "TXT_KEY_UNIT_PORTUGUESE_NAU",
+                    "item_967": "TXT_KEY_UNIT_PRIVATEER",
+                    "item_968": "TXT_KEY_UNIT_SEA_BEGGAR",
+                    "item_969": "TXT_KEY_UNIT_ENGLISH_SHIPOFTHELINE",
+                    "item_970": "TXT_KEY_UNIT_OTTOMAN_SIPAHI",
+                    "item_971": "TXT_KEY_UNIT_SPANISH_TERCIO",
+                    "item_972": "TXT_KEY_CIV5_KOREA_TURTLESHIP_HEADING",
+                    "item_973": "TXT_KEY_UNIT_POLISH_WINGED_HUSSAR"
+                }
+            },
+            "sec_43": {
+                "label": "TXT_KEY_ERA_4",
+                "items": {
+                    "item_974": "TXT_KEY_UNIT_ARCHAEOLOGIST",
+                    "item_975": "TXT_KEY_UNIT_ARTILLERY",
+                    "item_976": "TXT_KEY_UNIT_BERBER_CAVALRY",
+                    "item_977": "TXT_KEY_UNIT_SWEDISH_CAROLEAN",
+                    "item_978": "TXT_KEY_UNIT_CAVALRY",
+                    "item_979": "TXT_KEY_UNIT_SHOSHONE_COMANCHE_RIDERS",
+                    "item_980": "TXT_KEY_UNIT_RUSSIAN_COSSACK",
+                    "item_981": "TXT_KEY_UNIT_GATLINGGUN",
+                    "item_982": "TXT_KEY_UNIT_AUSTRIAN_HUSSAR",
+                    "item_983": "TXT_KEY_UNIT_IRONCLAD",
+                    "item_984": "TXT_KEY_UNIT_MEHAL_SEFARI",
+                    "item_985": "TXT_KEY_UNIT_DANISH_SKI_INFANTRY",
+                    "item_986": "TXT_KEY_UNIT_RIFLEMAN"
+                }
+            },
+            "sec_44": {
+                "label": "TXT_KEY_ERA_5",
+                "items": {
+                    "item_987": "TXT_KEY_UNIT_ANTI_AIRCRAFT_GUN",
+                    "item_988": "TXT_KEY_UNIT_BATTLESHIP",
+                    "item_989": "TXT_KEY_UNIT_CARRIER",
+                    "item_990": "TXT_KEY_UNIT_DESTROYER",
+                    "item_991": "TXT_KEY_UNIT_FRENCH_FOREIGNLEGION",
+                    "item_992": "TXT_KEY_UNIT_WWI_BOMBER",
+                    "item_993": "TXT_KEY_UNIT_GREAT_WAR_INFANTRY",
+                    "item_994": "TXT_KEY_UNIT_INFANTRY",
+                    "item_995": "TXT_KEY_UNIT_WWI_TANK",
+                    "item_996": "TXT_KEY_UNIT_MACHINE_GUN",
+                    "item_997": "TXT_KEY_UNIT_BRAZILIAN_PRACINHA",
+                    "item_998": "TXT_KEY_UNIT_SUBMARINE",
+                    "item_999": "TXT_KEY_UNIT_TRIPLANE"
+                }
+            },
+            "sec_45": {
+                "label": "TXT_KEY_ERA_6",
+                "items": {
+                    "item_1000": "TXT_KEY_UNIT_AT_GUN",
+                    "item_1001": "TXT_KEY_UNIT_ATOMIC_BOMB",
+                    "item_1002": "TXT_KEY_CIV5_INDUSTRIAL_B17_HEADING",
+                    "item_1003": "TXT_KEY_UNIT_BAZOOKA",
+                    "item_1004": "TXT_KEY_UNIT_BOMBER",
+                    "item_1005": "TXT_KEY_UNIT_FIGHTER",
+                    "item_1006": "TXT_KEY_UNIT_HELICOPTER_GUNSHIP",
+                    "item_1007": "TXT_KEY_UNIT_MARINE",
+                    "item_1008": "TXT_KEY_UNIT_MOBILE_SAM",
+                    "item_1009": "TXT_KEY_UNIT_GERMAN_PANZER",
+                    "item_1010": "TXT_KEY_UNIT_PARATROOPER",
+                    "item_1011": "TXT_KEY_UNIT_ROCKET_ARTILLERY",
+                    "item_1012": "TXT_KEY_UNIT_TANK",
+                    "item_1013": "TXT_KEY_UNIT_JAPANESE_ZERO"
+                }
+            },
+            "sec_46": {
+                "label": "TXT_KEY_ERA_7",
+                "items": {
+                    "item_1014": "TXT_KEY_UNIT_MECH",
+                    "item_1015": "TXT_KEY_UNIT_GUIDED_MISSILE",
+                    "item_1016": "TXT_KEY_UNIT_JET_FIGHTER",
+                    "item_1017": "TXT_KEY_UNIT_MECHANIZED_INFANTRY",
+                    "item_1018": "TXT_KEY_UNIT_MISSILE_CRUISER",
+                    "item_1019": "TXT_KEY_UNIT_MODERN_ARMOR",
+                    "item_1020": "TXT_KEY_UNIT_NUCLEAR_MISSILE",
+                    "item_1021": "TXT_KEY_UNIT_NUCLEAR_SUBMARINE",
+                    "item_1022": "TXT_KEY_SS_BOOSTER",
+                    "item_1023": "TXT_KEY_SS_COCKPIT",
+                    "item_1024": "TXT_KEY_SS_ENGINE",
+                    "item_1025": "TXT_KEY_SS_STASIS_CHAMBER",
+                    "item_1026": "TXT_KEY_UNIT_STEALTH_BOMBER",
+                    "item_1027": "TXT_KEY_UNIT_XCOM_SQUAD"
+                }
+            }
+        }
+    },
+    "cat_5": {
+        "label": "TXT_KEY_PEDIA_CATEGORY_5_LABEL",
+        "sections": {
+            "sec_47": {
+                "label": "TXT_KEY_PEDIA_PROMOTIONS_PAGE_LABEL",
+                "items": {
+                    "item_666": "TXT_KEY_PEDIA_PROMOTIONS_PAGE_LABEL"
+                }
+            },
+            "sec_48": {
+                "label": "TXT_KEY_PROMOTIONS_SECTION_1",
+                "items": {
+                    "item_667": "TXT_KEY_PROMOTION_AMBUSH_1",
+                    "item_668": "TXT_KEY_PROMOTION_AMBUSH_2",
+                    "item_669": "TXT_KEY_PROMOTION_BLITZ",
+                    "item_670": "TXT_KEY_PROMOTION_CHARGE",
+                    "item_671": "TXT_KEY_PROMOTION_COVER_1",
+                    "item_672": "TXT_KEY_PROMOTION_COVER_2",
+                    "item_673": "TXT_KEY_PROMOTION_DRILL_1",
+                    "item_674": "TXT_KEY_PROMOTION_DRILL_2",
+                    "item_675": "TXT_KEY_PROMOTION_DRILL_3",
+                    "item_676": "TXT_KEY_PROMOTION_FORMATION_1",
+                    "item_677": "TXT_KEY_PROMOTION_FORMATION_2",
+                    "item_678": "TXT_KEY_PROMOTION_SHOCK_1",
+                    "item_679": "TXT_KEY_PROMOTION_SHOCK_2",
+                    "item_680": "TXT_KEY_PROMOTION_SHOCK_3",
+                    "item_681": "TXT_KEY_PROMOTION_SIEGE",
+                    "item_682": "TXT_KEY_PROMOTION_WOODSMAN"
+                }
+            },
+            "sec_49": {
+                "label": "TXT_KEY_PROMOTIONS_SECTION_2",
+                "items": {
+                    "item_683": "TXT_KEY_PROMOTION_ACCURACY_1",
+                    "item_684": "TXT_KEY_PROMOTION_ACCURACY_2",
+                    "item_685": "TXT_KEY_PROMOTION_ACCURACY_3",
+                    "item_686": "TXT_KEY_PROMOTION_BARRAGE_1",
+                    "item_687": "TXT_KEY_PROMOTION_BARRAGE_2",
+                    "item_688": "TXT_KEY_PROMOTION_BARRAGE_3",
+                    "item_689": "TXT_KEY_PROMOTION_BOMBARDMENT_1",
+                    "item_690": "TXT_KEY_PROMOTION_BOMBARDMENT_2",
+                    "item_691": "TXT_KEY_PROMOTION_BOMBARDMENT_3",
+                    "item_692": "TXT_KEY_PROMOTION_LOGISTICS",
+                    "item_693": "TXT_KEY_PROMOTION_MOBILITY",
+                    "item_694": "TXT_KEY_PROMOTION_RANGE",
+                    "item_695": "TXT_KEY_PROMOTION_VOLLEY"
+                }
+            },
+            "sec_50": {
+                "label": "TXT_KEY_PROMOTIONS_SECTION_3",
+                "items": {
+                    "item_696": "TXT_KEY_PROMOTION_AMPHIBIOUS",
+                    "item_697": "TXT_KEY_PROMOTION_BOARDING_PARTY_1",
+                    "item_698": "TXT_KEY_PROMOTION_BOARDING_PARTY_2",
+                    "item_699": "TXT_KEY_PROMOTION_BOARDING_PARTY_3",
+                    "item_700": "TXT_KEY_PROMOTION_COASTAL_RAIDER_1",
+                    "item_701": "TXT_KEY_PROMOTION_COASTAL_RAIDER_2",
+                    "item_702": "TXT_KEY_PROMOTION_COASTAL_RAIDER_3",
+                    "item_703": "TXT_KEY_PROMOTION_SUPPLY",
+                    "item_704": "TXT_KEY_PROMOTION_TARGETING_1",
+                    "item_705": "TXT_KEY_PROMOTION_TARGETING_2",
+                    "item_706": "TXT_KEY_PROMOTION_TARGETING_3"
+                }
+            },
+            "sec_51": {
+                "label": "TXT_KEY_PROMOTIONS_SECTION_4",
+                "items": {
+                    "item_707": "TXT_KEY_PROMOTION_AIR_REPAIR",
+                    "item_708": "TXT_KEY_PROMOTION_HEAL_INSTANTLY",
+                    "item_709": "TXT_KEY_PROMOTION_MARCH",
+                    "item_710": "TXT_KEY_PROMOTION_MEDIC",
+                    "item_711": "TXT_KEY_PROMOTION_MEDIC_II",
+                    "item_712": "TXT_KEY_PROMOTION_REPAIR",
+                    "item_713": "TXT_KEY_PROMOTION_SURVIVALISM_1",
+                    "item_714": "TXT_KEY_PROMOTION_SURVIVALISM_2",
+                    "item_715": "TXT_KEY_PROMOTION_SURVIVALISM_3"
+                }
+            },
+            "sec_52": {
+                "label": "TXT_KEY_PROMOTIONS_SECTION_5",
+                "items": {
+                    "item_716": "TXT_KEY_PROMOTION_SCOUTING_1",
+                    "item_717": "TXT_KEY_PROMOTION_SCOUTING_2",
+                    "item_718": "TXT_KEY_PROMOTION_SCOUTING_3",
+                    "item_719": "TXT_KEY_PROMOTION_SENTRY"
+                }
+            },
+            "sec_53": {
+                "label": "TXT_KEY_PROMOTIONS_SECTION_6",
+                "items": {
+                    "item_720": "TXT_KEY_PROMOTION_AIR_AMBUSH_1",
+                    "item_721": "TXT_KEY_PROMOTION_AIR_AMBUSH_2",
+                    "item_722": "TXT_KEY_PROMOTION_AIR_TARGETING_1",
+                    "item_723": "TXT_KEY_PROMOTION_AIR_TARGETING_2",
+                    "item_724": "TXT_KEY_PROMOTION_DOGFIGHTING_1",
+                    "item_725": "TXT_KEY_PROMOTION_DOGFIGHTING_2",
+                    "item_726": "TXT_KEY_PROMOTION_DOGFIGHTING_3",
+                    "item_727": "TXT_KEY_PROMOTION_EVASION",
+                    "item_728": "TXT_KEY_PROMOTION_INTERCEPTION_1",
+                    "item_729": "TXT_KEY_PROMOTION_INTERCEPTION_2",
+                    "item_730": "TXT_KEY_PROMOTION_INTERCEPTION_3",
+                    "item_731": "TXT_KEY_PROMOTION_LOGISTICS",
+                    "item_732": "TXT_KEY_PROMOTION_MOBILITY_1",
+                    "item_733": "TXT_KEY_PROMOTION_MOBILITY_2",
+                    "item_734": "TXT_KEY_PROMOTION_RANGE",
+                    "item_735": "TXT_KEY_PROMOTION_AIR_SIEGE_1",
+                    "item_736": "TXT_KEY_PROMOTION_AIR_SIEGE_2",
+                    "item_737": "TXT_KEY_PROMOTION_AIR_SIEGE_3",
+                    "item_738": "TXT_KEY_PROMOTION_SORTIE"
+                }
+            },
+            "sec_54": {
+                "label": "TXT_KEY_PROMOTIONS_SECTION_7",
+                "items": {
+                    "item_739": "TXT_KEY_PROMOTION_DISCIPLINE",
+                    "item_740": "TXT_KEY_PROMOTION_EMBARKATION",
+                    "item_741": "TXT_KEY_PROMOTION_DEFENSIVE_EMBARKATION",
+                    "item_742": "TXT_KEY_PROMOTION_ALLWATER_EMBARKATION",
+                    "item_743": "TXT_KEY_PROMOTION_NAVAL_TRADITION",
+                    "item_744": "TXT_KEY_PROMOTION_GREAT_LIGHTHOUSE",
+                    "item_745": "TXT_KEY_PROMOTION_HIMEJI_CASTLE",
+                    "item_746": "TXT_KEY_PROMOTION_INDIRECT_FIRE",
+                    "item_747": "TXT_KEY_PROMOTION_FAST_ADMIRAL",
+                    "item_748": "TXT_KEY_PROMOTION_FAST_GENERAL",
+                    "item_749": "TXT_KEY_PROMOTION_MORALE",
+                    "item_750": "TXT_KEY_PROMOTION_NATIONALISM",
+                    "item_751": "TXT_KEY_PROMOTION_STATUE_ZEUS"
+                }
+            },
+            "sec_55": {
+                "label": "TXT_KEY_PROMOTIONS_SECTION_8",
+                "items": {
+                    "item_752": "TXT_KEY_PROMOTION_XTRA_MOVES_I",
+                    "item_753": "TXT_KEY_PROMOTION_AIR_RECON",
+                    "item_754": "TXT_KEY_PROMOTION_AIR_SWEEP",
+                    "item_755": "TXT_KEY_PROMOTION_FLAT_MOVEMENT_COST",
+                    "item_756": "TXT_KEY_PROMOTION_ALTITUDE_TRAINING",
+                    "item_757": "TXT_KEY_PROMOTION_AMBITION",
+                    "item_758": "TXT_KEY_PROMOTION_ARMOR_PLATING_1",
+                    "item_759": "TXT_KEY_PROMOTION_ARMOR_PLATING_2",
+                    "item_760": "TXT_KEY_PROMOTION_ARMOR_PLATING_3",
+                    "item_761": "TXT_KEY_PROMOTION_OCEAN_IMPASSABLE_ASTRO",
+                    "item_762": "TXT_KEY_PROMOTION_ANTI_AIR",
+                    "item_763": "TXT_KEY_PROMOTION_ANTI_AIR_II",
+                    "item_764": "TXT_KEY_PROMOTION_CITY_SIEGE",
+                    "item_765": "TXT_KEY_PROMOTION_CITY_SIEGE_II",
+                    "item_766": "TXT_KEY_PROMOTION_CITY_ASSUALT",
+                    "item_767": "TXT_KEY_PROMOTION_FIRE_SUPPORT",
+                    "item_768": "TXT_KEY_PROMOTION_HEAVY_PAYLOAD",
+                    "item_769": "TXT_KEY_PROMOTION_ANTI_FIGHTER",
+                    "item_770": "TXT_KEY_PEDIA_PROMOTION_ANTI_HELICOPTER",
+                    "item_771": "TXT_KEY_PROMOTION_ANTI_MOUNTED_II",
+                    "item_772": "TXT_KEY_PROMOTION_ANTI_MOUNTED_I",
+                    "item_773": "TXT_KEY_PROMOTION_NAVAL_BONUS",
+                    "item_774": "TXT_KEY_PEDIA_PROMOTION_ANTI_SUBMARINE_II",
+                    "item_775": "TXT_KEY_PEDIA_PROMOTION_ANTI_SUBMARINE_I",
+                    "item_776": "TXT_KEY_PROMOTION_ANTI_TANK",
+                    "item_777": "TXT_KEY_PROMOTION_SILENT_HUNTER",
+                    "item_778": "TXT_KEY_PROMOTION_SKI_INFANTRY",
+                    "item_779": "TXT_KEY_PROMOTION_BUFFALO_CHEST",
+                    "item_780": "TXT_KEY_PROMOTION_BUFFALO_HORNS",
+                    "item_781": "TXT_KEY_PROMOTION_BUFFALO_LOINS",
+                    "item_782": "TXT_KEY_PROMOTION_CARGO_I",
+                    "item_783": "TXT_KEY_PROMOTION_CARGO_II",
+                    "item_784": "TXT_KEY_PROMOTION_CARGO_III",
+                    "item_785": "TXT_KEY_PROMOTION_CARGO_IV",
+                    "item_786": "TXT_KEY_PROMOTION_RIVAL_TERRITORY",
+                    "item_787": "TXT_KEY_PROMOTION_CAN_MOVE_AFTER_ATTACKING",
+                    "item_788": "TXT_KEY_PROMOTION_SEE_INVISIBLE_SUBMARINE",
+                    "item_789": "TXT_KEY_PROMOTION_OCEAN_IMPASSABLE",
+                    "item_790": "TXT_KEY_PROMOTION_FOLIAGE_IMPASSABLE",
+                    "item_791": "TXT_KEY_PROMOTION_ONLY_ATTACKS_CITIES",
+                    "item_792": "TXT_KEY_PROMOTION_DOUBLE_PLUNDER",
+                    "item_793": "TXT_KEY_PROMOTION_MOHAWK",
+                    "item_794": "TXT_KEY_PROMOTION_JAGUAR",
+                    "item_795": "TXT_KEY_PROMOTION_OPEN_TERRAIN",
+                    "item_796": "TXT_KEY_PROMOTION_ATTACK_BONUS",
+                    "item_797": "TXT_KEY_PROMOTION_STRONGER_VS_DAMAGED",
+                    "item_798": "TXT_KEY_PROMOTION_DESERT_WARRIOR",
+                    "item_799": "TXT_KEY_PROMOTION_STEAM_POWERED",
+                    "item_800": "TXT_KEY_PROMOTION_ENEMY_BLADE",
+                    "item_801": "TXT_KEY_PROMOTION_FLANK_ATTACK_BONUS",
+                    "item_802": "TXT_KEY_PROMOTION_MEDIC_GENERAL",
+                    "item_803": "TXT_KEY_PROMOTION_EVASION_II",
+                    "item_804": "TXT_KEY_PROMOTION_EVASION_I",
+                    "item_805": "TXT_KEY_PROMOTION_EVIL_SPIRITS",
+                    "item_806": "TXT_KEY_PROMOTION_SELL_EXOTIC_GOODS",
+                    "item_807": "TXT_KEY_PROMOTION_XTRA_SIGHT_I",
+                    "item_808": "TXT_KEY_PROMOTION_XTRA_SIGHT_II",
+                    "item_809": "TXT_KEY_PROMOTION_XTRA_SIGHT_III",
+                    "item_810": "TXT_KEY_PROMOTION_XTRA_SIGHT_IV",
+                    "item_811": "TXT_KEY_PROMOTION_EMBARKED_SIGHT",
+                    "item_812": "TXT_KEY_PROMOTION_FEARED_ELEPHANT",
+                    "item_813": "TXT_KEY_PROMOTION_FLIGHT_DECK_1",
+                    "item_814": "TXT_KEY_PROMOTION_FLIGHT_DECK_2",
+                    "item_815": "TXT_KEY_PROMOTION_FLIGHT_DECK_3",
+                    "item_816": "TXT_KEY_PROMOTION_FOREIGN_LANDS",
+                    "item_817": "TXT_KEY_PROMOTION_FREE_PILLAGE_MOVES",
+                    "item_818": "TXT_KEY_PROMOTION_MOON_STRIKER",
+                    "item_819": "TXT_KEY_PROMOTION_GOLDEN_AGE_POINTS",
+                    "item_820": "TXT_KEY_PROMOTION_GENERAL_STACKING",
+                    "item_821": "TXT_KEY_PROMOTION_SPAWN_GENERALS_I",
+                    "item_822": "TXT_KEY_PROMOTION_SPAWN_GENERALS_II",
+                    "item_823": "TXT_KEY_PROMOTION_HAKA_WAR_DANCE",
+                    "item_824": "TXT_KEY_PROMOTION_PARTIAL_HEAL_IF_DESTROY_ENEMY",
+                    "item_825": "TXT_KEY_PROMOTION_HEAL_IF_DESTROY_ENEMY",
+                    "item_826": "TXT_KEY_PROMOTION_FASTER_HEAL",
+                    "item_827": "TXT_KEY_PROMOTION_HEAVY_CHARGE",
+                    "item_828": "TXT_KEY_PROMOTION_HEROISM",
+                    "item_829": "TXT_KEY_PROMOTION_HOMELAND_GUARDIAN",
+                    "item_830": "TXT_KEY_PROMOTION_HOVERING_UNIT",
+                    "item_831": "TXT_KEY_PROMOTION_IGNORE_TERRAIN_COST",
+                    "item_832": "TXT_KEY_PROMOTION_INTERCEPTION_IV",
+                    "item_833": "TXT_KEY_PROMOTION_INTERCEPTION_I",
+                    "item_834": "TXT_KEY_PROMOTION_INTERCEPTION_II",
+                    "item_835": "TXT_KEY_PROMOTION_INTERCEPTION_III",
+                    "item_836": "TXT_KEY_PROMOTION_INVULNERABIILITY",
+                    "item_837": "TXT_KEY_PROMOTION_INVISIBLE_SUBMARINE",
+                    "item_838": "TXT_KEY_PROMOTION_GREAT_GENERAL",
+                    "item_839": "TXT_KEY_PROMOTION_LIGHTNING_WARFARE",
+                    "item_840": "TXT_KEY_PROMOTION_SIGHT_PENALTY",
+                    "item_841": "TXT_KEY_PROMOTION_SECOND_ATTACK",
+                    "item_842": "TXT_KEY_PROMOTION_CAN_MOVE_IMPASSABLE",
+                    "item_843": "TXT_KEY_PROMOTION_ONLY_DEFENSIVE",
+                    "item_844": "TXT_KEY_PROMOTION_PARADROP",
+                    "item_845": "TXT_KEY_PROMOTION_MUST_SET_UP",
+                    "item_846": "TXT_KEY_PROMOTION_MYSTIC_BLADE",
+                    "item_847": "TXT_KEY_PROMOTION_GOODY_HUT_PICKER",
+                    "item_848": "TXT_KEY_PROMOTION_GREAT_ADMIRAL",
+                    "item_849": "TXT_KEY_MOVEMENT_NAVAL_HEADING2_TITLE",
+                    "item_850": "TXT_KEY_PROMOTION_DEFEND_NEAR_CAPITAL",
+                    "item_851": "TXT_KEY_PROMOTION_NO_DEFENSIVE_BONUSES",
+                    "item_852": "TXT_KEY_SMALL_PROMOTION_CITY_PENALTY",
+                    "item_853": "TXT_KEY_PROMOTION_CITY_PENALTY",
+                    "item_854": "TXT_KEY_PROMOTION_DEFENSE_PENALTY",
+                    "item_855": "TXT_KEY_PROMOTION_MOUNTED_PENALTY",
+                    "item_856": "TXT_KEY_PROMOTION_NAVAL_PENALTY",
+                    "item_857": "TXT_KEY_PROMOTION_HOMELAND_GUARDIAN_BOOGALOO",
+                    "item_858": "TXT_KEY_PROMOTION_PRIZE_SHIPS",
+                    "item_859": "TXT_KEY_PROMOTION_GAIN_EXPERIENCE",
+                    "item_860": "TXT_KEY_PROMOTION_RANGED_SUPPORT_FIRE",
+                    "item_861": "TXT_KEY_PROMOTION_RECRUITMENT",
+                    "item_862": "TXT_KEY_PROMOTION_RESTLESSNESS",
+                    "item_863": "TXT_KEY_PROMOTION_ROUGH_TERRAIN_ENDS",
+                    "item_864": "TXT_KEY_PROMOTION_SAPPER",
+                    "item_865": "TXT_KEY_PROMOTION_EXTENDED_PARADROP",
+                    "item_866": "TXT_KEY_PROMOTION_SNEAK_ATTACK",
+                    "item_867": "TXT_KEY_PROMOTION_ANTI_GUNPOWDER",
+                    "item_868": "TXT_KEY_PROMOTION_TRADE_MISSION_BONUS",
+                    "item_869": "TXT_KEY_PROMOTION_MOVEMENT_TO_GENERAL",
+                    "item_870": "TXT_KEY_PROMOTION_NO_CAPTURE",
+                    "item_871": "TXT_KEY_PROMOTION_UNWELCOME_EVANGELIST",
+                    "item_872": "TXT_KEY_PROMOTION_WAR_CANOES",
+                    "item_873": "TXT_KEY_PROMOTION_WEAK_RANGED",
+                    "item_874": "TXT_KEY_PROMOTION_WITHDRAW_BEFORE_MELEE",
+                    "item_875": "TXT_KEY_PROMOTION_WOLFPACK_1",
+                    "item_876": "TXT_KEY_PROMOTION_WOLFPACK_2",
+                    "item_877": "TXT_KEY_PROMOTION_WOLFPACK_3"
+                }
+            }
+        }
+    },
+    "cat_6": {
+        "label": "TXT_KEY_PEDIA_CATEGORY_6_LABEL",
+        "sections": {
+            "sec_56": {
+                "label": "TXT_KEY_PEDIA_BUILDINGS_PAGE_LABEL",
+                "items": {
+                    "item_879": "TXT_KEY_PEDIA_BUILDINGS_PAGE_LABEL"
+                }
+            },
+            "sec_57": {
+                "label": "TXT_KEY_PEDIA_RELIGIOUS",
+                "items": {
+                    "item_585": "TXT_KEY_BUILDING_CATHEDRAL",
+                    "item_586": "TXT_KEY_BUILDING_MONASTERY_DESC",
+                    "item_587": "TXT_KEY_BUILDING_MOSQUE",
+                    "item_588": "TXT_KEY_BUILDING_PAGODA"
+                }
+            },
+            "sec_58": {
+                "label": "TXT_KEY_ERA_0",
+                "items": {
+                    "item_589": "TXT_KEY_BUILDING_BARRACKS",
+                    "item_590": "TXT_KEY_BUILDING_CIRCUS",
+                    "item_591": "TXT_KEY_BUILDING_FLOATING_GARDENS_DESC",
+                    "item_592": "TXT_KEY_BUILDING_GRANARY",
+                    "item_593": "TXT_KEY_BUILDING_IKANDA_DESC",
+                    "item_594": "TXT_KEY_BUILDING_KREPOST_DESC",
+                    "item_595": "TXT_KEY_BUILDING_LIBRARY",
+                    "item_596": "TXT_KEY_BUILDING_MONUMENT_DESC",
+                    "item_597": "TXT_KEY_BUILDING_PAPER_MAKER_DESC",
+                    "item_598": "TXT_KEY_BUILDING_MAYA_PYRAMID",
+                    "item_599": "TXT_KEY_BUILDING_ROYAL_LIBRARY_DESC",
+                    "item_600": "TXT_KEY_BUILDING_SHRINE",
+                    "item_601": "TXT_KEY_BUILDING_STELE",
+                    "item_602": "TXT_KEY_BUILDING_STONE_WORKS",
+                    "item_603": "TXT_KEY_BUILDING_WALLS",
+                    "item_604": "TXT_KEY_BUILDING_WALLS_OF_BABYLON_DESC",
+                    "item_605": "TXT_KEY_BUILDING_WATERMILL"
+                }
+            },
+            "sec_59": {
+                "label": "TXT_KEY_ERA_1",
+                "items": {
+                    "item_606": "TXT_KEY_BUILDING_AMPHITHEATER",
+                    "item_607": "TXT_KEY_BUILDING_AQUEDUCT",
+                    "item_608": "TXT_KEY_BUILDING_BAZAAR_DESC",
+                    "item_609": "TXT_KEY_BUILDING_BURIAL_TOMB_DESC",
+                    "item_610": "TXT_KEY_BUILDING_CARAVANSARY",
+                    "item_611": "TXT_KEY_BUILDING_COLOSSEUM",
+                    "item_612": "TXT_KEY_BUILDING_COURTHOUSE",
+                    "item_613": "TXT_KEY_BUILDING_DUCAL_STABLE_DESC",
+                    "item_614": "TXT_KEY_BUILDING_LIGHTHOUSE",
+                    "item_615": "TXT_KEY_BUILDING_MARKET",
+                    "item_616": "TXT_KEY_BUILDING_MINT",
+                    "item_617": "TXT_KEY_BUILDING_MUD_PYRAMID_MOSQUE_DESC",
+                    "item_618": "TXT_KEY_BUILDING_STABLE",
+                    "item_619": "TXT_KEY_BUILDING_TEMPLE_DESC",
+                    "item_620": "TXT_KEY_BUILDING_WRITERS_GUILD"
+                }
+            },
+            "sec_60": {
+                "label": "TXT_KEY_ERA_2",
+                "items": {
+                    "item_621": "TXT_KEY_BUILDING_ARMORY",
+                    "item_622": "TXT_KEY_BUILDING_ARTISTS_GUILD",
+                    "item_623": "TXT_KEY_BUILDING_CANDI_DESC",
+                    "item_624": "TXT_KEY_BUILDING_CASTLE",
+                    "item_625": "TXT_KEY_BUILDING_FORGE",
+                    "item_626": "TXT_KEY_BUILDING_GARDEN",
+                    "item_627": "TXT_KEY_BUILDING_HARBOR",
+                    "item_628": "TXT_KEY_BUILDING_LONGHOUSE_DESC",
+                    "item_629": "TXT_KEY_BUILDING_MUGHAL_FORT_DESC",
+                    "item_630": "TXT_KEY_BUILDING_UNIVERSITY",
+                    "item_631": "TXT_KEY_BUILDING_WAT_DESC",
+                    "item_632": "TXT_KEY_BUILDING_WORKSHOP"
+                }
+            },
+            "sec_61": {
+                "label": "TXT_KEY_ERA_3",
+                "items": {
+                    "item_633": "TXT_KEY_BUILDING_ARSENAL",
+                    "item_634": "TXT_KEY_BUILDING_BANK",
+                    "item_635": "TXT_KEY_BUILDING_CEILIDH_HALL",
+                    "item_636": "TXT_KEY_BUILDING_COFFEE_HOUSE",
+                    "item_637": "TXT_KEY_BUILDING_CONSTABLE",
+                    "item_638": "TXT_KEY_BUILDING_HANSE_DESC",
+                    "item_639": "TXT_KEY_BUILDING_MUSICIANS_GUILD",
+                    "item_640": "TXT_KEY_BUILDING_OBSERVATORY",
+                    "item_641": "TXT_KEY_BUILDING_OPERA_HOUSE",
+                    "item_642": "TXT_KEY_BUILDING_SATRAPS_COURT_DESC",
+                    "item_643": "TXT_KEY_BUILDING_SEAPORT",
+                    "item_644": "TXT_KEY_BUILDING_WINDMILL",
+                    "item_645": "TXT_KEY_BUILDING_THEATRE"
+                }
+            },
+            "sec_62": {
+                "label": "TXT_KEY_ERA_4",
+                "items": {
+                    "item_646": "TXT_KEY_BUILDING_FACTORY",
+                    "item_647": "TXT_KEY_BUILDING_HOSPITAL",
+                    "item_648": "TXT_KEY_BUILDING_HYDRO_PLANT",
+                    "item_649": "TXT_KEY_BUILDING_MILITARY_ACADEMY",
+                    "item_650": "TXT_KEY_BUILDING_MUSEUM",
+                    "item_651": "TXT_KEY_BUILDING_POLICE_STATION",
+                    "item_652": "TXT_KEY_BUILDING_PUBLIC_SCHOOL",
+                    "item_653": "TXT_KEY_BUILDING_STOCK_EXCHANGE"
+                }
+            },
+            "sec_63": {
+                "label": "TXT_KEY_ERA_5",
+                "items": {
+                    "item_654": "TXT_KEY_BUILDING_BROADCAST_TOWER",
+                    "item_655": "TXT_KEY_BUILDING_HOTEL",
+                    "item_656": "TXT_KEY_BUILDING_MILITARY_BASE",
+                    "item_657": "TXT_KEY_BUILDING_LABORATORY",
+                    "item_658": "TXT_KEY_BUILDING_STADIUM_DESC"
+                }
+            },
+            "sec_64": {
+                "label": "TXT_KEY_ERA_6",
+                "items": {
+                    "item_659": "TXT_KEY_BUILDING_AIRPORT",
+                    "item_660": "TXT_KEY_BUILDING_MEDICAL_LAB",
+                    "item_661": "TXT_KEY_BUILDING_NUCLEAR_PLANT",
+                    "item_662": "TXT_KEY_BUILDING_RECYCLING_CENTER",
+                    "item_663": "TXT_KEY_BUILDING_SOLAR_PLANT"
+                }
+            },
+            "sec_65": {
+                "label": "TXT_KEY_ERA_7",
+                "items": {
+                    "item_664": "TXT_KEY_BUILDING_BOMB_SHELTER",
+                    "item_665": "TXT_KEY_BUILDING_SPACESHIP_FACTORY"
+                }
+            }
+        }
+    },
+    "cat_7": {
+        "label": "TXT_KEY_PEDIA_CATEGORY_7_LABEL",
+        "sections": {
+            "sec_66": {
+                "label": "TXT_KEY_PEDIA_WONDERS_PAGE_LABEL",
+                "items": {
+                    "item_523": "TXT_KEY_PEDIA_WONDERS_PAGE_LABEL"
+                }
+            },
+            "sec_67": {
+                "label": "TXT_KEY_WONDER_SECTION_1",
+                "items": {
+                    "item_524": "TXT_KEY_BUILDING_ALHAMBRA",
+                    "item_525": "TXT_KEY_BUILDING_ANGKOR_WAT",
+                    "item_526": "TXT_KEY_BUILDING_BIG_BEN",
+                    "item_527": "TXT_KEY_BUILDING_BOROBUDUR",
+                    "item_528": "TXT_KEY_BUILDING_BRANDENBURG_GATE",
+                    "item_529": "TXT_KEY_BUILDING_BROADWAY",
+                    "item_530": "TXT_KEY_BUILDING_CHICHEN_ITZA",
+                    "item_531": "TXT_KEY_BUILDING_CN_TOWER",
+                    "item_532": "TXT_KEY_BUILDING_COLOSSUS",
+                    "item_533": "TXT_KEY_BUILDING_CRISTO_REDENTOR",
+                    "item_534": "TXT_KEY_BUILDING_EIFFEL_TOWER",
+                    "item_535": "TXT_KEY_BUILDING_FORBIDDEN_PALACE",
+                    "item_536": "TXT_KEY_BUILDING_GLOBE_THEATER",
+                    "item_537": "TXT_KEY_BUILDING_GREAT_FIREWALL",
+                    "item_538": "TXT_KEY_BUILDING_GREAT_LIBRARY",
+                    "item_539": "TXT_KEY_BUILDING_GREAT_LIGHTHOUSE",
+                    "item_540": "TXT_KEY_BUILDING_MOSQUE_OF_DJENNE",
+                    "item_541": "TXT_KEY_BUILDING_GREAT_WALL",
+                    "item_542": "TXT_KEY_BUILDING_HAGIA_SOPHIA",
+                    "item_543": "TXT_KEY_BUILDING_HANGING_GARDEN",
+                    "item_544": "TXT_KEY_BUILDING_HIMEJI_CASTLE",
+                    "item_545": "TXT_KEY_BUILDING_HUBBLE",
+                    "item_546": "TXT_KEY_BUILDING_INTERNATIONAL_SPACE_STATION",
+                    "item_547": "TXT_KEY_BUILDING_KREMLIN",
+                    "item_548": "TXT_KEY_BUILDING_LEANING_TOWER",
+                    "item_549": "TXT_KEY_BUILDING_LOUVRE",
+                    "item_550": "TXT_KEY_BUILDING_MACHU_PICHU",
+                    "item_551": "TXT_KEY_BUILDING_MAUSOLEUM_HALICARNASSUS",
+                    "item_552": "TXT_KEY_BUILDING_NEUSCHWANSTEIN",
+                    "item_553": "TXT_KEY_BUILDING_NOTRE_DAME",
+                    "item_554": "TXT_KEY_BUILDING_ORACLE",
+                    "item_555": "TXT_KEY_BUILDING_PARTHENON",
+                    "item_556": "TXT_KEY_BUILDING_PENTAGON",
+                    "item_557": "TXT_KEY_BUILDING_PETRA",
+                    "item_558": "TXT_KEY_BUILDING_PORCELAIN_TOWER",
+                    "item_559": "TXT_KEY_BUILDING_PRORA_RESORT",
+                    "item_560": "TXT_KEY_BUILDING_PYRAMID",
+                    "item_561": "TXT_KEY_BUILDING_RED_FORT",
+                    "item_562": "TXT_KEY_BUILDING_SISTINE_CHAPEL",
+                    "item_563": "TXT_KEY_BUILDING_STATUE_OF_LIBERTY",
+                    "item_564": "TXT_KEY_BUILDING_STATUE_ZEUS",
+                    "item_565": "TXT_KEY_BUILDING_STONEHENGE",
+                    "item_566": "TXT_KEY_SYDNEY_OPERA_HOUSE",
+                    "item_567": "TXT_KEY_BUILDING_TAJ_MAHAL",
+                    "item_568": "TXT_KEY_BUILDING_TEMPLE_ARTEMIS",
+                    "item_569": "TXT_KEY_BUILDING_TERRACOTTA_ARMY",
+                    "item_570": "TXT_KEY_BUILDING_UFFIZI"
+                }
+            },
+            "sec_68": {
+                "label": "TXT_KEY_WONDER_SECTION_2",
+                "items": {
+                    "item_571": "TXT_KEY_BUILDING_CIRCUS_MAXIMUS",
+                    "item_572": "TXT_KEY_BUILDING_EAST_INDIA",
+                    "item_573": "TXT_KEY_BUILDING_GRAND_TEMPLE",
+                    "item_574": "TXT_KEY_BUILDING_HERMITAGE",
+                    "item_575": "TXT_KEY_BUILDING_HEROIC_EPIC",
+                    "item_576": "TXT_KEY_BUILDING_IRONWORKS",
+                    "item_577": "TXT_KEY_BUILDING_NATIONAL_COLLEGE",
+                    "item_578": "TXT_KEY_BUILDING_NATIONAL_EPIC",
+                    "item_579": "TXT_KEY_BUILDING_INTELLIGENCE_AGENCY",
+                    "item_580": "TXT_KEY_BUILDING_TOURIST_CENTER",
+                    "item_581": "TXT_KEY_BUILDING_OXFORD_UNIVERSITY",
+                    "item_582": "TXT_KEY_BUILDING_PALACE"
+                }
+            },
+            "sec_69": {
+                "label": "TXT_KEY_WONDER_SECTION_3",
+                "items": {
+                    "item_583": "TXT_KEY_PROJECT_APOLLO_PROGRAM",
+                    "item_584": "TXT_KEY_PROJECT_MANHATTAN_PROJECT"
+                }
+            }
+        }
+    },
+    "cat_8": {
+        "label": "TXT_KEY_PEDIA_CATEGORY_8_LABEL",
+        "sections": {
+            "sec_70": {
+                "label": "TXT_KEY_PEDIA_POLICIES_PAGE_LABEL",
+                "items": {
+                    "item_436": "TXT_KEY_PEDIA_POLICIES_PAGE_LABEL"
+                }
+            },
+            "sec_71": {
+                "label": "TXT_KEY_POLICY_BRANCH_TRADITION",
+                "items": {
+                    "item_437": "TXT_KEY_POLICY_ARISTOCRACY",
+                    "item_438": "TXT_KEY_POLICY_LANDED_ELITE",
+                    "item_439": "TXT_KEY_POLICY_LEGALISM",
+                    "item_440": "TXT_KEY_POLICY_MONARCHY",
+                    "item_441": "TXT_KEY_POLICY_OLIGARCHY",
+                    "item_442": "TXT_KEY_POLICY_TRADITION"
+                }
+            },
+            "sec_72": {
+                "label": "TXT_KEY_POLICY_BRANCH_LIBERTY",
+                "items": {
+                    "item_443": "TXT_KEY_POLICY_CITIZENSHIP",
+                    "item_444": "TXT_KEY_POLICY_COLLECTIVE_RULE",
+                    "item_445": "TXT_KEY_POLICY_BRANCH_LIBERTY",
+                    "item_446": "TXT_KEY_POLICY_MERITOCRACY",
+                    "item_447": "TXT_KEY_POLICY_REPRESENTATION",
+                    "item_448": "TXT_KEY_POLICY_REPUBLIC"
+                }
+            },
+            "sec_73": {
+                "label": "TXT_KEY_POLICY_BRANCH_HONOR",
+                "items": {
+                    "item_449": "TXT_KEY_POLICY_DISCIPLINE",
+                    "item_450": "TXT_KEY_POLICY_BRANCH_HONOR",
+                    "item_451": "TXT_KEY_POLICY_MILITARY_CASTE",
+                    "item_452": "TXT_KEY_POLICY_MILITARY_TRADITION",
+                    "item_453": "TXT_KEY_POLICY_PROFESSIONAL_ARMY",
+                    "item_454": "TXT_KEY_POLICY_WARRIOR_CODE"
+                }
+            },
+            "sec_74": {
+                "label": "TXT_KEY_POLICY_BRANCH_PIETY",
+                "items": {
+                    "item_455": "TXT_KEY_POLICY_MANDATE_OF_HEAVEN",
+                    "item_456": "TXT_KEY_POLICY_ORGANIZED_RELIGION",
+                    "item_457": "TXT_KEY_POLICY_BRANCH_PIETY",
+                    "item_458": "TXT_KEY_POLICY_REFORMATION",
+                    "item_459": "TXT_KEY_POLICY_FREE_RELIGION",
+                    "item_460": "TXT_KEY_POLICY_THEOCRACY"
+                }
+            },
+            "sec_75": {
+                "label": "TXT_KEY_POLICY_BRANCH_PATRONAGE",
+                "items": {
+                    "item_461": "TXT_KEY_POLICY_CONSULATES",
+                    "item_462": "TXT_KEY_POLICY_CULTURAL_DIPLOMACY",
+                    "item_463": "TXT_KEY_POLICY_MERCHANT_CONFEDERACY",
+                    "item_464": "TXT_KEY_POLICY_BRANCH_PATRONAGE",
+                    "item_465": "TXT_KEY_POLICY_PHILANTHROPY",
+                    "item_466": "TXT_KEY_POLICY_SCHOLASTICISM"
+                }
+            },
+            "sec_76": {
+                "label": "TXT_KEY_POLICY_BRANCH_AESTHETICS",
+                "items": {
+                    "item_467": "TXT_KEY_POLICY_AESTHETICS",
+                    "item_468": "TXT_KEY_POLICY_ARTISTIC_GENIUS",
+                    "item_469": "TXT_KEY_POLICY_CULTURAL_CENTERS",
+                    "item_470": "TXT_KEY_POLICY_ETHICS",
+                    "item_471": "TXT_KEY_POLICY_FINE_ARTS",
+                    "item_472": "TXT_KEY_POLICY_FLOURISHING_OF_ARTS"
+                }
+            },
+            "sec_77": {
+                "label": "TXT_KEY_POLICY_BRANCH_COMMERCE",
+                "items": {
+                    "item_473": "TXT_KEY_POLICY_BRANCH_COMMERCE",
+                    "item_474": "TXT_KEY_POLICY_ENTREPRENEURSHIP",
+                    "item_475": "TXT_KEY_POLICY_MERCANTILISM",
+                    "item_476": "TXT_KEY_POLICY_TRADE_UNIONS",
+                    "item_477": "TXT_KEY_POLICY_PROTECTIONISM",
+                    "item_478": "TXT_KEY_POLICY_CARAVANS"
+                }
+            },
+            "sec_78": {
+                "label": "TXT_KEY_POLICY_BRANCH_EXPLORATION",
+                "items": {
+                    "item_479": "TXT_KEY_POLICY_BRANCH_EXPLORATION",
+                    "item_480": "TXT_KEY_POLICY_MARITIME_INFRASTRUCTURE",
+                    "item_481": "TXT_KEY_POLICY_MERCHANT_NAVY",
+                    "item_482": "TXT_KEY_POLICY_NAVAL_TRADITION",
+                    "item_483": "TXT_KEY_POLICY_NAVIGATION_SCHOOL",
+                    "item_484": "TXT_KEY_POLICY_TREASURE_FLEETS"
+                }
+            },
+            "sec_79": {
+                "label": "TXT_KEY_POLICY_BRANCH_RATIONALISM",
+                "items": {
+                    "item_485": "TXT_KEY_POLICY_FREE_THOUGHT",
+                    "item_486": "TXT_KEY_POLICY_HUMANISM",
+                    "item_487": "TXT_KEY_POLICY_BRANCH_RATIONALISM",
+                    "item_488": "TXT_KEY_POLICY_SCIENTIFIC_REVOLUTION",
+                    "item_489": "TXT_KEY_POLICY_SECULARISM",
+                    "item_490": "TXT_KEY_POLICY_SOVEREIGNTY"
+                }
+            },
+            "sec_80": {
+                "label": "TXT_KEY_POLICY_BRANCH_FREEDOM",
+                "items": {
+                    "item_491": "TXT_KEY_POLICY_ARSENAL_DEMOCRACY",
+                    "item_492": "TXT_KEY_POLICY_OPEN_SOCIETY",
+                    "item_493": "TXT_KEY_POLICY_CAPITALISM",
+                    "item_494": "TXT_KEY_POLICY_CIVIL_SOCIETY",
+                    "item_495": "TXT_KEY_POLICY_COVERT_ACTION",
+                    "item_496": "TXT_KEY_POLICY_CREATIVE_EXPRESSION",
+                    "item_497": "TXT_KEY_POLICY_ECONOMIC_UNION",
+                    "item_498": "TXT_KEY_POLICY_MEDIA_CULTURE",
+                    "item_499": "TXT_KEY_POLICY_NEW_DEAL",
+                    "item_500": "TXT_KEY_POLICY_SPACE_PROCUREMENTS",
+                    "item_501": "TXT_KEY_POLICY_THEIR_FINEST_HOUR",
+                    "item_502": "TXT_KEY_POLICY_TREATY_ORGANIZATION",
+                    "item_503": "TXT_KEY_POLICY_UNIVERSAL_HEALTHCARE",
+                    "item_504": "TXT_KEY_POLICY_UNIVERSAL_SUFFRAGE",
+                    "item_505": "TXT_KEY_POLICY_URBANIZATION",
+                    "item_506": "TXT_KEY_POLICY_VOLUNTEER_ARMY"
+                }
+            },
+            "sec_81": {
+                "label": "TXT_KEY_POLICY_BRANCH_ORDER",
+                "items": {
+                    "item_880": "TXT_KEY_POLICY_ACADEMY_SCIENCES",
+                    "item_881": "TXT_KEY_POLICY_CULTURAL_REVOLUTION",
+                    "item_882": "TXT_KEY_POLICY_DICTATORSHIP_PROLETARIAT",
+                    "item_883": "TXT_KEY_POLICY_DOUBLE_AGENTS",
+                    "item_884": "TXT_KEY_POLICY_FIVE_YEAR_PLAN",
+                    "item_885": "TXT_KEY_POLICY_HERO_OF_THE_PEOPLE",
+                    "item_886": "TXT_KEY_POLICY_IRON_CURTAIN",
+                    "item_887": "TXT_KEY_POLICY_PARTY_LEADERSHIP",
+                    "item_888": "TXT_KEY_POLICY_PATRIOTIC_WAR",
+                    "item_889": "TXT_KEY_POLICY_RESETTLEMENT",
+                    "item_890": "TXT_KEY_POLICY_SKYSCRAPERS",
+                    "item_891": "TXT_KEY_POLICY_SOCIALIST_REALISM",
+                    "item_892": "TXT_KEY_POLICY_SPACEFLIGHT_PIONEERS",
+                    "item_893": "TXT_KEY_POLICY_UNIVERSAL_HEALTHCARE",
+                    "item_894": "TXT_KEY_POLICY_WORKERS_FACULTIES",
+                    "item_895": "TXT_KEY_POLICY_YOUNG_PIONEERS"
+                }
+            },
+            "sec_82": {
+                "label": "TXT_KEY_POLICY_BRANCH_AUTOCRACY",
+                "items": {
+                    "item_507": "TXT_KEY_POLICY_NEW_ORDER",
+                    "item_508": "TXT_KEY_POLICY_CULT_PERSONALITY",
+                    "item_509": "TXT_KEY_POLICY_ELITE_FORCES",
+                    "item_510": "TXT_KEY_POLICY_FORTIFIED_BORDERS",
+                    "item_511": "TXT_KEY_POLICY_FUTURISM",
+                    "item_512": "TXT_KEY_POLICY_GUNBOAT_DIPLOMACY",
+                    "item_513": "TXT_KEY_POLICY_INDUSTRIAL_ESPIONAGE",
+                    "item_514": "TXT_KEY_POLICY_LIGHTNING_WARFARE",
+                    "item_515": "TXT_KEY_POLICY_MILITARISM",
+                    "item_516": "TXT_KEY_POLICY_MOBILIZATION",
+                    "item_517": "TXT_KEY_POLICY_NATIONALISM",
+                    "item_518": "TXT_KEY_POLICY_POLICE_STATE",
+                    "item_519": "TXT_KEY_POLICY_THIRD_ALTERNATIVE",
+                    "item_520": "TXT_KEY_POLICY_TOTAL_WAR",
+                    "item_521": "TXT_KEY_POLICY_UNITED_FRONT",
+                    "item_522": "TXT_KEY_POLICY_UNIVERSAL_HEALTHCARE"
+                }
+            }
+        }
+    },
+    "cat_9": {
+        "label": "TXT_KEY_PEDIA_CATEGORY_9_LABEL",
+        "sections": {
+            "sec_83": {
+                "label": "TXT_KEY_PEDIA_PEOPLE_PAGE_LABEL",
+                "items": {
+                    "item_334": "TXT_KEY_SPECIALISTSANDGP_HEADING1_TITLE"
+                }
+            },
+            "sec_84": {
+                "label": "TXT_KEY_PEOPLE_SECTION_1",
+                "items": {
+                    "item_335": "TXT_KEY_SPECIALIST_ARTIST",
+                    "item_336": "TXT_KEY_SPECIALIST_ENGINEER",
+                    "item_337": "TXT_KEY_SPECIALIST_MERCHANT",
+                    "item_338": "TXT_KEY_SPECIALIST_MUSICIAN",
+                    "item_339": "TXT_KEY_SPECIALIST_SCIENTIST",
+                    "item_340": "TXT_KEY_SPECIALIST_CITIZEN",
+                    "item_341": "TXT_KEY_SPECIALIST_WRITER"
+                }
+            },
+            "sec_85": {
+                "label": "TXT_KEY_PEOPLE_SECTION_2",
+                "items": {
+                    "item_342": "TXT_KEY_UNIT_GREAT_ADMIRAL",
+                    "item_343": "TXT_KEY_UNIT_GREAT_ARTIST",
+                    "item_344": "TXT_KEY_UNIT_GREAT_ENGINEER",
+                    "item_345": "TXT_KEY_UNIT_GREAT_GENERAL",
+                    "item_346": "TXT_KEY_UNIT_GREAT_MERCHANT",
+                    "item_347": "TXT_KEY_UNIT_GREAT_MUSICIAN",
+                    "item_348": "TXT_KEY_UNIT_GREAT_PROPHET",
+                    "item_349": "TXT_KEY_UNIT_GREAT_SCIENTIST",
+                    "item_350": "TXT_KEY_UNIT_GREAT_WRITER",
+                    "item_351": "TXT_KEY_UNIT_MONGOL_KHAN",
+                    "item_352": "TXT_KEY_UNIT_VENETIAN_MERCHANT"
+                }
+            }
+        }
+    },
+    "cat_10": {
+        "label": "TXT_KEY_PEDIA_CATEGORY_10_LABEL",
+        "sections": {
+            "sec_86": {
+                "label": "TXT_KEY_PEDIA_CIVILIZATIONS_PAGE_LABEL",
+                "items": {
+                    "item_247": "TXT_KEY_PEDIA_CIVILIZATIONS_PAGE_LABEL"
+                }
+            },
+            "sec_87": {
+                "label": "TXT_KEY_CIVILIZATION_SECTION_1",
+                "items": {
+                    "item_248": "TXT_KEY_CIV_AMERICA_SHORT_DESC",
+                    "item_249": "TXT_KEY_CIV_ARABIA_SHORT_DESC",
+                    "item_250": "TXT_KEY_CIV_ASSYRIA_SHORT_DESC",
+                    "item_251": "TXT_KEY_CIV_AUSTRIA_SHORT_DESC",
+                    "item_252": "TXT_KEY_CIV_BABYLON_SHORT_DESC",
+                    "item_253": "TXT_KEY_CIV_BRAZIL_SHORT_DESC",
+                    "item_254": "TXT_KEY_CIV_BYZANTIUM_SHORT_DESC",
+                    "item_255": "TXT_KEY_CIV_CARTHAGE_SHORT_DESC",
+                    "item_256": "TXT_KEY_CIV_CHINA_SHORT_DESC",
+                    "item_257": "TXT_KEY_CIV_DENMARK_SHORT_DESC",
+                    "item_258": "TXT_KEY_CIV_EGYPT_SHORT_DESC",
+                    "item_259": "TXT_KEY_CIV_ENGLAND_SHORT_DESC",
+                    "item_260": "TXT_KEY_CIV_ETHIOPIA_SHORT_DESC",
+                    "item_261": "TXT_KEY_CIV_FRANCE_SHORT_DESC",
+                    "item_262": "TXT_KEY_CIV_GERMANY_SHORT_DESC",
+                    "item_263": "TXT_KEY_CIV_GREECE_SHORT_DESC",
+                    "item_264": "TXT_KEY_CIV_INDIA_SHORT_DESC",
+                    "item_265": "TXT_KEY_CIV_INDONESIA_SHORT_DESC",
+                    "item_266": "TXT_KEY_CIV_JAPAN_SHORT_DESC",
+                    "item_267": "TXT_KEY_CIV_KOREA_SHORT_DESC",
+                    "item_268": "TXT_KEY_CIV_MONGOL_SHORT_DESC",
+                    "item_269": "TXT_KEY_CIV_MOROCCO_SHORT_DESC",
+                    "item_270": "TXT_KEY_CIV_PERSIA_SHORT_DESC",
+                    "item_271": "TXT_KEY_CIV_POLAND_SHORT_DESC",
+                    "item_272": "TXT_KEY_CIV_POLYNESIA_SHORT_DESC",
+                    "item_273": "TXT_KEY_CIV_PORTUGAL_SHORT_DESC",
+                    "item_274": "TXT_KEY_CIV_ROME_SHORT_DESC",
+                    "item_275": "TXT_KEY_CIV_RUSSIA_SHORT_DESC",
+                    "item_276": "TXT_KEY_CIV_SIAM_SHORT_DESC",
+                    "item_277": "TXT_KEY_CIV_SONGHAI_SHORT_DESC",
+                    "item_278": "TXT_KEY_CIV_SPAIN_SHORT_DESC",
+                    "item_279": "TXT_KEY_CIV_SWEDEN_SHORT_DESC",
+                    "item_280": "TXT_KEY_CIV_AZTEC_SHORT_DESC",
+                    "item_281": "TXT_KEY_CIV_CELTS_SHORT_DESC",
+                    "item_282": "TXT_KEY_CIV_HUNS_SHORT_DESC",
+                    "item_283": "TXT_KEY_CIV_INCA_SHORT_DESC",
+                    "item_284": "TXT_KEY_CIV_IROQUOIS_SHORT_DESC",
+                    "item_285": "TXT_KEY_CIV_MAYA_SHORT_DESC",
+                    "item_286": "TXT_KEY_CIV_NETHERLANDS_SHORT_DESC",
+                    "item_287": "TXT_KEY_CIV_OTTOMAN_SHORT_DESC",
+                    "item_288": "TXT_KEY_CIV_SHOSHONE_SHORT_DESC",
+                    "item_289": "TXT_KEY_CIV_ZULU_SHORT_DESC",
+                    "item_290": "TXT_KEY_CIV_VENICE_SHORT_DESC"
+                }
+            },
+            "sec_88": {
+                "label": "TXT_KEY_CIVILIZATION_SECTION_2",
+                "items": {
+                    "item_291": "TXT_KEY_LEADER_AHMAD_ALMANSUR",
+                    "item_292": "TXT_KEY_LEADER_ALEXANDER",
+                    "item_293": "TXT_KEY_LEADER_ASHURBANIPAL",
+                    "item_294": "TXT_KEY_LEADER_ASKIA",
+                    "item_295": "TXT_KEY_LEADER_ATTILA",
+                    "item_296": "TXT_KEY_LEADER_AUGUSTUS",
+                    "item_297": "TXT_KEY_LEADER_BISMARCK",
+                    "item_298": "TXT_KEY_LEADER_BOUDICCA",
+                    "item_299": "TXT_KEY_LEADER_CASIMIR",
+                    "item_300": "TXT_KEY_LEADER_CATHERINE",
+                    "item_301": "TXT_KEY_LEADER_DARIUS",
+                    "item_302": "TXT_KEY_LEADER_DIDO",
+                    "item_303": "TXT_KEY_LEADER_ELIZABETH",
+                    "item_304": "TXT_KEY_LEADER_ENRICO_DANDOLO",
+                    "item_305": "TXT_KEY_LEADER_GAJAH_MADA",
+                    "item_306": "TXT_KEY_LEADER_GANDHI",
+                    "item_307": "TXT_KEY_LEADER_GENGHIS_KHAN",
+                    "item_308": "TXT_KEY_LEADER_GUSTAVUS_ADOLPHUS",
+                    "item_309": "TXT_KEY_LEADER_SELASSIE",
+                    "item_310": "TXT_KEY_LEADER_HARALD",
+                    "item_311": "TXT_KEY_LEADER_HARUN",
+                    "item_312": "TXT_KEY_LEADER_HIAWATHA",
+                    "item_313": "TXT_KEY_LEADER_ISABELLA",
+                    "item_314": "TXT_KEY_LEADER_KAMEHAMEHA",
+                    "item_315": "TXT_KEY_LEADER_MARIA_I",
+                    "item_316": "TXT_KEY_LEADER_MARIA",
+                    "item_317": "TXT_KEY_LEADER_MONTEZUMA",
+                    "item_318": "TXT_KEY_LEADER_NAPOLEON",
+                    "item_319": "TXT_KEY_LEADER_NEBUCHADNEZZAR",
+                    "item_320": "TXT_KEY_LEADER_ODA_NOBUNAGA",
+                    "item_321": "TXT_KEY_LEADER_PACAL",
+                    "item_322": "TXT_KEY_LEADER_PACHACUTI",
+                    "item_323": "TXT_KEY_LEADER_PEDRO",
+                    "item_324": "TXT_KEY_LEADER_POCATELLO",
+                    "item_325": "TXT_KEY_LEADER_RAMESSES",
+                    "item_326": "TXT_KEY_LEADER_RAMKHAMHAENG",
+                    "item_327": "TXT_KEY_LEADER_SEJONG",
+                    "item_328": "TXT_KEY_LEADER_SHAKA",
+                    "item_329": "TXT_KEY_LEADER_SULEIMAN",
+                    "item_330": "TXT_KEY_LEADER_THEODORA",
+                    "item_331": "TXT_KEY_LEADER_WASHINGTON",
+                    "item_332": "TXT_KEY_LEADER_WILLIAM",
+                    "item_333": "TXT_KEY_LEADER_WU_ZETIAN"
+                }
+            }
+        }
+    },
+    "cat_11": {
+        "label": "TXT_KEY_PEDIA_CATEGORY_11_LABEL",
+        "sections": {
+            "sec_89": {
+                "label": "TXT_KEY_PEDIA_CITY_STATES_PAGE_LABEL",
+                "items": {
+                    "item_188": "TXT_KEY_PEDIA_CITY_STATES_PAGE_LABEL"
+                }
+            },
+            "sec_90": {
+                "label": "TXT_KEY_MINOR_TRAIT_CULTURED",
+                "items": {
+                    "item_189": "TXT_KEY_CITYSTATE_BOGOTA",
+                    "item_190": "TXT_KEY_CITYSTATE_BRATISLAVA",
+                    "item_191": "TXT_KEY_CITYSTATE_BRUSSELS",
+                    "item_192": "TXT_KEY_CITYSTATE_BUCHAREST",
+                    "item_193": "TXT_KEY_CITYSTATE_BUENOS_AIRES",
+                    "item_194": "TXT_KEY_CITYSTATE_FLORENCE",
+                    "item_195": "TXT_KEY_CITYSTATE_KABUL",
+                    "item_196": "TXT_KEY_CITYSTATE_KIEV",
+                    "item_197": "TXT_KEY_CITYSTATE_KUALA_LUMPUR",
+                    "item_198": "TXT_KEY_CITYSTATE_KYZYL",
+                    "item_199": "TXT_KEY_CITYSTATE_MILAN",
+                    "item_200": "TXT_KEY_CITYSTATE_MONACO",
+                    "item_201": "TXT_KEY_CITYSTATE_PRAGUE",
+                    "item_202": "TXT_KEY_CITYSTATE_YEREVAN"
+                }
+            },
+            "sec_91": {
+                "label": "TXT_KEY_MINOR_TRAIT_MILITARISTIC",
+                "items": {
+                    "item_203": "TXT_KEY_CITYSTATE_ALMATY",
+                    "item_204": "TXT_KEY_CITYSTATE_BELGRADE",
+                    "item_205": "TXT_KEY_CITYSTATE_BUDAPEST",
+                    "item_206": "TXT_KEY_CITYSTATE_HANOI",
+                    "item_207": "TXT_KEY_CITYSTATE_MBANZA_KONGO",
+                    "item_208": "TXT_KEY_CITYSTATE_SIDON",
+                    "item_209": "TXT_KEY_CITYSTATE_SOFIA",
+                    "item_210": "TXT_KEY_CITYSTATE_VALLETTA"
+                }
+            },
+            "sec_92": {
+                "label": "TXT_KEY_MINOR_TRAIT_MARITIME",
+                "items": {
+                    "item_211": "TXT_KEY_CITYSTATE_BYBLOS",
+                    "item_212": "TXT_KEY_CITYSTATE_CAPE_TOWN",
+                    "item_213": "TXT_KEY_CITYSTATE_MANILA",
+                    "item_214": "TXT_KEY_CITYSTATE_MOGADISHU",
+                    "item_215": "TXT_KEY_CITYSTATE_MOMBASA",
+                    "item_216": "TXT_KEY_CITYSTATE_ORMUS",
+                    "item_217": "TXT_KEY_CITYSTATE_PANAMA_CITY",
+                    "item_218": "TXT_KEY_CITYSTATE_QUEBEC_CITY",
+                    "item_219": "TXT_KEY_CITYSTATE_RAGUSA",
+                    "item_220": "TXT_KEY_CITYSTATE_RIGA",
+                    "item_221": "TXT_KEY_CITYSTATE_SYDNEY",
+                    "item_222": "TXT_KEY_CITYSTATE_UR",
+                    "item_223": "TXT_KEY_CITYSTATE_VANCOUVER",
+                    "item_224": "TXT_KEY_CITYSTATE_WELLINGTON"
+                }
+            },
+            "sec_93": {
+                "label": "TXT_KEY_MINOR_TRAIT_MERCANTILE",
+                "items": {
+                    "item_225": "TXT_KEY_CITYSTATE_ANTANANARIVO",
+                    "item_226": "TXT_KEY_CITYSTATE_ANTWERP",
+                    "item_227": "TXT_KEY_CITYSTATE_CAHOKIA",
+                    "item_228": "TXT_KEY_CITYSTATE_COLOMBO",
+                    "item_229": "TXT_KEY_CITYSTATE_GENOA",
+                    "item_230": "TXT_KEY_CITYSTATE_HONG_KONG",
+                    "item_231": "TXT_KEY_CITYSTATE_MALACCA",
+                    "item_232": "TXT_KEY_CITYSTATE_MELBOURNE",
+                    "item_233": "TXT_KEY_CITYSTATE_SAMARKAND",
+                    "item_234": "TXT_KEY_CITYSTATE_SINGAPORE",
+                    "item_235": "TXT_KEY_CITYSTATE_TYRE",
+                    "item_236": "TXT_KEY_CITYSTATE_VILNIUS",
+                    "item_237": "TXT_KEY_CITYSTATE_ZANZIBAR",
+                    "item_238": "TXT_KEY_CITYSTATE_ZURICH"
+                }
+            },
+            "sec_94": {
+                "label": "TXT_KEY_MINOR_TRAIT_RELIGIOUS",
+                "items": {
+                    "item_239": "TXT_KEY_CITYSTATE_GENEVA",
+                    "item_240": "TXT_KEY_CITYSTATE_IFE",
+                    "item_241": "TXT_KEY_CITYSTATE_JERUSALEM",
+                    "item_242": "TXT_KEY_CITYSTATE_KATHMANDU",
+                    "item_243": "TXT_KEY_CITYSTATE_LA_VENTA",
+                    "item_244": "TXT_KEY_CITYSTATE_LHASA",
+                    "item_245": "TXT_KEY_CITYSTATE_VATICAN_CITY",
+                    "item_246": "TXT_KEY_CITYSTATE_WITTENBERG"
+                }
+            }
+        }
+    },
+    "cat_12": {
+        "label": "TXT_KEY_PEDIA_CATEGORY_12_LABEL",
+        "sections": {
+            "sec_95": {
+                "label": "TXT_KEY_PEDIA_TERRAIN_PAGE_LABEL",
+                "items": {
+                    "item_151": "TXT_KEY_PEDIA_TERRAIN_PAGE_LABEL"
+                }
+            },
+            "sec_96": {
+                "label": "TXT_KEY_PEDIA_TERRAIN_LABEL",
+                "items": {
+                    "item_152": "TXT_KEY_TERRAIN_COAST_HEADING3_TITLE",
+                    "item_153": "TXT_KEY_TERRAIN_DESERT_HEADING3_TITLE",
+                    "item_154": "TXT_KEY_TERRAIN_GRASSLAND_HEADING3_TITLE",
+                    "item_155": "TXT_KEY_TERRAIN_HILLS_HEADING3_TITLE",
+                    "item_156": "TXT_KEY_TERRAIN_MOUNTAIN_HEADING3_TITLE",
+                    "item_157": "TXT_KEY_TERRAIN_OCEAN_HEADING3_TITLE",
+                    "item_158": "TXT_KEY_TERRAIN_PLAINS_HEADING3_TITLE",
+                    "item_159": "TXT_KEY_TERRAIN_SNOW_HEADING3_TITLE",
+                    "item_160": "TXT_KEY_TERRAIN_TUNDRA_HEADING3_TITLE"
+                }
+            },
+            "sec_97": {
+                "label": "TXT_KEY_PEDIA_TERRAIN_FEATURES_LABEL",
+                "items": {
+                    "item_161": "TXT_KEY_CIV5_FEATURES_ATOLL",
+                    "item_162": "TXT_KEY_FEATURE_POTOSI",
+                    "item_163": "TXT_KEY_FEATURE_EL_DORADO",
+                    "item_164": "TXT_KEY_FEATURE_FALLOUT",
+                    "item_165": "TXT_KEY_FEATURE_FLOOD_PLAINS",
+                    "item_166": "TXT_KEY_CIV5_FEATURES_FOREST",
+                    "item_167": "TXT_KEY_FEATURE_FOUNTAIN_YOUTH",
+                    "item_168": "TXT_KEY_FEATURE_ICE",
+                    "item_169": "TXT_KEY_FEATURE_JUNGLE",
+                    "item_170": "TXT_KEY_FEATURE_SOLOMONS_MINES",
+                    "item_171": "TXT_KEY_FEATURE_VOLCANO",
+                    "item_172": "TXT_KEY_FEATURE_LAKE_VICTORIA",
+                    "item_173": "TXT_KEY_CIV5_FEATURES_LAKE_TITLE",
+                    "item_174": "TXT_KEY_FEATURE_MARSH",
+                    "item_175": "TXT_KEY_FEATURE_MT_FUJI",
+                    "item_176": "TXT_KEY_FEATURE_MT_KAILASH",
+                    "item_177": "TXT_KEY_FEATURE_KILIMANJARO",
+                    "item_178": "TXT_KEY_FEATURE_MT_SINAI",
+                    "item_179": "TXT_KEY_CIV5_FEATURES_OASIS",
+                    "item_180": "TXT_KEY_FEATURE_GEYSER",
+                    "item_181": "TXT_KEY_CIV5_FEATURES_RIVER_TITLE",
+                    "item_182": "TXT_KEY_FEATURE_GIBRALTAR",
+                    "item_183": "TXT_KEY_FEATURE_SRI_PADA",
+                    "item_184": "TXT_KEY_FEATURE_CRATER",
+                    "item_185": "TXT_KEY_FEATURE_MESA",
+                    "item_186": "TXT_KEY_FEATURE_REEF",
+                    "item_187": "TXT_KEY_FEATURE_ULURU"
+                }
+            }
+        }
+    },
+    "cat_13": {
+        "label": "TXT_KEY_PEDIA_CATEGORY_13_LABEL",
+        "sections": {
+            "sec_98": {
+                "label": "TXT_KEY_PEDIA_RESOURCES_PAGE_LABEL",
+                "items": {
+                    "item_108": "TXT_KEY_PEDIA_RESOURCES_PAGE_LABEL"
+                }
+            },
+            "sec_99": {
+                "label": "TXT_KEY_RESOURCES_SECTION_0",
+                "items": {
+                    "item_109": "TXT_KEY_RESOURCE_ARTIFACTS",
+                    "item_110": "TXT_KEY_RESOURCE_BANANAS",
+                    "item_111": "TXT_KEY_NEWWORLD_SCENARIO_RESOURCE_BISON",
+                    "item_112": "TXT_KEY_RESOURCE_CATTLE",
+                    "item_113": "TXT_KEY_RESOURCE_DEER",
+                    "item_114": "TXT_KEY_RESOURCE_FISH",
+                    "item_115": "TXT_KEY_RESOURCE_HIDDEN_ARTIFACTS",
+                    "item_116": "TXT_KEY_RESOURCE_SHEEP",
+                    "item_117": "TXT_KEY_RESOURCE_STONE",
+                    "item_118": "TXT_KEY_RESOURCE_WHEAT"
+                }
+            },
+            "sec_100": {
+                "label": "TXT_KEY_RESOURCES_SECTION_1",
+                "items": {
+                    "item_119": "TXT_KEY_RESOURCE_ALUMINUM",
+                    "item_120": "TXT_KEY_RESOURCE_COAL",
+                    "item_121": "TXT_KEY_RESOURCE_HORSES",
+                    "item_122": "TXT_KEY_RESOURCE_IRON",
+                    "item_123": "TXT_KEY_RESOURCE_OIL",
+                    "item_124": "TXT_KEY_RESOURCE_URANIUM"
+                }
+            },
+            "sec_101": {
+                "label": "TXT_KEY_RESOURCES_SECTION_2",
+                "items": {
+                    "item_125": "TXT_KEY_RESOURCE_CITRUS",
+                    "item_126": "TXT_KEY_RESOURCE_CLOVES",
+                    "item_127": "TXT_KEY_NEWWORLD_SCENARIO_RESOURCE_COCOA",
+                    "item_128": "TXT_KEY_RESOURCE_COPPER",
+                    "item_129": "TXT_KEY_RESOURCE_COTTON",
+                    "item_130": "TXT_KEY_RESOURCE_CRAB",
+                    "item_131": "TXT_KEY_RESOURCE_DYES",
+                    "item_132": "TXT_KEY_RESOURCE_FURS",
+                    "item_133": "TXT_KEY_RESOURCE_GEMS",
+                    "item_134": "TXT_KEY_RESOURCE_GOLD",
+                    "item_135": "TXT_KEY_RESOURCE_INCENSE",
+                    "item_136": "TXT_KEY_RESOURCE_IVORY",
+                    "item_137": "TXT_KEY_RESOURCE_JEWELRY",
+                    "item_138": "TXT_KEY_RESOURCE_MARBLE",
+                    "item_139": "TXT_KEY_RESOURCE_NUTMEG",
+                    "item_140": "TXT_KEY_RESOURCE_PEARLS",
+                    "item_141": "TXT_KEY_RESOURCE_PEPPER",
+                    "item_142": "TXT_KEY_RESOURCE_PORCELAIN",
+                    "item_143": "TXT_KEY_RESOURCE_SALT",
+                    "item_144": "TXT_KEY_RESOURCE_SILK",
+                    "item_145": "TXT_KEY_RESOURCE_SILVER",
+                    "item_146": "TXT_KEY_RESOURCE_SPICES",
+                    "item_147": "TXT_KEY_RESOURCE_SUGAR",
+                    "item_148": "TXT_KEY_RESOURCE_TRUFFLES",
+                    "item_149": "TXT_KEY_RESOURCE_WHALES",
+                    "item_150": "TXT_KEY_RESOURCE_WINE"
+                }
+            }
+        }
+    },
+    "cat_14": {
+        "label": "TXT_KEY_PEDIA_CATEGORY_14_LABEL",
+        "sections": {
+            "sec_102": {
+                "label": "TXT_KEY_PEDIA_IMPROVEMENTS_PAGE_LABEL",
+                "items": {
+                    "item_76": "TXT_KEY_PEDIA_IMPROVEMENTS_PAGE_LABEL",
+                    "item_77": "TXT_KEY_IMPROVEMENT_ACADEMY",
+                    "item_78": "TXT_KEY_IMPROVEMENT_GOODY_HUT",
+                    "item_79": "TXT_KEY_IMPROVEMENT_ARCHAEOLOGICAL_DIG",
+                    "item_80": "TXT_KEY_IMPROVEMENT_BRAZILWOOD_CAMP",
+                    "item_81": "TXT_KEY_IMPROVEMENT_CAMP",
+                    "item_82": "TXT_KEY_IMPROVEMENT_CHATEAU",
+                    "item_83": "TXT_KEY_IMPROVEMENT_CITADEL",
+                    "item_84": "TXT_KEY_IMPROVEMENT_CITY_RUINS",
+                    "item_85": "TXT_KEY_IMPROVEMENT_CUSTOMS_HOUSE",
+                    "item_86": "TXT_KEY_IMPROVEMENT_ENCAMPMENT",
+                    "item_87": "TXT_KEY_IMPROVEMENT_FARM",
+                    "item_88": "TXT_KEY_IMPROVEMENT_FEITORIA",
+                    "item_89": "TXT_KEY_IMPROVEMENT_FISHING_BOATS",
+                    "item_90": "TXT_KEY_IMPROVEMENT_FORT",
+                    "item_91": "TXT_KEY_IMPROVEMENT_HOLY_SITE",
+                    "item_92": "TXT_KEY_IMPROVEMENT_KASBAH",
+                    "item_93": "TXT_KEY_IMPROVEMENT_LANDMARK",
+                    "item_94": "TXT_KEY_IMPROVEMENT_LUMBERMILL",
+                    "item_95": "TXT_KEY_IMPROVEMENT_MANUFACTORY",
+                    "item_96": "TXT_KEY_IMPROVEMENT_MINE",
+                    "item_97": "TXT_KEY_IMPROVEMENT_MOAI",
+                    "item_98": "TXT_KEY_IMPROVEMENT_OFFSHORE_PLATFORM",
+                    "item_99": "TXT_KEY_IMPROVEMENT_WELL",
+                    "item_100": "TXT_KEY_IMPROVEMENT_PASTURE",
+                    "item_101": "TXT_KEY_IMPROVEMENT_PLANTATION",
+                    "item_102": "TXT_KEY_IMPROVEMENT_POLDER",
+                    "item_103": "TXT_KEY_IMPROVEMENT_QUARRY",
+                    "item_104": "TXT_KEY_TECH_RAILROAD_TITLE",
+                    "item_105": "TXT_KEY_CIV5_IMPROVEMENTS_ROAD",
+                    "item_106": "TXT_KEY_IMPROVEMENT_TERRACE_FARM",
+                    "item_107": "TXT_KEY_IMPROVEMENT_TRADING_POST"
+                }
+            }
+        }
+    },
+    "cat_15": {
+        "label": "TXT_KEY_PEDIA_CATEGORY_15_LABEL",
+        "sections": {
+            "sec_103": {
+                "label": "TXT_KEY_PEDIA_BELIEFS_PAGE_LABEL",
+                "items": {
+                    "item_353": "TXT_KEY_PEDIA_BELIEFS_PAGE_LABEL"
+                }
+            },
+            "sec_104": {
+                "label": "TXT_KEY_PEDIA_BELIEFS_CATEGORY_1",
+                "items": {
+                    "item_354": "TXT_KEY_RELIGION_BUDDHISM",
+                    "item_355": "TXT_KEY_RELIGION_CATHOLICISM",
+                    "item_356": "TXT_KEY_RELIGION_CONFUCIANISM",
+                    "item_357": "TXT_KEY_RELIGION_ORTHODOXY",
+                    "item_358": "TXT_KEY_RELIGION_HINDUISM",
+                    "item_359": "TXT_KEY_RELIGION_ISLAM",
+                    "item_360": "TXT_KEY_RELIGION_JUDAISM",
+                    "item_361": "TXT_KEY_RELIGION_PROTESTANTISM",
+                    "item_362": "TXT_KEY_RELIGION_SHINTO",
+                    "item_363": "TXT_KEY_RELIGION_SIKHISM",
+                    "item_364": "TXT_KEY_RELIGION_TAOISM",
+                    "item_365": "TXT_KEY_RELIGION_TENGRIISM",
+                    "item_366": "TXT_KEY_RELIGION_ZOROASTRIANISM"
+                }
+            },
+            "sec_105": {
+                "label": "TXT_KEY_PEDIA_BELIEFS_CATEGORY_2",
+                "items": {
+                    "item_367": "TXT_KEY_BELIEF_ANCESTOR_WORSHIP_SHORT",
+                    "item_368": "TXT_KEY_BELIEF_DANCE_AURORA_SHORT",
+                    "item_369": "TXT_KEY_BELIEF_DESERT_FOLKLORE_SHORT",
+                    "item_370": "TXT_KEY_BELIEF_EARTH_MOTHER_SHORT",
+                    "item_371": "TXT_KEY_BELIEF_FAITH_HEALERS_SHORT",
+                    "item_372": "TXT_KEY_BELIEF_FERTILITY_RITES_SHORT",
+                    "item_373": "TXT_KEY_BELIEF_GOD_CRAFTSMEN_SHORT",
+                    "item_374": "TXT_KEY_BELIEF_OPEN_SKY_SHORT",
+                    "item_375": "TXT_KEY_BELIEF_GOD_SEA_SHORT",
+                    "item_376": "TXT_KEY_BELIEF_GOD_WAR_SHORT",
+                    "item_377": "TXT_KEY_BELIEF_GOD_KING_SHORT",
+                    "item_378": "TXT_KEY_BELIEF_GOD_FESTIVALS_SHORT",
+                    "item_379": "TXT_KEY_BELIEF_GODDESS_LOVE_SHORT",
+                    "item_380": "TXT_KEY_BELIEF_GODDESS_STRATEGY_SHORT",
+                    "item_381": "TXT_KEY_BELIEF_GODDESS_HUNT_SHORT",
+                    "item_382": "TXT_KEY_BELIEF_MESSENGER_GODS_SHORT",
+                    "item_383": "TXT_KEY_BELIEF_MONUMENT_GODS_SHORT",
+                    "item_384": "TXT_KEY_BELIEF_ONE_WITH_NATURE_SHORT",
+                    "item_385": "TXT_KEY_BELIEF_ORAL_TRADITION_SHORT",
+                    "item_386": "TXT_KEY_BELIEF_FORMAL_LITURGY_SHORT",
+                    "item_387": "TXT_KEY_BELIEF_RELIGIOUS_SETTLEMENTS_SHORT",
+                    "item_388": "TXT_KEY_BELIEF_SACRED_PATH_SHORT",
+                    "item_389": "TXT_KEY_BELIEF_SACRED_WATERS_SHORT",
+                    "item_390": "TXT_KEY_BELIEF_STONE_CIRCLES_SHORT",
+                    "item_391": "TXT_KEY_BELIEF_SUN_GOD_SHORT",
+                    "item_392": "TXT_KEY_BELIEF_TEARS_OF_GODS_SHORT"
+                }
+            },
+            "sec_106": {
+                "label": "TXT_KEY_PEDIA_BELIEFS_CATEGORY_3",
+                "items": {
+                    "item_393": "TXT_KEY_BELIEF_CEREMONIAL_BURIAL_SHORT",
+                    "item_394": "TXT_KEY_BELIEF_CHURCH_PROPERTY_SHORT",
+                    "item_395": "TXT_KEY_BELIEF_INITIATION_RITES_SHORT",
+                    "item_396": "TXT_KEY_BELIEF_INTERFAITH_DIALOGUE_SHORT",
+                    "item_397": "TXT_KEY_BELIEF_PAPAL_PRIMACY_SHORT",
+                    "item_398": "TXT_KEY_BELIEF_PEACE_LOVING_SHORT",
+                    "item_399": "TXT_KEY_BELIEF_PILGRIMAGE_SHORT",
+                    "item_400": "TXT_KEY_BELIEF_TITHE_SHORT",
+                    "item_401": "TXT_KEY_BELIEF_WORLD_CHURCH_SHORT"
+                }
+            },
+            "sec_107": {
+                "label": "TXT_KEY_PEDIA_BELIEFS_CATEGORY_4",
+                "items": {
+                    "item_402": "TXT_KEY_BELIEF_ASCETISM_SHORT",
+                    "item_403": "TXT_KEY_BELIEF_CATHEDRALS_SHORT",
+                    "item_404": "TXT_KEY_BELIEF_CHORAL_MUSIC_SHORT",
+                    "item_405": "TXT_KEY_BELIEF_DIVINE_INSPIRATION_SHORT",
+                    "item_406": "TXT_KEY_BELIEF_FEED_WORLD_SHORT",
+                    "item_407": "TXT_KEY_BELIEF_GURUSHIP_SHORT",
+                    "item_408": "TXT_KEY_BELIEF_HOLY_WARRIORS_SHORT",
+                    "item_409": "TXT_KEY_BELIEF_LITURGICAL_DRAMA_SHORT",
+                    "item_410": "TXT_KEY_BELIEF_MONASTERIES_SHORT",
+                    "item_411": "TXT_KEY_BELIEF_MOSQUES_SHORT",
+                    "item_412": "TXT_KEY_BELIEF_PAGODAS_SHORT",
+                    "item_413": "TXT_KEY_BELIEF_PEACE_GARDENS_SHORT",
+                    "item_414": "TXT_KEY_BELIEF_RELIGIOUS_ART_SHORT",
+                    "item_415": "TXT_KEY_BELIEF_RELIGIOUS_CENTER_SHORT",
+                    "item_416": "TXT_KEY_BELIEF_RELIGIOUS_COMMUNITY_SHORT",
+                    "item_417": "TXT_KEY_BELIEF_SWORD_PLOWSHARES_SHORT"
+                }
+            },
+            "sec_108": {
+                "label": "TXT_KEY_PEDIA_BELIEFS_CATEGORY_5",
+                "items": {
+                    "item_418": "TXT_KEY_BELIEF_DEFENDER_FAITH_SHORT",
+                    "item_419": "TXT_KEY_BELIEF_HOLY_ORDER_SHORT",
+                    "item_420": "TXT_KEY_BELIEF_ITINERANT_PREACHERS_SHORT",
+                    "item_421": "TXT_KEY_BELIEF_JUST_WAR_SHORT",
+                    "item_422": "TXT_KEY_BELIEF_MESSIAH_SHORT",
+                    "item_423": "TXT_KEY_BELIEF_MISSIONARY_ZEAL_SHORT",
+                    "item_424": "TXT_KEY_BELIEF_RELIGIOUS_TEXTS_SHORT",
+                    "item_425": "TXT_KEY_BELIEF_RELIGIOUS_UNITY_SHORT",
+                    "item_426": "TXT_KEY_BELIEF_RELIQUARY_SHORT"
+                }
+            },
+            "sec_109": {
+                "label": "TXT_KEY_PEDIA_BELIEFS_CATEGORY_6",
+                "items": {
+                    "item_427": "TXT_KEY_BELIEF_CHARITABLE_MISSIONS_SHORT",
+                    "item_428": "TXT_KEY_BELIEF_EVANGELISM_SHORT",
+                    "item_429": "TXT_KEY_BELIEF_HEATHEN_CONVERSION_SHORT",
+                    "item_430": "TXT_KEY_BELIEF_JESUIT_EDUCATION_SHORT",
+                    "item_431": "TXT_KEY_BELIEF_RELIGIOUS_FERVOR_SHORT",
+                    "item_432": "TXT_KEY_BELIEF_SACRED_SITES_SHORT",
+                    "item_433": "TXT_KEY_BELIEF_TO_GLORY_OF_GOD_SHORT",
+                    "item_434": "TXT_KEY_BELIEF_UNDERGROUND_SECT_SHORT",
+                    "item_435": "TXT_KEY_BELIEF_UNITY_OF_PROPHETS_SHORT"
+                }
+            }
+        }
+    },
+    "cat_16": {
+        "label": "TXT_KEY_PEDIA_CATEGORY_16_LABEL",
+        "sections": {
+            "sec_110": {
+                "label": "TXT_KEY_PEDIA_WORLD_CONGRESS_PAGE_LABEL",
+                "items": {
+                    "item_54": "TXT_KEY_PEDIA_WORLD_CONGRESS_PAGE_LABEL"
+                }
+            },
+            "sec_111": {
+                "label": "TXT_KEY_PEDIA_WORLD_CONGRESS_CATEGORY_1",
+                "items": {
+                    "item_58": "TXT_KEY_RESOLUTION_ARTS_FUNDING",
+                    "item_59": "TXT_KEY_RESOLUTION_BAN_LUXURY_HAPPINESS",
+                    "item_60": "TXT_KEY_RESOLUTION_CHANGE_LEAGUE_HOST",
+                    "item_61": "TXT_KEY_RESOLUTION_CULTURAL_HERITAGE_SITES",
+                    "item_62": "TXT_KEY_RESOLUTION_PLAYER_EMBARGO",
+                    "item_63": "TXT_KEY_RESOLUTION_ALL_CITY_STATES_EMBARGO",
+                    "item_64": "TXT_KEY_RESOLUTION_HISTORICAL_LANDMARKS",
+                    "item_65": "TXT_KEY_RESOLUTION_WORLD_GAMES",
+                    "item_66": "TXT_KEY_RESOLUTION_INTERNATIONAL_SPACE_STATION",
+                    "item_67": "TXT_KEY_RESOLUTION_NATURAL_HERITAGE_SITES",
+                    "item_68": "TXT_KEY_RESOLUTION_NUCLEAR_NON_PROLIFERATION",
+                    "item_69": "TXT_KEY_RESOLUTION_MEMBER_DISCOVERED_TECH_DISCOUNT",
+                    "item_70": "TXT_KEY_RESOLUTION_SCIENCES_FUNDING",
+                    "item_71": "TXT_KEY_RESOLUTION_STANDING_ARMY_TAX",
+                    "item_72": "TXT_KEY_RESOLUTION_WORLD_IDEOLOGY",
+                    "item_73": "TXT_KEY_RESOLUTION_DIPLO_VICTORY",
+                    "item_74": "TXT_KEY_RESOLUTION_WORLD_RELIGION",
+                    "item_75": "TXT_KEY_RESOLUTION_WORLD_FAIR"
+                }
+            },
+            "sec_112": {
+                "label": "TXT_KEY_PEDIA_WORLD_CONGRESS_CATEGORY_2",
+                "items": {
+                    "item_55": "TXT_KEY_RESOLUTION_WORLD_GAMES",
+                    "item_56": "TXT_KEY_RESOLUTION_INTERNATIONAL_SPACE_STATION",
+                    "item_57": "TXT_KEY_RESOLUTION_WORLD_FAIR"
+                }
+            }
+        }
+    },
+    "extras": {
+        "item_1578": "TXT_KEY_BUILD_FARM",
+        "item_1579": "TXT_KEY_BUILD_REMOVE_JUNGLE",
+        "item_1580": "TXT_KEY_GREAT_WORK_SLOT_MUSIC_EMPTY_TOOLTIP",
+        "item_1581": "TXT_KEY_GREAT_WORK_SLOT_LITERATURE_EMPTY_TOOLTIP",
+        "item_1582": "TXT_KEY_GREAT_WORK_SLOT_ART_ARTIFACT_EMPTY_TOOLTIP",
+        "item_1583": "TXT_KEY_BUILD_PASTURE",
+        "item_1584": "TXT_KEY_BUILD_PLANTATION",
+        "item_1585": "TXT_KEY_BUILD_QUARRY",
+        "item_1586": "TXT_KEY_BUILD_REMOVE_MARSH",
+        "item_1587": "TXT_KEY_BUILD_MINE",
+        "item_1588": "TXT_KEY_BUILD_REMOVE_FOREST",
+        "item_1589": "TXT_KEY_BUILD_FISHING_BOATS",
+        "item_1590": "TXT_KEY_BUILD_ROAD",
+        "item_1591": "TXT_KEY_BUILD_CAMP",
+        "item_1592": "TXT_KEY_BUILD_LUMBERMILL",
+        "item_1593": "TXT_KEY_BUILD_TERRACE_FARM",
+        "item_1594": "TXT_KEY_BUILD_MOAI",
+        "item_1595": "TXT_KEY_BUILD_FORT",
+        "item_1596": "TXT_KEY_BUILD_KASBAH",
+        "item_1597": "TXT_KEY_BUILD_CHATEAU",
+        "item_1598": "TXT_KEY_BUILD_TRADING_POST",
+        "item_1599": "TXT_KEY_BUILD_POLDER",
+        "item_1600": "TXT_KEY_BUILD_BRAZILWOOD_CAMP",
+        "item_1601": "TXT_KEY_BUILD_FEITORIA",
+        "item_1602": "TXT_KEY_BUILD_ARCHAEOLOGY_DIG",
+        "item_1603": "TXT_KEY_BUILD_WELL",
+        "item_1604": "TXT_KEY_BUILD_RAILROAD",
+        "item_1605": "TXT_KEY_BUILD_OFFSHORE_PLATFORM"
+    }
+}

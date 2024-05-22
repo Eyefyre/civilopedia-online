@@ -1,0 +1,386 @@
+@font-face {
+    font-family: "Tw Cen MT";
+    src: url("/assets/fonts/Tw\ Cen\ MT.ttf");
+}
+
+#category-dropdown,
+#section-dropdown,
+#item-dropdown {
+    text-align: center;
+}
+
+.bordered-text {
+    border: 2px solid #DCBD88;
+    padding: 7px;
+    border-radius: 10px;
+}
+
+body {
+    color: rgba(255, 255, 200, 255);
+    background-color: #05080B;
+    font-family: "Tw Cen MT";
+    line-height: 1.3rem;
+    /* line-height: 1.8vh; */
+}
+
+@media only screen and (max-width: 991px) {
+    #desktop-content {
+        display: None;
+    }
+}
+
+@media only screen and (min-width: 992px) {
+    #mobile-content {
+        display: None;
+    }
+}
+
+.nav-tabs {
+    border: 0;
+}
+
+.nav-tabs .nav-link {
+    border: none;
+    background: transparent;
+    padding: 0px 2px 0px 2px;
+}
+
+
+.nav-tabs .nav-link img {
+    width: 48px;
+    /* width: 2.5vw; */
+}
+
+.nav-item .nav-link {
+    margin-top: 8px;
+}
+
+.nav-item .nav-link:hover,
+.nav-item .nav-link.active {
+    margin-top: 0px;
+    background: none;
+}
+
+.nav-tabs .nav-item .active img,
+.nav-tabs .nav-item .nav-link:hover img {
+    filter: grayscale(0);
+}
+
+
+#civilopedia-topbar {
+    border-width: 0px 38;
+    border-image: url("/assets/images/fancytrim1024.png");
+    border-image-width: 2rem 5rem;
+    border-image-slice: 19 50 fill;
+    border-image-repeat: initial;
+    font-size: 1.5rem;
+}
+
+
+
+.subheading {
+    background-image: url("./assets/images/civilopediatoptitle.png");
+}
+
+.subheading-row {
+    border: 3px solid #E3C37D;
+}
+
+.subheading-middle {
+    border-left: 0.2rem solid #E3C37D;
+    border-right: 0.2rem solid #E3C37D;
+}
+
+.accordion {
+    background-color: #041514;
+    border-left: 0.3rem solid #E3C37D;
+    border-right: 0.3rem solid #E3C37D;
+    min-height: calc(100vh - 130px);
+    max-height: calc(100vh - 130px);
+    overflow-y: auto;
+}
+
+.desktop-content-area{
+    border-right: 0.3rem solid #E3C37D;
+    min-height: calc(100vh - 130px);
+    max-height: calc(100vh - 130px);
+    overflow-y: auto;
+}
+
+
+@media only screen and (min-width: 1280px) {
+    #desktop-content{
+        margin-left: 9.5vw;
+        margin-right: 9.5vw;
+    }
+}
+
+@media only screen and (min-width: 1366px) {
+    #desktop-content{
+        margin-left: 12.5vw;
+        margin-right: 12.5vw;
+    }
+}
+
+@media only screen and (min-width: 1440px) {
+    #desktop-content{
+        margin-left: 14vw;
+        margin-right: 14vw;
+    }
+}
+
+@media only screen and (min-width: 1680px) {
+    #desktop-content{
+        margin-left: 19vw;
+        margin-right:19vw;
+    }
+}
+
+@media only screen and (min-width: 1920px) {
+    #desktop-content{
+        margin-left: 23vw;
+        margin-right:23vw;
+    }
+}
+
+.accordion-button::after {
+    order: -1;
+    margin-left: 0;
+    margin-right: 0.5em;
+    background-image: url("/assets/images/icon_images/icon_plus.png");
+    transition: none;
+}
+
+.accordion-button:not(.collapsed)::after {
+    background-image: url("/assets/images/icon_images/icon_minus.png");
+}
+
+.accordion-button {
+    border-width: 0px 38px;
+    border-image: url("/assets/images/listheader_normal.png");
+    border-image-width: 8px 0px;
+    border-image-slice: 30% 40% fill;
+    border-image-repeat: initial;
+    font-size: 1rem;
+    color: rgba(255, 255, 200, 255) !important;
+}
+
+.accordion-button:hover {
+    border-width: 0px 38px;
+    border-image: url("/assets/images/listheader_active.png");
+    border-image-width: 8px 0px;
+    border-image-slice: 30% 48% fill;
+    border-image-repeat: initial;
+}
+
+.accordion-item {
+    background-color: #082927;
+}
+
+.collapsing {
+    transition: none;
+}
+
+#language-dropdown-desktop {
+    color: rgba(255, 255, 200, 255);
+}
+
+.list-group-item {
+    background-color: #041514;
+    padding: 0px;
+    padding-left: 15px !important;
+    margin: 1px 0px 1px 0px;
+    font-size: 1rem;
+    color: rgba(255, 255, 200, 255) !important;
+}
+
+.list-group-item:hover {
+    border-image: url("/assets/images/civilopediasidebuttons272x22hl.png");
+    border-image-width: 8px 0px;
+    border-image-slice: 30% 40% fill;
+    border-image-repeat: initial;
+    font-size: 1rem;
+    color: rgba(255, 255, 200, 255) !important;
+    animation-name: example;
+    animation-duration: 1.25s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+    animation-timing-function: linear;
+}
+
+
+@keyframes example {
+    0% {
+        opacity: 1;
+    }
+
+    100% {
+        opacity: 0.65;
+    }
+}
+
+::-webkit-scrollbar {
+    width: 1.15rem;
+    border: 1px solid #B19455;
+}
+
+::-webkit-scrollbar-thumb {
+    width: 1rem;
+    border-top: 2px solid #B19455;
+    border-bottom: 2px solid #B19455;
+    background-color: #0C3631;
+    border-left: 4px solid transparent;
+    border-right: 4px solid transparent;
+    background-clip: content-box;
+}
+
+
+::-webkit-scrollbar-button:single-button:vertical:decrement {
+    background: url("/assets/images/scrollbarup_icon.png") no-repeat;
+}
+
+::-webkit-scrollbar-button:single-button:vertical:decrement:hover {
+    background: url("/assets/images/scrollbarup_icon_active.png") no-repeat;
+}
+
+
+::-webkit-scrollbar-button:single-button:vertical:increment {
+    background: url("/assets/images/scrollbardown_icon.png") no-repeat;
+}
+
+::-webkit-scrollbar-button:single-button:vertical:increment:hover {
+    background: url("/assets/images/scrollbardown_icon_active.png") no-repeat;
+}
+
+.accordion-button {
+    border-width: 0px 38px;
+    border-image: url("/assets/images/listheader_normal.png");
+    border-image-width: 8px 0px;
+    border-image-slice: 30% 40% fill;
+    border-image-repeat: initial;
+    font-size: 1rem;
+    color: rgba(255, 255, 200, 255) !important;
+}
+
+.accordion-button:hover {
+    border-width: 0px 38px;
+    border-image: url("/assets/images/listheader_active.png");
+    border-image-width: 8px 0px;
+    border-image-slice: 30% 48% fill;
+    border-image-repeat: initial;
+}
+
+* {
+    cursor: url("/assets/images/Pointer.png"), auto !important;
+}
+
+
+.item-title{
+    font-size: 1.25rem;
+    border-width: 0px 38px;
+    border-image: url("/assets/images/civilopediatitle_copy.png");
+    border-image-width: 32px 50px;
+    border-image-slice: 18 30 fill;
+    border-image-repeat: initial;
+}
+.info-box-title{
+    font-size: 1.1rem;
+}
+
+.info-box-content{
+    font-size: 1.0rem;
+}
+
+
+/* .small-image:hover{
+    border-radius: 50%;
+    background-color: #E3C37D;
+} */
+
+
+.icon{
+    width: 1.3rem;
+    height: 1.3rem;
+}
+
+
+/* CSS for Top Category Nav Tabs */
+.nav-link.active img[src*="category_home_icon"],
+.nav-link:hover img[src*="category_home_icon"] {
+    content: url(./assets/images/category_home_icon_active.png);
+}
+
+.nav-link.active img[src*="category_concepts_icon"],
+.nav-link:hover img[src*="category_concepts_icon"] {
+    content: url(./assets/images/category_concepts_icon_active.png);
+}
+
+.nav-link.active img[src*="category_tech_icon"],
+.nav-link:hover img[src*="category_tech_icon"] {
+    content: url(./assets/images/category_tech_icon_active.png);
+}
+
+.nav-link.active img[src*="category_units_icon"],
+.nav-link:hover img[src*="category_units_icon"] {
+    content: url(./assets/images/category_units_icon_active.png);
+}
+
+.nav-link.active img[src*="category_promotions_icon"],
+.nav-link:hover img[src*="category_promotions_icon"] {
+    content: url(./assets/images/category_promotions_icon_active.png);
+}
+
+.nav-link.active img[src*="category_buildings_icon"],
+.nav-link:hover img[src*="category_buildings_icon"] {
+    content: url(./assets/images/category_buildings_icon_active.png);
+}
+
+.nav-link.active img[src*="category_wonders_icon"],
+.nav-link:hover img[src*="category_wonders_icon"] {
+    content: url(./assets/images/category_wonders_icon_active.png);
+}
+
+.nav-link.active img[src*="category_social_icon"],
+.nav-link:hover img[src*="category_social_icon"] {
+    content: url(./assets/images/category_social_icon_active.png);
+}
+
+.nav-link.active img[src*="category_great_icon"],
+.nav-link:hover img[src*="category_great_icon"] {
+    content: url(./assets/images/category_great_icon_active.png);
+}
+
+.nav-link.active img[src*="category_civs_icon"],
+.nav-link:hover img[src*="category_civs_icon"] {
+    content: url(./assets/images/category_civs_icon_active.png);
+}
+
+.nav-link.active img[src*="category_citystates_icon"],
+.nav-link:hover img[src*="category_citystates_icon"] {
+    content: url(./assets/images/category_citystates_icon_active.png);
+}
+
+.nav-link.active img[src*="category_terrain_icon"],
+.nav-link:hover img[src*="category_terrain_icon"] {
+    content: url(./assets/images/category_terrain_icon_active.png);
+}
+
+.nav-link.active img[src*="category_resources_icon"],
+.nav-link:hover img[src*="category_resources_icon"] {
+    content: url(./assets/images/category_resources_icon_active.png);
+}
+
+.nav-link.active img[src*="category_improvements_icon"],
+.nav-link:hover img[src*="category_improvements_icon"] {
+    content: url(./assets/images/category_improvements_icon_active.png);
+}
+
+.nav-link.active img[src*="category_religion_icon"],
+.nav-link:hover img[src*="category_religion_icon"] {
+    content: url(./assets/images/category_religion_icon_active.png);
+}
+
+.nav-link.active img[src*="category_congress_icon"],
+.nav-link:hover img[src*="category_congress_icon"] {
+    content: url(./assets/images/category_congress_icon_active.png);
+}

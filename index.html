@@ -1,0 +1,1448 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=992, initial-scale=1.0">
+    <link rel="icon" type="image/x-icon" href="/assets/images/v.png">
+    <script src="/assets/libraries/jquery.csv.min.js"></script>
+    <script
+      src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
+      integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
+      crossorigin="anonymous"></script>
+    <link rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+    <script
+      src="https://cdnjs.cloudflare.com/ajax/libs/handlebars.js/4.7.8/handlebars.min.js"></script>
+    <script src="scripts.js"></script>
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC"
+      crossorigin="anonymous">
+    <link href="styles.css" rel="stylesheet">
+    <title>Civilopedia</title>
+  </head>
+  <body>
+    <div id="desktop-content">
+      <div class="container-fluid">
+        <nav id="civilopedia-topbar" class="navbar">
+          <div id="civilopedia-title"
+            class="container-fluid justify-content-center pb-1 pt-0">
+            CIVILOPEDIA
+          </div>
+        </nav>
+      </div>
+      <div class="container-fluid">
+        <ul class="nav nav-tabs justify-content-center" id="category-tabs">
+          <li class="nav-item">
+            <button class="nav-link active category-tab" id="home-tab"
+              value="cat_1" data-bs-toggle="tab"
+              aria-selected="true">
+              <img src="./assets/images/category_home_icon.png"
+                data-bs-toggle="tooltip" data-bs-placement="bottom"
+                data-bs-title="Civilopedia Home Page"
+                alt="Civilopedia Home Page">
+            </button>
+          </li>
+          <li class="nav-item" role="presentation">
+            <button class="nav-link category-tab" id="concepts-tab"
+              value="cat_2" data-bs-toggle="tab">
+              <img src="./assets/images/category_concepts_icon.png"
+                data-bs-toggle="tooltip" data-bs-placement="bottom"
+                data-bs-title="Game Concepts" alt="Game Concepts">
+            </button>
+          </li>
+          <li class="nav-item" role="presentation">
+            <button class="nav-link category-tab" id="tech-tab" value="cat_3"
+              data-bs-toggle="tab">
+              <img src="./assets/images/category_tech_icon.png"
+                data-bs-toggle="tooltip" data-bs-placement="bottom"
+                data-bs-title="Technologies" alt="Technologies">
+            </button>
+          </li>
+          <li class="nav-item" role="presentation">
+            <button class="nav-link category-tab" id="units-tab" value="cat_4"
+              data-bs-toggle="tab">
+              <img src="./assets/images/category_units_icon.png"
+                data-bs-toggle="tooltip" data-bs-placement="bottom"
+                data-bs-title="Units" alt="Units">
+            </button>
+          </li>
+          <li class="nav-item" role="presentation">
+            <button class="nav-link category-tab" id="promos-tab" value="cat_5"
+              data-bs-toggle="tab">
+              <img src="./assets/images/category_promotions_icon.png"
+                data-bs-toggle="tooltip" data-bs-placement="bottom"
+                data-bs-title="Promotions" alt="Promotions">
+            </button>
+          </li>
+          <li class="nav-item" role="presentation">
+            <button class="nav-link category-tab" id="buildings-tab"
+              value="cat_6" data-bs-toggle="tab">
+              <img src="./assets/images/category_buildings_icon.png"
+                data-bs-toggle="tooltip" data-bs-placement="bottom"
+                data-bs-title="Buildings" alt="Buildings">
+            </button>
+          </li>
+          <li class="nav-item" role="presentation">
+            <button class="nav-link category-tab" id="wonders-tab" value="cat_7"
+              data-bs-toggle="tab">
+              <img src="./assets/images/category_wonders_icon.png"
+                data-bs-toggle="tooltip" data-bs-placement="bottom"
+                data-bs-title="Wonders" alt="Wonders">
+            </button>
+          </li>
+          <li class="nav-item" role="presentation">
+            <button class="nav-link category-tab" id="social-tab" value="cat_8"
+              data-bs-toggle="tab">
+              <img src="./assets/images/category_social_icon.png"
+                data-bs-toggle="tooltip" data-bs-placement="bottom"
+                data-bs-title="Social Policies" alt="Social Policies">
+            </button>
+          </li>
+          <li class="nav-item" role="presentation">
+            <button class="nav-link category-tab" id="great-tab" value="cat_9"
+              data-bs-toggle="tab">
+              <img src="./assets/images/category_great_icon.png"
+                data-bs-toggle="tooltip" data-bs-placement="bottom"
+                data-bs-title="Specialists and Great People"
+                alt="Specialists and Great People">
+            </button>
+          </li>
+          <li class="nav-item" role="presentation">
+            <button class="nav-link category-tab" id="civs-tab" value="cat_10"
+              data-bs-toggle="tab">
+              <img src="./assets/images/category_civs_icon.png"
+                data-bs-toggle="tooltip" data-bs-placement="bottom"
+                data-bs-title="Civilizations and Leaders"
+                alt="Civilizations and Leaders">
+            </button>
+          </li>
+          <li class="nav-item" role="presentation">
+            <button class="nav-link category-tab" id="cities-tab" value="cat_11"
+              data-bs-toggle="tab">
+              <img src="./assets/images/category_citystates_icon.png"
+                data-bs-toggle="tooltip" data-bs-placement="bottom"
+                data-bs-title="City-States" alt="City-States">
+            </button>
+          </li>
+          <li class="nav-item" role="presentation">
+            <button class="nav-link category-tab" id="terrain-tab"
+              value="cat_12" data-bs-toggle="tab">
+              <img src="./assets/images/category_terrain_icon.png"
+                data-bs-toggle="tooltip" data-bs-placement="bottom"
+                data-bs-title="Terrain and Features" alt="Terrain and Features">
+            </button>
+          </li>
+          <li class="nav-item" role="presentation">
+            <button class="nav-link category-tab" id="resources-tab"
+              value="cat_13" data-bs-toggle="tab">
+              <img src="./assets/images/category_resources_icon.png"
+                data-bs-toggle="tooltip" data-bs-placement="bottom"
+                data-bs-title="Resources" alt="Resources">
+            </button>
+          </li>
+          <li class="nav-item" role="presentation">
+            <button class="nav-link category-tab" id="improvements-tab"
+              value="cat_14" data-bs-toggle="tab">
+              <img src="./assets/images/category_improvements_icon.png"
+                data-bs-toggle="tooltip"
+                data-bs-placement="bottom" data-bs-title="Improvements"
+                alt="Improvements">
+            </button>
+          </li>
+          <li class="nav-item" role="presentation">
+            <button class="nav-link category-tab" id="religion-tab"
+              value="cat_15" data-bs-toggle="tab">
+              <img src="./assets/images/category_religion_icon.png"
+                data-bs-toggle="tooltip" data-bs-placement="bottom"
+                data-bs-title="Religion" alt="Religion">
+            </button>
+          </li>
+          <li class="nav-item" role="presentation">
+            <button class="nav-link category-tab" id="congress-tab"
+              value="cat_16" data-bs-toggle="tab">
+              <img src="./assets/images/category_congress_icon.png"
+                data-bs-toggle="tooltip" data-bs-placement="bottom"
+                data-bs-title="World Congress" alt="World Congress">
+            </button>
+          </li>
+        </ul>
+      </div>
+      <div class="container-fluid">
+        <div class="row subheading-row">
+          <div class="col subheading">
+          </div>
+          <div class="col subheading-middle">
+            <nav class="navbar p-0">
+              <div class="container-fluid justify-content-center">
+                <h5 id="current_heading" class="mb-0">Civilopedia Home Page</h5>
+              </div>
+            </nav>
+          </div>
+          <div class="col subheading text-end">
+            <div class="dropdown-center">
+              <button id="language-dropdown-desktop"
+                class="btn dropdown-toggle p-0 mb-0 shadow-none" type="button"
+                data-bs-toggle="dropdown" aria-expanded="false">
+                Select Language
+              </button>
+              <ul class="dropdown-menu">
+                <li><button value="en"
+                    class="language-button dropdown-item">English</button></li>
+                <li><button value="fr"
+                    class="language-button dropdown-item">Français</button></li>
+                <li><button value="es"
+                    class="language-button dropdown-item">Español</button></li>
+                <li><button value="it"
+                    class="language-button dropdown-item">Italiano</button></li>
+                <li><button value="de"
+                    class="language-button dropdown-item">Deutsch</button></li>
+                <li><button value="pl"
+                    class="language-button dropdown-item">Polski</button></li>
+                <li><button value="ru"
+                    class="language-button dropdown-item">Русский</button></li>
+                <li><button value="ko"
+                    class="language-button dropdown-item">한국어</button></li>
+                <li><button value="ja"
+                    class="language-button dropdown-item">日本語</button></li>
+                <li><button value="zh"
+                    class="language-button dropdown-item">繁体中文</button></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-4">
+            <div class="accordion" id="accordionExample">
+            </div>
+          </div>
+          <div class="col-8 p-0">
+            <div id="content-area" class="desktop-content-area">
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="mobile-content">
+      <nav class="navbar navbar-dark bg-dark navbar-expand">
+        <div class="container">
+          <div class="navbar-brand text">Civilopedia</div>
+          <button class="mobile-content btn btn-outline-light" type="button"
+            data-bs-toggle="offcanvas"
+            data-bs-target="#offcanvasRight" aria-controls="offcanvasRight"><i
+              class="bi bi-list"></i></button>
+          <div class="mobile-content offcanvas offcanvas-end" tabindex="-1"
+            id="offcanvasRight"
+            aria-labelledby="offcanvasRightLabel">
+            <div class="offcanvas-header bg-dark">
+              <h5 id="offcanvasRightLabel">Options</h5>
+              <button type="button" class="btn-close text-reset"
+                data-bs-dismiss="offcanvas" aria-label="Close"></button>
+            </div>
+            <div class="offcanvas-body bg-dark">
+              <div class="container">
+                <div class="row">
+                  <div class="col-12">
+                    <div class="card">
+                      <div class="card-header btn" type="button"
+                        data-bs-toggle="collapse"
+                        data-bs-target="#collapseExample" aria-expanded="false"
+                        aria-controls="collapseExample">
+                        Language
+                      </div>
+                      <div class="collapse" id="collapseExample">
+                        <div class="list-group list-group-flush w-100">
+                          <button value="en"
+                            class="language-button list-group-item list-group-item-action">English</button>
+                          <button value="fr"
+                            class="language-button list-group-item list-group-item-action">Français</button>
+                          <button value="es"
+                            class="language-button list-group-item list-group-item-action">Español</button>
+                          <button value="it"
+                            class="language-button list-group-item list-group-item-action">Italiano</button>
+                          <button value="de"
+                            class="language-button list-group-item list-group-item-action">Deutsch</button>
+                          <button value="pl"
+                            class="language-button list-group-item list-group-item-action">Polski</button>
+                          <button value="ru"
+                            class="language-button list-group-item list-group-item-action">Русский</button>
+                          <button value="ko"
+                            class="language-button list-group-item list-group-item-action">한국어</button>
+                          <button value="ja"
+                            class="language-button list-group-item list-group-item-action">日本語</button>
+                          <button value="zh"
+                            class="language-button list-group-item list-group-item-action">繁体中文</button>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="row">
+                  <div class="col">
+                    <select id="category-dropdown" class="form-select"
+                      aria-label="Default select example">
+                    </select>
+                  </div>
+                </div>
+                <div class="row">
+                  <div class="col">
+                    <select id="section-dropdown" class="form-select"
+                      aria-label="Default select example">
+                    </select>
+                  </div>
+                </div>
+                <div class="row">
+                  <div class="col">
+                    <select id="item-dropdown" class="form-select"
+                      aria-label="Default select example">
+                    </select>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <script id="view_1" type="text/html">
+            <div class="container-fluid py-4">
+              <div class="row gx-5">
+                <div class="col-3 px-0">
+                  {{#if strings.image}}
+                  <div class="row">
+                    <div class="item-image test-image text-center pe-0 col-12">
+                      <img class="img-fluid" src="{{strings.image}}" />
+                    </div>
+                  </div>
+                  {{/if}}
+                  {{#if strings.leaders}}
+                <div class="row mt-3">
+                  <div class="col-12 pe-0 info-box-title">
+                    {{translate "TXT_KEY_PEDIA_LEADERS_LABEL"}}
+                  </div>
+                  <div class="col-12 pe-0">
+                    <div class="bordered-text info-box-content">
+                      <div class="row g-0">
+                        {{#each strings.leaders}}
+                        <div class="col-4 p-1 small-image" value="{{this}}" data-bs-toggle="tooltip" data-bs-placement="bottom"
+                        data-bs-title="{{translate (get_item_name this)}}">
+                          <img class="img-fluid" src="{{get_item_image this}}"/>
+                        </div>
+                         {{/each}}
+                      </div>
+                      
+                    </div>
+                  </div>
+                </div>
+                {{/if}}
+                {{#if strings.unique_units}}
+                <div class="row mt-3">
+                  <div class="col-12 pe-0 info-box-title">
+                    {{translate "TXT_KEY_PEDIA_UNIQUEUNIT_LABEL"}}
+                  </div>
+                  <div class="col-12 pe-0">
+                    <div class="bordered-text info-box-content">
+                      <div class="row g-0">
+                        {{#each strings.unique_units}}
+                        <div class="col-4 p-1 small-image" value="{{this}}" data-bs-toggle="tooltip" data-bs-placement="bottom"
+                        data-bs-title="{{translate (get_item_name this)}}">
+                          <img class="img-fluid" src="{{get_item_image this}}"/>
+                        </div>
+                         {{/each}}
+                      </div>
+                      
+                    </div>
+                  </div>
+                </div>
+                {{/if}}
+                {{#if strings.unique_buildings}}
+                <div class="row mt-3">
+                  <div class="col-12 pe-0 info-box-title">
+                    {{translate "TXT_KEY_PEDIA_UNIQUEBLDG_LABEL"}}
+                  </div>
+                  <div class="col-12 pe-0">
+                    <div class="bordered-text info-box-content">
+                      <div class="row g-0">
+                        {{#each strings.unique_buildings}}
+                        <div class="col-4 p-1 small-image" value="{{this}}" data-bs-toggle="tooltip" data-bs-placement="bottom"
+                        data-bs-title="{{translate (get_item_name this)}}">
+                          <img class="img-fluid" src="{{get_item_image this}}"/>
+                        </div>
+                         {{/each}}
+                      </div>
+                      
+                    </div>
+                  </div>
+                </div>
+                {{/if}}
+                {{#if strings.unique_improvements}}
+                <div class="row mt-3">
+                  <div class="col-12 pe-0 info-box-title">
+                    {{translate "TXT_KEY_PEDIA_UNIQUEIMPRV_LABEL"}}
+                  </div>
+                  <div class="col-12 pe-0">
+                    <div class="bordered-text info-box-content">
+                      <div class="row g-0">
+                        {{#each strings.unique_improvements}}
+                        <div class="col-4 p-1 small-image" value="{{this}}" data-bs-toggle="tooltip" data-bs-placement="bottom"
+                        data-bs-title="{{translate (get_item_name this)}}">
+                          <img class="img-fluid" src="{{get_item_image this}}"/>
+                        </div>
+                         {{/each}}
+                      </div>
+                      
+                    </div>
+                  </div>
+                </div>
+                {{/if}}
+                  
+                  {{#if strings.policy_branch}}
+                  <div class="row mt-5">
+                    <div class="col-12 info-box-title">
+                      {{translate "TXT_KEY_PEDIA_POLICYBRANCH_LABEL"}}
+                    </div>
+                    <div class="col-12 pe-0">
+                      <div class="bordered-text info-box-content">
+                        {{{translate strings.policy_branch}}}
+                      </div>
+                    </div>
+                  </div>
+                  {{/if}}
+                  {{#if strings.yields}}
+                  <div class="row mt-5">
+                    <div class="col-12 info-box-title">
+                      {{translate "TXT_KEY_PEDIA_YIELD_LABEL"}}
+                    </div>
+                    <div class="col-12 pe-0">
+                      <div class="bordered-text info-box-content">
+                        {{{translate strings.yields}}}
+                      </div>
+                    </div>
+                  </div>
+                  {{/if}}
+                  {{#if strings.cost}}
+                  <div class="row mt-3">
+                    <div class="col-12 info-box-title">
+                      {{translate "TXT_KEY_PEDIA_COST_LABEL"}}
+                    </div>
+                    <div class="col-12 pe-0">
+                      <div class="bordered-text info-box-content">
+                        {{{translate strings.cost}}}
+                      </div>
+                    </div>
+                  </div>
+                  {{/if}}
+                  {{#if strings.maintenance}}
+                  <div class="row mt-3">
+                    <div class="col-12 info-box-title">
+                      {{translate "TXT_KEY_PEDIA_MAINT_LABEL"}}
+                    </div>
+                    <div class="col-12 pe-0">
+                      <div class="bordered-text info-box-content">
+                        {{{translate strings.maintenance}}}
+                      </div>
+                    </div>
+                  </div>
+                  {{/if}}
+                  {{#if strings.happiness}}
+                  <div class="row mt-3">
+                    <div class="col-12 info-box-title">
+                      {{translate "TXT_KEY_PEDIA_HAPPINESS_LABEL"}}
+                    </div>
+                    <div class="col-12 pe-0">
+                      <div class="bordered-text info-box-content">
+                        {{{translate strings.happiness}}}
+                      </div>
+                    </div>
+                  </div>
+                  {{/if}}
+                  {{#if strings.culture}}
+                  <div class="row mt-3">
+                    <div class="col-12 info-box-title">
+                      {{translate "TXT_KEY_PEDIA_CULTURE_LABEL"}}
+                    </div>
+                    <div class="col-12 pe-0">
+                      <div class="bordered-text info-box-content">
+                        {{{translate strings.culture}}}
+                      </div>
+                    </div>
+                  </div>
+                  {{/if}}
+                  {{#if strings.faith}}
+                  <div class="row mt-3">
+                    <div class="col-12 info-box-title">
+                      {{translate "TXT_KEY_PEDIA_FAITH_LABEL"}}
+                    </div>
+                    <div class="col-12 pe-0">
+                      <div class="bordered-text info-box-content">
+                        {{{translate strings.faith}}}
+                      </div>
+                    </div>
+                  </div>
+                  {{/if}}
+                  {{#if strings.defense}}
+                  <div class="row mt-3">
+                    <div class="col-12 info-box-title">
+                      {{translate "TXT_KEY_PEDIA_DEFENSE_LABEL"}}
+                    </div>
+                    <div class="col-12 pe-0">
+                      <div class="bordered-text info-box-content">
+                        {{{translate strings.defense}}}
+                      </div>
+                    </div>
+                  </div>
+                  {{/if}}
+                  {{#if strings.food}}
+                  <div class="row mt-3">
+                    <div class="col-12 info-box-title">
+                      {{translate "TXT_KEY_PEDIA_FOOD_LABEL"}}
+                    </div>
+                    <div class="col-12 pe-0">
+                      <div class="bordered-text info-box-content">
+                        {{{translate strings.food}}}
+                      </div>
+                    </div>
+                  </div>
+                  {{/if}}
+                  {{#if strings.gold}}
+                  <div class="row mt-3">
+                    <div class="col-12 info-box-title">
+                      {{translate "TXT_KEY_PEDIA_GOLD_LABEL"}}
+                    </div>
+                    <div class="col-12 pe-0">
+                      <div class="bordered-text info-box-content">
+                        {{{translate strings.gold}}}
+                      </div>
+                    </div>
+                  </div>
+                  {{/if}}
+                  {{#if strings.science}}
+                  <div class="row mt-3">
+                    <div class="col-12 info-box-title">
+                      {{translate "TXT_KEY_PEDIA_SCIENCE_LABEL"}}
+                    </div>
+                    <div class="col-12 pe-0">
+                      <div class="bordered-text info-box-content">
+                        {{{translate strings.science}}}
+                      </div>
+                    </div>
+                  </div>
+                  {{/if}}
+                  {{#if strings.production}}
+                  <div class="row mt-3">
+                    <div class="col-12 info-box-title">
+                      {{translate "TXT_KEY_PEDIA_PRODUCTION_LABEL"}}
+                    </div>
+                    <div class="col-12 pe-0">
+                      <div class="bordered-text info-box-content">
+                        {{{translate strings.production}}}
+                      </div>
+                    </div>
+                  </div>
+                  {{/if}}
+                  {{#if strings.great_engineer_points}}
+                  <div class="row mt-3">
+                    <div class="col-12 info-box-title">
+                      {{translate "TXT_KEY_SPECIALIST_ENGINEER_TITLE"}}
+                    </div>
+                    <div class="col-12 pe-0">
+                      <div class="bordered-text info-box-content">
+                        {{{translate strings.great_engineer_points}}}
+                      </div>
+                    </div>
+                  </div>
+                  {{/if}}
+                  {{#if strings.great_merchant_points}}
+                  <div class="row mt-3">
+                    <div class="col-12 info-box-title">
+                      {{translate "TXT_KEY_SPECIALIST_MERCHANT_TITLE"}}
+                    </div>
+                    <div class="col-12 pe-0">
+                      <div class="bordered-text info-box-content">
+                        {{{translate strings.great_merchant_points}}}
+                      </div>
+                    </div>
+                  </div>
+                  {{/if}}
+                  {{#if strings.great_scientist_points}}
+                  <div class="row mt-3">
+                    <div class="col-12 info-box-title">
+                      {{translate "TXT_KEY_SPECIALIST_SCIENTIST_TITLE"}}
+                    </div>
+                    <div class="col-12 pe-0">
+                      <div class="bordered-text info-box-content">
+                        {{{translate strings.great_scientist_points}}}
+                      </div>
+                    </div>
+                  </div>
+                  {{/if}}
+                  {{#if strings.combat_type}}
+                  <div class="row mt-3">
+                    <div class="col-12 info-box-title">
+                      {{translate "TXT_KEY_PEDIA_COMBATTYPE_LABEL"}}
+                    </div>
+                    <div class="col-12 pe-0">
+                      <div class="bordered-text info-box-content">
+                        {{{translate strings.combat_type}}}
+                      </div>
+                    </div>
+                  </div>
+                  {{/if}}
+                  {{#if strings.combat}}
+                  <div class="row mt-3">
+                    <div class="col-12 info-box-title">
+                      {{translate "TXT_KEY_PEDIA_COMBAT_LABEL"}}
+                    </div>
+                    <div class="col-12 pe-0">
+                      <div class="bordered-text info-box-content">
+                        {{{translate strings.combat}}}
+                      </div>
+                    </div>
+                  </div>
+                  {{/if}}
+                  {{#if strings.ranged_combat}}
+                  <div class="row mt-3">
+                    <div class="col-12 info-box-title">
+                      {{translate "TXT_KEY_PEDIA_RANGEDCOMBAT_LABEL"}}
+                    </div>
+                    <div class="col-12 pe-0">
+                      <div class="bordered-text info-box-content">
+                        {{{translate strings.ranged_combat}}}
+                      </div>
+                    </div>
+                  </div>
+                  {{/if}}
+                  {{#if strings.range}}
+                  <div class="row mt-3">
+                    <div class="col-12 info-box-title">
+                      {{translate "TXT_KEY_PEDIA_RANGE_LABEL"}}
+                    </div>
+                    <div class="col-12 pe-0">
+                      <div class="bordered-text info-box-content">
+                        {{{translate strings.range}}}
+                      </div>
+                    </div>
+                  </div>
+                  {{/if}}
+                  {{#if strings.movement}}
+                  <div class="row mt-3">
+                    <div class="col-12 info-box-title">
+                      {{translate "TXT_KEY_PEDIA_MOVEMENT_LABEL"}}
+                    </div>
+                    <div class="col-12 pe-0">
+                      <div class="bordered-text info-box-content">
+                        {{{translate strings.movement}}}
+                      </div>
+                    </div>
+                  </div>
+                  {{/if}}
+                  {{#if strings.abilities}}
+                <div class="row mt-3">
+                  <div class="col-12 pe-0 info-box-title">
+                    {{translate "TXT_KEY_PEDIA_FREEPROMOTIONS_LABEL"}}
+                  </div>
+                  <div class="col-12 pe-0">
+                    <div class="bordered-text info-box-content">
+                      <div class="row g-0">
+                        {{#each strings.abilities}}
+                        <div class="col-4 p-1 small-image" value="{{this}}" data-bs-toggle="tooltip" data-bs-placement="bottom"
+                        data-bs-title="{{translate (get_item_name this)}}">
+                          <img class="img-fluid" src="{{get_item_image this}}"/>
+                        </div>
+                         {{/each}}
+                      </div>
+                      
+                    </div>
+                  </div>
+                </div>
+                {{/if}}
+                {{#if strings.required_resources}}
+                <div class="row mt-3">
+                  <div class="col-12 pe-0 info-box-title">
+                    {{translate "TXT_KEY_PEDIA_REQ_RESRC_LABEL"}}
+                  </div>
+                  <div class="col-12 pe-0">
+                    <div class="bordered-text info-box-content">
+                      <div class="row g-0">
+                        {{#each strings.required_resources}}
+                        <div class="col-4 p-1 small-image" value="{{this}}" data-bs-toggle="tooltip" data-bs-placement="bottom"
+                        data-bs-title="{{translate (get_item_name this)}}">
+                          <img class="img-fluid" src="{{get_item_image this}}"/>
+                        </div>
+                         {{/each}}
+                      </div>
+                      
+                    </div>
+                  </div>
+                </div>
+                {{/if}}
+                  {{#if strings.movement_cost}}
+                  <div class="row mt-3">
+                    <div class="col-12 info-box-title">
+                      {{translate "TXT_KEY_PEDIA_MOVECOST_LABEL"}}
+                    </div>
+                    <div class="col-12 pe-0">
+                      <div class="bordered-text info-box-content">
+                        {{{translate strings.movement_cost}}}
+                      </div>
+                    </div>
+                  </div>
+                  {{/if}}
+                  {{#if strings.combat_modifier}}
+                  <div class="row mt-3">
+                    <div class="col-12 info-box-title">
+                      {{translate "TXT_KEY_PEDIA_COMBATMOD_LABEL"}}
+                    </div>
+                    <div class="col-12 pe-0">
+                      <div class="bordered-text info-box-content">
+                        {{{translate strings.combat_modifier}}}
+                      </div>
+                    </div>
+                  </div>
+                  {{/if}}
+                  {{#if strings.revealed_by}}
+                <div class="row mt-3">
+                  <div class="col-12 pe-0 info-box-title">
+                    {{translate "TXT_KEY_PEDIA_REVEAL_TECH_LABEL"}}
+                  </div>
+                  <div class="col-12 pe-0">
+                    <div class="bordered-text info-box-content">
+                      <div class="row g-0">
+                        {{#each strings.revealed_by}}
+                        <div class="col-4 p-1 small-image" value="{{this}}" data-bs-toggle="tooltip" data-bs-placement="bottom"
+                        data-bs-title="{{translate (get_item_name this)}}">
+                          <img class="img-fluid" src="{{get_item_image this}}"/>
+                        </div>
+                         {{/each}}
+                      </div>
+                      
+                    </div>
+                  </div>
+                </div>
+                {{/if}}
+                {{#if strings.terrains_found_on}}
+                <div class="row mt-3">
+                  <div class="col-12 pe-0 info-box-title">
+                    {{translate "TXT_KEY_PEDIA_TERRAINS_LABEL"}}
+                  </div>
+                  <div class="col-12 pe-0">
+                    <div class="bordered-text info-box-content">
+                      <div class="row g-0">
+                        {{#each strings.terrains_found_on}}
+                        <div class="col-4 p-1 small-image" value="{{this}}" data-bs-toggle="tooltip" data-bs-placement="bottom"
+                        data-bs-title="{{translate (get_item_name this)}}">
+                          <img class="img-fluid" src="{{get_item_image this}}"/>
+                        </div>
+                         {{/each}}
+                      </div>
+                      
+                    </div>
+                  </div>
+                </div>
+                {{/if}}
+                {{#if strings.improved_by}}
+                <div class="row mt-3">
+                  <div class="col-12 pe-0 info-box-title">
+                    {{translate "TXT_KEY_PEDIA_IMPROVEMENTS_LABEL"}}
+                  </div>
+                  <div class="col-12 pe-0">
+                    <div class="bordered-text info-box-content">
+                      <div class="row g-0">
+                        {{#each strings.improved_by}}
+                        <div class="col-4 p-1 small-image" value="{{this}}" data-bs-toggle="tooltip" data-bs-placement="bottom"
+                        data-bs-title="{{translate (get_item_name this)}}">
+                          <img class="img-fluid" src="{{get_item_image this}}"/>
+                        </div>
+                         {{/each}}
+                      </div>
+                      
+                    </div>
+                  </div>
+                </div>
+                {{/if}}
+                  {{#if strings.features_on}}
+                <div class="row mt-3">
+                  <div class="col-12 pe-0 info-box-title">
+                    {{translate "TXT_KEY_PEDIA_FEATURES_LABEL"}}
+                  </div>
+                  <div class="col-12 pe-0">
+                    <div class="bordered-text info-box-content">
+                      <div class="row g-0">
+                        {{#each strings.features_on}}
+                        <div class="col-4 p-1 small-image" value="{{this}}" data-bs-toggle="tooltip" data-bs-placement="bottom"
+                        data-bs-title="{{translate (get_item_name this)}}">
+                          <img class="img-fluid" src="{{get_item_image this}}"/>
+                        </div>
+                         {{/each}}
+                      </div>
+                      
+                    </div>
+                  </div>
+                </div>
+                {{/if}}
+                {{#if strings.improves_resources}}
+                <div class="row mt-3">
+                  <div class="col-12 pe-0 info-box-title">
+                    {{translate "TXT_KEY_PEDIA_IMPROVES_RESRC_LABEL"}}
+                  </div>
+                  <div class="col-12 pe-0">
+                    <div class="bordered-text info-box-content">
+                      <div class="row g-0">
+                        {{#each strings.improves_resources}}
+                        <div class="col-4 p-1 small-image" value="{{this}}" data-bs-toggle="tooltip" data-bs-placement="bottom"
+                        data-bs-title="{{translate (get_item_name this)}}">
+                          <img class="img-fluid" src="{{get_item_image this}}"/>
+                        </div>
+                         {{/each}}
+                      </div>
+                      
+                    </div>
+                  </div>
+                </div>
+                {{/if}}
+                {{#if strings.lived}}
+                  <div class="row mt-3">
+                    <div class="col-12 info-box-title">
+                      {{translate "TXT_KEY_PEDIA_LIVED_LABEL"}}
+                    </div>
+                    <div class="col-12 pe-0">
+                      <div class="bordered-text info-box-content">
+                        {{{translate strings.lived}}}
+                      </div>
+                    </div>
+                  </div>
+                  {{/if}}
+                {{#if strings.titles}}
+                  <div class="row mt-3">
+                    <div class="col-12 info-box-title">
+                      {{translate "TXT_KEY_PEDIA_TITLES_LABEL"}}
+                    </div>
+                    <div class="col-12 pe-0">
+                      <div class="bordered-text info-box-content">
+                        {{{translate strings.titles}}}
+                      </div>
+                    </div>
+                  </div>
+                  {{/if}}
+                {{#if strings.civilization}}
+                <div class="row mt-3">
+                  <div class="col-12 pe-0 info-box-title">
+                    {{translate "TXT_KEY_PEDIA_CIVILIZATIONS_LABEL"}}
+                  </div>
+                  <div class="col-12 pe-0">
+                    <div class="bordered-text info-box-content">
+                      <div class="row g-0">
+                        {{#each strings.civilization}}
+                        <div class="col-4 p-1 small-image" value="{{this}}" data-bs-toggle="tooltip" data-bs-placement="bottom"
+                        data-bs-title="{{translate (get_item_name this)}}">
+                          <img class="img-fluid" src="{{get_item_image this}}"/>
+                        </div>
+                         {{/each}}
+                      </div>
+                      
+                    </div>
+                  </div>
+                </div>
+                {{/if}}
+                {{#if strings.prerequisite_techs}}
+                <div class="row mt-3">
+                  <div class="col-12 pe-0 info-box-title">
+                    {{translate "TXT_KEY_PEDIA_PREREQ_TECH_LABEL"}}
+                  </div>
+                  <div class="col-12 pe-0">
+                    <div class="bordered-text info-box-content">
+                      <div class="row g-0">
+                        {{#each strings.prerequisite_techs}}
+                        <div class="col-4 p-1 small-image" value="{{this}}" data-bs-toggle="tooltip" data-bs-placement="bottom"
+                        data-bs-title="{{translate (get_item_name this)}}">
+                          <img class="img-fluid" src="{{get_item_image this}}"/>
+                        </div>
+                         {{/each}}
+                      </div>
+                      
+                    </div>
+                  </div>
+                </div>
+                {{/if}}
+                {{#if strings.great_works}}
+                <div class="row mt-3">
+                  <div class="col-12 pe-0 info-box-title">
+                    {{translate "TXT_KEY_PEDIA_GREAT_WORKS_LABEL"}}
+                  </div>
+                  <div class="col-12 pe-0">
+                    <div class="bordered-text info-box-content">
+                      <div class="row g-0">
+                        {{#each strings.great_works}}
+                        <div class="col-4 p-1 small-image" value="{{this}}" data-bs-toggle="tooltip" data-bs-placement="bottom"
+                        data-bs-title="{{translate (get_item_name this)}}">
+                          <img class="img-fluid" src="{{get_item_image this}}"/>
+                        </div>
+                         {{/each}}
+                      </div>
+                      
+                    </div>
+                  </div>
+                </div>
+                {{/if}}
+                {{#if strings.leads_to_techs}}
+                <div class="row mt-3">
+                  <div class="col-12 pe-0 info-box-title">
+                    {{translate "TXT_KEY_PEDIA_LEADS_TO_TECH_LABEL"}}
+                  </div>
+                  <div class="col-12 pe-0">
+                    <div class="bordered-text info-box-content">
+                      <div class="row g-0">
+                        {{#each strings.leads_to_techs}}
+                        <div class="col-4 p-1 small-image" value="{{this}}" data-bs-toggle="tooltip" data-bs-placement="bottom"
+                        data-bs-title="{{translate (get_item_name this)}}">
+                          <img class="img-fluid" src="{{get_item_image this}}"/>
+                        </div>
+                         {{/each}}
+                      </div>
+                      
+                    </div>
+                  </div>
+                </div>
+                {{/if}}
+                {{#if strings.units_unlocked}}
+                <div class="row mt-3">
+                  <div class="col-12 pe-0 info-box-title">
+                    {{translate "TXT_KEY_PEDIA_UNIT_UNLOCK_LABEL"}}
+                  </div>
+                  <div class="col-12 pe-0">
+                    <div class="bordered-text info-box-content">
+                      <div class="row g-0">
+                        {{#each strings.units_unlocked}}
+                        <div class="col-4 p-1 small-image" value="{{this}}" data-bs-toggle="tooltip" data-bs-placement="bottom"
+                        data-bs-title="{{translate (get_item_name this)}}">
+                          <img class="img-fluid" src="{{get_item_image this}}"/>
+                        </div>
+                         {{/each}}
+                      </div>
+                      
+                    </div>
+                  </div>
+                </div>
+                {{/if}}
+                {{#if strings.buildings_unlocked}}
+                <div class="row mt-3">
+                  <div class="col-12 pe-0 info-box-title">
+                    {{translate "TXT_KEY_PEDIA_BLDG_UNLOCK_LABEL"}}
+                  </div>
+                  <div class="col-12 pe-0">
+                    <div class="bordered-text info-box-content">
+                      <div class="row g-0">
+                        {{#each strings.buildings_unlocked}}
+                        <div class="col-4 p-1 small-image" value="{{this}}" data-bs-toggle="tooltip" data-bs-placement="bottom"
+                        data-bs-title="{{translate (get_item_name this)}}">
+                          <img class="img-fluid" src="{{get_item_image this}}"/>
+                        </div>
+                         {{/each}}
+                      </div>
+                      
+                    </div>
+                  </div>
+                </div>
+                {{/if}}
+                {{#if strings.required_buildings}}
+                <div class="row mt-3">
+                  <div class="col-12 pe-0 info-box-title">
+                    {{translate "TXT_KEY_PEDIA_REQ_BLDG_LABEL"}}
+                  </div>
+                  <div class="col-12 pe-0">
+                    <div class="bordered-text info-box-content">
+                      <div class="row g-0">
+                        {{#each strings.required_buildings}}
+                        <div class="col-4 p-1 small-image" value="{{this}}" data-bs-toggle="tooltip" data-bs-placement="bottom"
+                        data-bs-title="{{translate (get_item_name this)}}">
+                          <img class="img-fluid" src="{{get_item_image this}}"/>
+                        </div>
+                         {{/each}}
+                      </div>
+                      
+                    </div>
+                  </div>
+                </div>
+                {{/if}}
+                {{#if strings.projects_unlocked}}
+                <div class="row mt-3">
+                  <div class="col-12 pe-0 info-box-title">
+                    {{translate "TXT_KEY_PEDIA_PROJ_UNLOCK_LABEL"}}
+                  </div>
+                  <div class="col-12 pe-0">
+                    <div class="bordered-text info-box-content">
+                      <div class="row g-0">
+                        {{#each strings.projects_unlocked}}
+                        <div class="col-4 p-1 small-image" value="{{this}}" data-bs-toggle="tooltip" data-bs-placement="bottom"
+                        data-bs-title="{{translate (get_item_name this)}}">
+                          <img class="img-fluid" src="{{get_item_image this}}"/>
+                        </div>
+                         {{/each}}
+                      </div>
+                      
+                    </div>
+                  </div>
+                </div>
+                {{/if}}
+                {{#if strings.resources_revealed}}
+                <div class="row mt-3">
+                  <div class="col-12 pe-0 info-box-title">
+                    {{translate "TXT_KEY_PEDIA_RESRC_RVL_LABEL"}}
+                  </div>
+                  <div class="col-12 pe-0">
+                    <div class="bordered-text info-box-content">
+                      <div class="row g-0">
+                        {{#each strings.resources_revealed}}
+                        <div class="col-4 p-1 small-image" value="{{this}}" data-bs-toggle="tooltip" data-bs-placement="bottom"
+                        data-bs-title="{{translate (get_item_name this)}}">
+                          <img class="img-fluid" src="{{get_item_image this}}"/>
+                        </div>
+                         {{/each}}
+                      </div>
+                      
+                    </div>
+                  </div>
+                </div>
+                {{/if}}
+                {{#if strings.worker_actions_allowed}}
+                <div class="row mt-3">
+                  <div class="col-12 pe-0 info-box-title">
+                    {{translate "TXT_KEY_PEDIA_WORKER_ACTION_LABEL"}}
+                  </div>
+                  <div class="col-12 pe-0">
+                    <div class="bordered-text info-box-content">
+                      <div class="row g-0">
+                        {{#each strings.worker_actions_allowed}}
+                        <div class="col-4 p-1 small-image" value="{{this}}" data-bs-toggle="tooltip" data-bs-placement="bottom"
+                        data-bs-title="{{translate (get_item_name this)}}">
+                          <img class="img-fluid" src="{{get_item_image this}}"/>
+                        </div>
+                         {{/each}}
+                      </div>
+                      
+                    </div>
+                  </div>
+                </div>
+                {{/if}}
+                {{#if strings.becomes_obsolete_with}}
+                <div class="row mt-3">
+                  <div class="col-12 pe-0 info-box-title">
+                    {{translate "TXT_KEY_PEDIA_OBSOLETE_TECH_LABEL"}}
+                  </div>
+                  <div class="col-12 pe-0">
+                    <div class="bordered-text info-box-content">
+                      <div class="row g-0">
+                        {{#each strings.becomes_obsolete_with}}
+                        <div class="col-4 p-1 small-image" value="{{this}}" data-bs-toggle="tooltip" data-bs-placement="bottom"
+                        data-bs-title="{{translate (get_item_name this)}}">
+                          <img class="img-fluid" src="{{get_item_image this}}"/>
+                        </div>
+                         {{/each}}
+                      </div>
+                      
+                    </div>
+                  </div>
+                </div>
+                {{/if}}
+                {{#if strings.upgrade_unit}}
+                <div class="row mt-3">
+                  <div class="col-12 pe-0 info-box-title">
+                    {{translate "TXT_KEY_COMMAND_UPGRADE"}}
+                  </div>
+                  <div class="col-12 pe-0">
+                    <div class="bordered-text info-box-content">
+                      <div class="row g-0">
+                        {{#each strings.upgrade_unit}}
+                        <div class="col-4 p-1 small-image" value="{{this}}" data-bs-toggle="tooltip" data-bs-placement="bottom"
+                        data-bs-title="{{translate (get_item_name this)}}">
+                          <img class="img-fluid" src="{{get_item_image this}}"/>
+                        </div>
+                         {{/each}}
+                      </div>
+                      
+                    </div>
+                  </div>
+                </div>
+                {{/if}}
+                {{#if strings.replaces}}
+                <div class="row mt-3">
+                  <div class="col-12 pe-0 info-box-title">
+                    {{translate "TXT_KEY_PEDIA_REPLACES_LABEL"}}
+                  </div>
+                  <div class="col-12 pe-0">
+                    <div class="bordered-text info-box-content">
+                      <div class="row g-0">
+                        {{#each strings.replaces}}
+                        <div class="col-4 p-1 small-image" value="{{this}}" data-bs-toggle="tooltip" data-bs-placement="bottom"
+                        data-bs-title="{{translate (get_item_name this)}}">
+                          <img class="img-fluid" src="{{get_item_image this}}"/>
+                        </div>
+                         {{/each}}
+                      </div>
+                      
+                    </div>
+                  </div>
+                </div>
+                {{/if}}
+                {{#if strings.can_be_built_on}}
+                <div class="row mt-3">
+                  <div class="col-12 pe-0 info-box-title">
+                    {{translate "TXT_KEY_PEDIA_FOUNDON_LABEL"}}
+                  </div>
+                  <div class="col-12 pe-0">
+                    <div class="bordered-text info-box-content">
+                      <div class="row g-0">
+                        {{#each strings.can_be_built_on}}
+                        <div class="col-4 p-1 small-image" value="{{this}}" data-bs-toggle="tooltip" data-bs-placement="bottom"
+                        data-bs-title="{{translate (get_item_name this)}}">
+                          <img class="img-fluid" src="{{get_item_image this}}"/>
+                        </div>
+                         {{/each}}
+                      </div>
+                      
+                    </div>
+                  </div>
+                </div>
+                {{/if}}
+                {{#if strings.resources_found_on}}
+                <div class="row mt-3">
+                  <div class="col-12 pe-0 info-box-title">
+                    {{translate "TXT_KEY_PEDIA_RESOURCESFOUND_LABEL"}}
+                  </div>
+                  <div class="col-12 pe-0">
+                    <div class="bordered-text info-box-content">
+                      <div class="row g-0">
+                        {{#each strings.resources_found_on}}
+                        <div class="col-4 p-1 small-image" value="{{this}}" data-bs-toggle="tooltip" data-bs-placement="bottom"
+                        data-bs-title="{{translate (get_item_name this)}}">
+                          <img class="img-fluid" src="{{get_item_image this}}"/>
+                        </div>
+                         {{/each}}
+                      </div>
+                      
+                    </div>
+                  </div>
+                </div>
+                {{/if}}
+                  {{#if strings.tenet_level}}
+                  <div class="row mt-3">
+                    <div class="col-12 info-box-title">
+                      {{translate "TXT_KEY_PEDIA_TENET_LEVEL"}}
+                    </div>
+                    <div class="col-12 pe-0">
+                      <div class="bordered-text info-box-content">
+                        {{{translate strings.tenet_level}}}
+                      </div>
+                    </div>
+                  </div>
+                  {{/if}}
+                  {{#if strings.prerequisite_era}}
+                  <div class="row mt-3">
+                    <div class="col-12 info-box-title">
+                      {{translate "TXT_KEY_PEDIA_PREREQ_ERA_LABEL"}}
+                    </div>
+                    <div class="col-12 pe-0">
+                      <div class="bordered-text info-box-content">
+                        {{{translate strings.prerequisite_era}}}
+                      </div>
+                    </div>
+                  </div>
+                  {{/if}}
+                  {{#if strings.required_policies}}
+                <div class="row mt-3">
+                  <div class="col-12 pe-0 info-box-title">
+                    {{translate "TXT_KEY_PEDIA_PREREQ_POLICY_LABEL"}}
+                  </div>
+                  <div class="col-12 pe-0">
+                    <div class="bordered-text info-box-content">
+                      <div class="row g-0">
+                        {{#each strings.required_policies}}
+                        <div class="col-4 p-1 small-image" value="{{this}}" data-bs-toggle="tooltip" data-bs-placement="bottom"
+                        data-bs-title="{{translate (get_item_name this)}}">
+                          <img class="img-fluid" src="{{get_item_image this}}"/>
+                        </div>
+                         {{/each}}
+                      </div>
+                      
+                    </div>
+                  </div>
+                </div>
+                {{/if}}
+                {{#if strings.required_promotions}}
+                <div class="row mt-5">
+                  <div class="col-12 pe-0 info-box-title">
+                    {{translate "TXT_KEY_PEDIA_REQ_PROMOTIONS_LABEL"}}
+                  </div>
+                  <div class="col-12 pe-0">
+                    <div class="bordered-text info-box-content">
+                      <div class="row g-0">
+                        {{#each strings.required_promotions}}
+                        <div class="col-4 p-1 small-image" value="{{this}}" data-bs-toggle="tooltip" data-bs-placement="bottom"
+                        data-bs-title="{{translate (get_item_name this)}}">
+                          <img class="img-fluid" src="{{get_item_image this}}"/>
+                        </div>
+                         {{/each}}
+                      </div>
+                      
+                    </div>
+                  </div>
+                </div>
+                {{/if}}
+                </div>
+                <div class="col-9">
+                  <div class="row align-items-start">
+                    <div class="col-12">
+                      <div class="text-center item-title py-2">
+                        {{translate strings.title}}
+                      </div>
+                    </div>
+                  </div>
+                  {{#if strings.heading}}
+                    {{#each strings.heading}}
+                    <div class="row mt-3">
+                      <div class="col-12 info-box-title">
+                        {{translate this}}
+                      </div>
+                      <div class="col-12 pe-0">
+                        <div class="bordered-text info-box-content">
+                          {{{translate (lookup ../strings.texts @index)}}}
+                        </div>
+                      </div>
+                    </div>
+                    {{/each}}
+                  {{/if}}
+                  {{#if strings.summary}}
+                  <div class="row pt-3 ps-4 align-items-start">
+                    <div class="col-12">
+                      <div class="info-box-title">
+                        {{log_info 'Logging Summary Section'}}
+                        {{translate "TXT_KEY_PEDIA_SUMMARY_LABEL"}}
+                      </div>
+                    </div>
+                    <div class="col-12">
+                      <div class="bordered-text info-box-content">
+                        {{{translate strings.summary}}}
+                      </div>
+                    </div>
+                  </div>
+                  {{/if}}    
+                  {{#if strings.game_info}}
+                  <div class="row pt-3 ps-4 align-items-start">
+                    <div class="col-12">
+                      <div class="info-box-title">
+                        {{log_info 'Logging Game Info Section'}}
+                      {{translate "TXT_KEY_PEDIA_GAME_INFO_LABEL"}}
+                    </div>
+                    </div>
+                    <div class="col-12">
+                      <div class="bordered-text info-box-content">
+                      {{{translate strings.game_info}}}
+                    </div>
+                    </div>
+                  </div>
+                  {{/if}}
+                  {{#if strings.special_abilities}}
+                  <div class="row pt-3 ps-4 align-items-start">
+                    <div class="col-12">
+                      <div class="info-box-title">
+                        {{log_info 'Logging Special Abilities Section'}}
+                      {{translate "TXT_KEY_PEDIA_ABILITIES_LABEL"}}
+                    </div>
+                    </div>
+                    <div class="col-12">
+                      <div class="bordered-text info-box-content">
+                      {{{translate strings.special_abilities}}}
+                    </div>
+                    </div>
+                  </div>
+                  {{/if}}
+                  {{#if strings.quote}}
+                  <div class="row pt-3 ps-4 align-items-start">
+                    <div class="col-12">
+                      <div class="info-box-title">
+                        {{log_info 'Logging Quote Section'}}
+                      {{translate "TXT_KEY_PEDIA_QUOTE_LABEL"}}
+                    </div>
+                    </div>
+                    <div class="col-12">
+                      <div class="bordered-text info-box-content">
+                      {{{translate strings.quote}}}
+                    </div>
+                    </div>
+                  </div>
+                  {{/if}}
+                  {{#if strings.strategy}}
+                  <div class="row pt-3 ps-4 align-items-start">
+                    <div class="col-12">
+                      <div class="info-box-title">
+                        {{log_info 'Logging Strategy Section'}}
+                      {{translate "TXT_KEY_PEDIA_STRATEGY_LABEL"}}
+                    </div>
+                    </div>
+                    <div class="col-12">
+                      <div class="bordered-text info-box-content">
+                      {{{translate strings.strategy}}}
+                    </div>
+                  </div>
+                  </div>
+                  {{/if}} 
+                  {{#if strings.historical_info}}
+                  <div class="row pt-3 ps-4 align-items-start">
+                    <div class="col-12">
+                      <div class="info-box-title">
+                        {{log_info 'Logging Historical Info Section'}}
+                      {{translate "TXT_KEY_PEDIA_HISTORICAL_LABEL"}}
+                    </div>
+                    </div>
+                    <div class="col-12">
+                      <div class="bordered-text info-box-content">
+                      {{{translate strings.historical_info}}}
+                    </div>
+                  </div>
+                  </div>
+                  {{/if}} 
+                </div>
+              </div>
+            </div>
+        </script>
+      <script id="view_3" type="text/html">
+            <div class="container-fluid py-4">
+              <div class="row gx-5">
+                <div class="col-3 mb-5 px-0">
+                  <div class="row">
+                    <div class="item-image text-center col-12 pe-0">
+                      <img class="img-fluid" src="{{strings.image}}" />
+                    </div>
+                  </div>
+                </div>
+                <div class="col-9">
+                  <div class="row align-items-start">
+                    <div class="col-12">
+                      <div class="text-center item-title py-2">
+                        {{translate strings.title}}
+                      </div>
+                    </div>
+                  </div>
+                  <div class="row pt-4 ps-4 align-items-start">
+                    <div class="col-12">
+                      <div class="bordered-text info-box-content">
+                        {{{translate strings.quote}}}
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="row mt-3 gx-5">
+                <div class="col-12">
+                  <div class="row align-items-start">
+                    <div class="col-12">
+                      <div class="info-box-title">
+                        {{translate strings.section_title}}
+                      </div>
+                    </div>
+                    <div class="col-12">
+                      <div class="bordered-text info-box-content">
+                        {{{translate strings.section_text}}}
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              {{#if strings.section_title_2}}
+              <div class="row mt-3 gx-5">
+                <div class="col-12">
+                  <div class="row align-items-start">
+                    <div class="col-12">
+                      <div class="info-box-title">
+                        {{translate strings.section_title_2}}
+                      </div>
+                    </div>
+                    <div class="col-12">
+                      <div class="bordered-text info-box-content">
+                        {{{translate strings.section_text_2}}}
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              {{/if}}
+            </div>
+        </script>
+
+      <script id="view_2" type="text/html">
+          <div class="container-fluid py-4">
+            <div class="row gx-5">
+              <div class="col-3 px-0">
+                {{#if strings.image}}
+                <div class="row">
+                  <div class="item-image text-center pe-0 col-12">
+                    <img class="img-fluid" src="{{strings.image}}" />
+                  </div>
+                </div>
+                {{/if}}
+                {{#if strings.required_promotions}}
+                <div class="row mt-5">
+                  <div class="col-12 pe-0 info-box-title">
+                    {{translate "TXT_KEY_PEDIA_REQ_PROMOTIONS_LABEL"}}
+                  </div>
+                  <div class="col-12 pe-0">
+                    <div class="bordered-text info-box-content">
+                      <div class="row g-0">
+                        {{#each strings.required_promotions}}
+                        <div class="col-4 p-1 small-image" value="{{this}}" data-bs-toggle="tooltip" data-bs-placement="bottom"
+                        data-bs-title="{{translate (get_item_name this)}}">
+                          <img class="img-fluid" src="{{get_item_image this}}"/>
+                        </div>
+                         {{/each}}
+                      </div>
+                      
+                    </div>
+                  </div>
+                </div>
+                {{/if}}
+              </div>
+              <div class="col-9">
+                <div class="row align-items-start">
+                  <div class="col-12">
+                    <div class="text-center item-title py-2">
+                      {{translate strings.title}}
+                    </div>
+                  </div>
+                </div>
+                {{#if strings.game_info}}
+                <div class="row pt-3 ps-4 align-items-start">
+                  <div class="col-12">
+                    <div class="info-box-title">
+                      {{translate "TXT_KEY_PEDIA_GAME_INFO_LABEL"}}
+                    </div>
+                  </div>
+                  <div class="col-12">
+                    <div class="bordered-text info-box-content">
+                      {{{translate strings.game_info}}}
+                    </div>
+                  </div>
+                </div>
+                {{/if}}    
+                {{#if strings.historical_info}}
+                <div class="row pt-3 ps-4 align-items-start">
+                  <div class="col-12">
+                    <div class="info-box-title">
+                      {{translate "TXT_KEY_PEDIA_HISTORICAL_LABEL"}}
+                    </div>
+                  </div>
+                  <div class="col-12">
+                    <div class="bordered-text info-box-content">
+                      {{{translate strings.historical_info}}}
+                    </div>
+                  </div>
+                </div>
+                {{/if}}    
+              </div>
+            </div>
+          </div>
+      </script>
+    </body>
+  </html>
