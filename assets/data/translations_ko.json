@@ -5904,5 +5904,22 @@
     "TXT_KEY_BUILD_FEITORIA": "[LINK=IMPROVEMENT_FEITORIA]\ud3ec\ub974\ud22c\uac08 \uad50\uc5ed\uc18c[\\LINK] \uac74\uc124",
     "TXT_KEY_BUILD_ARCHAEOLOGY_DIG": "[LINK=IMPROVEMENT_ARCHAEOLOGICAL_DIG]\uace0\uace0\ud559 \ubc1c\uad74 \ud604\uc7a5[\\LINK] \uac74\uc124",
     "TXT_KEY_BUILD_WELL": "[LINK=IMPROVEMENT_WELL]\uc720\uc815[\\LINK] \uac74\uc124",
-    "TXT_KEY_BUILD_RAILROAD": "[LINK=CONCEPT_MOVEMENT]\ucca0\ub3c4[\\LINK] \uac74\uc124"
+    "TXT_KEY_BUILD_RAILROAD": "[LINK=CONCEPT_MOVEMENT]\ucca0\ub3c4[\\LINK] \uac74\uc124",
+    "TXT_KEY_SPECIALIST_WRITER_TITLE": "\uc704\ub300\ud55c \uc791\uac00 \uc810\uc218:",
+    "TXT_KEY_SPECIALIST_ARTIST_TITLE": "\uc704\ub300\ud55c \uc608\uc220\uac00 \uc810\uc218:",
+    "TXT_KEY_SPECIALIST_MUSICIAN_TITLE": "\uc704\ub300\ud55c \uc74c\uc545\uac00 \uc810\uc218:",
+    "TXT_KEY_UNITCOMBAT_RECON": "\uc815\ucc30 \uc720\ub2db",
+    "TXT_KEY_UNITCOMBAT_NAVALMELEE": "\uadfc\uc811 \ud574\uc0c1 \uc720\ub2db",
+    "TXT_KEY_UNITCOMBAT_MOUNTED": "\uae30\ubcd1 \uc720\ub2db",
+    "TXT_KEY_UNITCOMBAT_SIEGE": "\uacf5\uc131 \ubb34\uae30",
+    "TXT_KEY_UNITCOMBAT_CARRIER": "\ud56d\uacf5\ubaa8\ud568",
+    "TXT_KEY_UNITCOMBAT_FIGHTER": "\uc804\ud22c \uc720\ub2db",
+    "TXT_KEY_UNITCOMBAT_HELICOPTER": "\ud5ec\ub9ac\ucf65\ud130 \uc720\ub2db",
+    "TXT_KEY_UNITCOMBAT_SUBMARINE": "\uc7a0\uc218\ud568",
+    "TXT_KEY_BUILD_PLANTATION": "[LINK=IMPROVEMENT_PLANTATION]\uc7ac\ubc30\uc9c0[\\LINK] \uac74\uc124",
+    "TXT_KEY_BUILD_OFFSHORE_PLATFORM": "[LINK=IMPROVEMENT_OFFSHORE_PLATFORM]\ud574\uc591 \uc720\uc815[\\LINK] \uac74\uc124",
+    "TXT_KEY_ABLTY_ALLOW_EMBASSY_STRING": "\ub2e4\ub978 \ubb38\uba85\uc758 \uc218\ub3c4\uc5d0 \ub300\uc0ac\uad00\uc744 \uac74\uc124\ud558\ub3c4\ub85d \ud5c8\uc6a9",
+    "TXT_KEY_ABLTY_BRIDGE_STRING": "\uac15 \uc704\uc5d0 \ub2e4\ub9ac \uac74\uc124 \ud5c8\uc6a9",
+    "TXT_KEY_ALLOWS_EMBARKING": "\uc9c0\uc0c1 \uc720\ub2db\uc774 \ubc30\ub97c \ud0c0\uace0 \uc218\uc0c1 \ud0c0\uc77c\uc744 \uac74\ub110 \uc218 \uc788\uc2b5\ub2c8\ub2e4. \uc6b0\ud638 \uc9c0\uc5ed\uc5d0 \uc9c4\uc785\ud55c \ubaa8\ub4e0 \uc720\ub2db\uc740 \uc774 \ub2a5\ub825\uc744 \uc5bb\uc2b5\ub2c8\ub2e4.",
+    "TXT_KEY_ABLTY_D_PACT_STRING": "\ubc29\uc704 \uc870\uc57d \ud5c8\uc6a9"
 }

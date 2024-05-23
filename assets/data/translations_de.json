@@ -5904,5 +5904,22 @@
     "TXT_KEY_BUILD_FEITORIA": "Errichtet eine [LINK=IMPROVEMENT_FEITORIA]Feitoria[\\LINK]",
     "TXT_KEY_BUILD_ARCHAEOLOGY_DIG": "[LINK=IMPROVEMENT_ARCHAEOLOGICAL_DIG]Arch\u00e4ologische Ausgrabung[\\LINK] errichten",
     "TXT_KEY_BUILD_WELL": "[LINK=IMPROVEMENT_WELL]Bohrturm[\\LINK] errichten",
-    "TXT_KEY_BUILD_RAILROAD": "[LINK=CONCEPT_MOVEMENT]Eisenbahn[\\LINK] bauen"
+    "TXT_KEY_BUILD_RAILROAD": "[LINK=CONCEPT_MOVEMENT]Eisenbahn[\\LINK] bauen",
+    "TXT_KEY_SPECIALIST_WRITER_TITLE": "Gro\u00dfer-Schriftsteller-Punkte:",
+    "TXT_KEY_SPECIALIST_ARTIST_TITLE": "Gr.-K\u00fcnstler-Punkte:",
+    "TXT_KEY_SPECIALIST_MUSICIAN_TITLE": "Gro\u00dfer-Musiker-Punkte:",
+    "TXT_KEY_UNITCOMBAT_RECON": "Aufkl\u00e4rungseinheiten",
+    "TXT_KEY_UNITCOMBAT_NAVALMELEE": "Marine-Nahkampfeinh.",
+    "TXT_KEY_UNITCOMBAT_MOUNTED": "Berittene Einheiten",
+    "TXT_KEY_UNITCOMBAT_SIEGE": "Belagerungswaffen",
+    "TXT_KEY_UNITCOMBAT_CARRIER": "Flugzeugtr\u00e4ger",
+    "TXT_KEY_UNITCOMBAT_FIGHTER": "J\u00e4gereinheiten",
+    "TXT_KEY_UNITCOMBAT_HELICOPTER": "Hubschrauber",
+    "TXT_KEY_UNITCOMBAT_SUBMARINE": "U-Boote",
+    "TXT_KEY_BUILD_PLANTATION": "[LINK=IMPROVEMENT_PLANTATION]Plantage[\\LINK] errichten",
+    "TXT_KEY_BUILD_OFFSHORE_PLATFORM": "[LINK=IMPROVEMENT_OFFSHORE_PLATFORM]Bohrinsel[\\LINK] errichten",
+    "TXT_KEY_ABLTY_ALLOW_EMBASSY_STRING": "Erm\u00f6glicht es, Botschaften in den Hauptst\u00e4dten anderer Zivilisationen zu errichten.",
+    "TXT_KEY_ABLTY_BRIDGE_STRING": "Erm\u00f6glicht Br\u00fccken \u00fcber Fl\u00fcsse",
+    "TXT_KEY_ALLOWS_EMBARKING": "Erm\u00f6glicht Landeinheiten das Wassern und die Bewegung \u00fcber Wasser-Gel\u00e4ndefelder. Alle Einheiten, die freundlich gesinntes Territorium betreten, erhalten diese F\u00e4higkeit.",
+    "TXT_KEY_ABLTY_D_PACT_STRING": "Erm\u00f6glicht Verteidigungsb\u00fcndnisse"
 }

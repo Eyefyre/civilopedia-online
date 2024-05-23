@@ -5904,5 +5904,22 @@
     "TXT_KEY_BUILD_FEITORIA": "Construire une [LINK=IMPROVEMENT_FEITORIA]feitoria[\\LINK]",
     "TXT_KEY_BUILD_ARCHAEOLOGY_DIG": "Construire des [LINK=IMPROVEMENT_ARCHAEOLOGICAL_DIG]fouilles arch\u00e9ologiques[\\LINK]",
     "TXT_KEY_BUILD_WELL": "Construire un [LINK=IMPROVEMENT_WELL]puits[\\LINK]",
-    "TXT_KEY_BUILD_RAILROAD": "Construire une [LINK=CONCEPT_MOVEMENT]voie ferr\u00e9e[\\LINK]"
+    "TXT_KEY_BUILD_RAILROAD": "Construire une [LINK=CONCEPT_MOVEMENT]voie ferr\u00e9e[\\LINK]",
+    "TXT_KEY_SPECIALIST_WRITER_TITLE": "Points d'\u00e9crivain illustre\u00a0:",
+    "TXT_KEY_SPECIALIST_ARTIST_TITLE": "Points d'artistes illustres\u00a0:",
+    "TXT_KEY_SPECIALIST_MUSICIAN_TITLE": "Points de musicien illustre\u00a0:",
+    "TXT_KEY_UNITCOMBAT_RECON": "Unit\u00e9s de reconnaissance",
+    "TXT_KEY_UNITCOMBAT_NAVALMELEE": "Unit\u00e9s nav. combat rap.",
+    "TXT_KEY_UNITCOMBAT_MOUNTED": "Unit\u00e9s mont\u00e9es",
+    "TXT_KEY_UNITCOMBAT_SIEGE": "Armes de si\u00e8ge",
+    "TXT_KEY_UNITCOMBAT_CARRIER": "Porte-avions",
+    "TXT_KEY_UNITCOMBAT_FIGHTER": "Avions de chasse",
+    "TXT_KEY_UNITCOMBAT_HELICOPTER": "H\u00e9licopt\u00e8res",
+    "TXT_KEY_UNITCOMBAT_SUBMARINE": "Sous-marins",
+    "TXT_KEY_BUILD_PLANTATION": "Construire une [LINK=IMPROVEMENT_PLANTATION]plantation[\\LINK]",
+    "TXT_KEY_BUILD_OFFSHORE_PLATFORM": "Construire une [LINK=IMPROVEMENT_OFFSHORE_PLATFORM]plateforme offshore[\\LINK]",
+    "TXT_KEY_ABLTY_ALLOW_EMBASSY_STRING": "Permet d'installer des ambassades dans les capitales des autres civilisations.",
+    "TXT_KEY_ABLTY_BRIDGE_STRING": "Permet\u00a0: Ponts",
+    "TXT_KEY_ALLOWS_EMBARKING": "Permet aux unit\u00e9s terrestres d'embarquer pour traverser les cases d'eau. Toute unit\u00e9 p\u00e9n\u00e9trant en territoire alli\u00e9 b\u00e9n\u00e9ficie de cette aptitude.",
+    "TXT_KEY_ABLTY_D_PACT_STRING": "Permet\u00a0: Pactes de d\u00e9fense"
 }

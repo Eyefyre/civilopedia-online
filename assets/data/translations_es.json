@@ -5904,5 +5904,22 @@
     "TXT_KEY_BUILD_FEITORIA": "Construir una [LINK=IMPROVEMENT_MINE]Feitoria[\\LINK]",
     "TXT_KEY_BUILD_ARCHAEOLOGY_DIG": "Construir una [LINK=IMPROVEMENT_ARCHAEOLOGICAL_DIG]Excavaci\u00f3n arqueol\u00f3gica[\\LINK]",
     "TXT_KEY_BUILD_WELL": "Construir un [LINK=IMPROVEMENT_WELL]Pozo[\\LINK]",
-    "TXT_KEY_BUILD_RAILROAD": "Construir un [LINK=CONCEPT_MOVEMENT]Ferrocarril[\\LINK]"
+    "TXT_KEY_BUILD_RAILROAD": "Construir un [LINK=CONCEPT_MOVEMENT]Ferrocarril[\\LINK]",
+    "TXT_KEY_SPECIALIST_WRITER_TITLE": "Puntos de Grandes escritores:",
+    "TXT_KEY_SPECIALIST_ARTIST_TITLE": "Puntos de Gran artista:",
+    "TXT_KEY_SPECIALIST_MUSICIAN_TITLE": "Puntos de Grandes m\u00fasicos:",
+    "TXT_KEY_UNITCOMBAT_RECON": "Unidad reconocimiento",
+    "TXT_KEY_UNITCOMBAT_NAVALMELEE": "Unid. naval de abordaje",
+    "TXT_KEY_UNITCOMBAT_MOUNTED": "Unidades montadas",
+    "TXT_KEY_UNITCOMBAT_SIEGE": "Armas de asedio",
+    "TXT_KEY_UNITCOMBAT_CARRIER": "Portaaviones",
+    "TXT_KEY_UNITCOMBAT_FIGHTER": "Unidades de cazas",
+    "TXT_KEY_UNITCOMBAT_HELICOPTER": "Unidades de helic\u00f3pteros",
+    "TXT_KEY_UNITCOMBAT_SUBMARINE": "Submarinos",
+    "TXT_KEY_BUILD_PLANTATION": "Construir una [LINK=IMPROVEMENT_PLANTATION]Plantaci\u00f3n[\\LINK]",
+    "TXT_KEY_BUILD_OFFSHORE_PLATFORM": "Crear una [LINK=IMPROVEMENT_OFFSHORE_PLATFORM]Plataforma petrol\u00edfera[\\LINK]",
+    "TXT_KEY_ABLTY_ALLOW_EMBASSY_STRING": "Permite abrir embajadas en las capitales de otras civilizaciones",
+    "TXT_KEY_ABLTY_BRIDGE_STRING": "Permite tender puentes sobre r\u00edos.",
+    "TXT_KEY_ALLOWS_EMBARKING": "Permite que las unidades terrestres se embarquen y crucen casillas de agua. Todas las unidades que entren en territorio amistoso ganar\u00e1n esta capacidad.",
+    "TXT_KEY_ABLTY_D_PACT_STRING": "Permite tratados de Acuerdos de Protecci\u00f3n."
 }

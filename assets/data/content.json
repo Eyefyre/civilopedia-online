@@ -5405,7 +5405,7 @@
         "item_id": "item_878",
         "view_id": "view_3",
         "strings": {
-            "image": "./assets/images/worldcongressportrait.png",
+            "image": "./assets/images/unit_icons/settler.png",
             "title": "TXT_KEY_PEDIA_UNITS_PAGE_LABEL",
             "quote": "TXT_KEY_PEDIA_QUOTE_BLOCK_UNITS",
             "section_title": "TXT_KEY_PEDIA_UNITS_PAGE_LABEL",
@@ -5416,7 +5416,7 @@
         "item_id": "item_666",
         "view_id": "view_3",
         "strings": {
-            "image": "./assets/images/worldcongressportrait.png",
+            "image": "./assets/images/promotion_icons/yellow_triangle.png",
             "title": "TXT_KEY_PEDIA_PROMOTIONS_PAGE_LABEL",
             "quote": "TXT_KEY_PEDIA_QUOTE_BLOCK_PROMOTIONS",
             "section_title": "TXT_KEY_PEDIA_PROMOTIONS_PAGE_LABEL",
@@ -5427,7 +5427,7 @@
         "item_id": "item_879",
         "view_id": "view_3",
         "strings": {
-            "image": "./assets/images/worldcongressportrait.png",
+            "image": "./assets/images/building_icons/hotel.png",
             "title": "TXT_KEY_PEDIA_BUILDINGS_PAGE_LABEL",
             "quote": "TXT_KEY_PEDIA_QUOTE_BLOCK_BUILDINGS",
             "section_title": "TXT_KEY_PEDIA_BUILDINGS_PAGE_LABEL",
@@ -5438,7 +5438,7 @@
         "item_id": "item_523",
         "view_id": "view_3",
         "strings": {
-            "image": "./assets/images/worldcongressportrait.png",
+            "image": "./assets/images/wonder_icons/himeji_castle.png",
             "title": "TXT_KEY_PEDIA_WONDERS_PAGE_LABEL",
             "quote": "TXT_KEY_PEDIA_QUOTE_BLOCK_WONDERS",
             "section_title": "TXT_KEY_PEDIA_WONDERS_PAGE_LABEL",
@@ -5504,7 +5504,7 @@
         "item_id": "item_76",
         "view_id": "view_3",
         "strings": {
-            "image": "./assets/images/worldcongressportrait.png",
+            "image": "./assets/images/improvement_icons/farm.png",
             "title": "TXT_KEY_PEDIA_IMPROVEMENTS_PAGE_LABEL",
             "quote": "TXT_KEY_PEDIA_QUOTE_BLOCK_IMPROVEMENTS",
             "section_title": "TXT_KEY_PEDIA_IMPROVEMENTS_PAGE_LABEL",
@@ -15011,14 +15011,7 @@
                 "item_1035"
             ],
             "units_unlocked": [
-                "item_918",
-                "item_926",
-                "item_917",
-                "item_924",
-                "item_912",
-                "item_913",
-                "item_899",
-                "item_914"
+                "item_899"
             ],
             "worker_actions_allowed": [
                 "item_1578"
@@ -15108,6 +15101,7 @@
             "buildings_unlocked": [
                 "item_594",
                 "item_589",
+                "item_564",
                 "item_593"
             ],
             "worker_actions_allowed": [
@@ -15132,6 +15126,7 @@
                 "item_1049"
             ],
             "buildings_unlocked": [
+                "item_565",
                 "item_602"
             ],
             "worker_actions_allowed": [
@@ -15157,6 +15152,8 @@
             ],
             "buildings_unlocked": [
                 "item_603",
+                "item_560",
+                "item_551",
                 "item_604"
             ],
             "worker_actions_allowed": [
@@ -15264,7 +15261,8 @@
                 "item_905",
                 "item_922",
                 "item_923",
-                "item_910"
+                "item_910",
+                "item_908"
             ],
             "buildings_unlocked": [
                 "item_591",
@@ -15320,6 +15318,7 @@
             "buildings_unlocked": [
                 "item_597",
                 "item_595",
+                "item_538",
                 "item_599"
             ]
         }
@@ -15345,7 +15344,8 @@
                 "item_932"
             ],
             "buildings_unlocked": [
-                "item_611"
+                "item_611",
+                "item_569"
             ],
             "worker_actions_allowed": [
                 "item_1592",
@@ -15374,7 +15374,8 @@
             "buildings_unlocked": [
                 "item_608",
                 "item_616",
-                "item_615"
+                "item_615",
+                "item_557"
             ]
         }
     },
@@ -15396,8 +15397,10 @@
                 "item_1051"
             ],
             "buildings_unlocked": [
+                "item_578",
                 "item_606",
-                "item_620"
+                "item_620",
+                "item_555"
             ]
         }
     },
@@ -15421,9 +15424,12 @@
                 "item_1055"
             ],
             "buildings_unlocked": [
+                "item_541",
                 "item_607"
             ],
-            "worker_actions_allowed": ["item_1595"]
+            "worker_actions_allowed": [
+                "item_1595"
+            ]
         }
     },
     {
@@ -15451,6 +15457,7 @@
             ],
             "buildings_unlocked": [
                 "item_618",
+                "item_571",
                 "item_613",
                 "item_610"
             ]
@@ -15507,7 +15514,8 @@
                 "item_937"
             ],
             "buildings_unlocked": [
-                "item_612"
+                "item_612",
+                "item_543"
             ]
         }
     },
@@ -15529,7 +15537,8 @@
                 "item_1052"
             ],
             "buildings_unlocked": [
-                "item_614"
+                "item_614",
+                "item_539"
             ]
         }
     },
@@ -15553,7 +15562,9 @@
             "buildings_unlocked": [
                 "item_617",
                 "item_609",
-                "item_619"
+                "item_619",
+                "item_577",
+                "item_554"
             ]
         }
     },
@@ -15586,9 +15597,13 @@
             ],
             "buildings_unlocked": [
                 "item_629",
-                "item_624"
+                "item_624",
+                "item_524"
             ],
-            "worker_actions_allowed": ["item_1596","item_1597"]
+            "worker_actions_allowed": [
+                "item_1596",
+                "item_1597"
+            ]
         }
     },
     {
@@ -15670,7 +15685,9 @@
             ],
             "buildings_unlocked": [
                 "item_631",
-                "item_630"
+                "item_630",
+                "item_581",
+                "item_525"
             ]
         }
     },
@@ -15692,9 +15709,14 @@
                 "item_1055"
             ],
             "buildings_unlocked": [
+                "item_572",
+                "item_550",
                 "item_622"
             ],
-            "worker_actions_allowed": ["item_1598","item_1599"]
+            "worker_actions_allowed": [
+                "item_1598",
+                "item_1599"
+            ]
         }
     },
     {
@@ -15723,7 +15745,9 @@
             "buildings_unlocked": [
                 "item_576"
             ],
-            "worker_actions_allowed": ["item_1600"]
+            "worker_actions_allowed": [
+                "item_1600"
+            ]
         }
     },
     {
@@ -15825,7 +15849,11 @@
             ],
             "buildings_unlocked": [
                 "item_626",
-                "item_623"
+                "item_542",
+                "item_540",
+                "item_573",
+                "item_623",
+                "item_527"
             ]
         }
     },
@@ -15848,6 +15876,7 @@
             ],
             "buildings_unlocked": [
                 "item_641",
+                "item_562",
                 "item_635",
                 "item_639"
             ]
@@ -15928,6 +15957,7 @@
             "buildings_unlocked": [
                 "item_642",
                 "item_634",
+                "item_535",
                 "item_637",
                 "item_638"
             ]
@@ -16008,7 +16038,7 @@
                 "item_971"
             ],
             "buildings_unlocked": [
-                "item_745"
+                "item_544"
             ]
         }
     },
@@ -16037,7 +16067,8 @@
                 "item_973"
             ],
             "buildings_unlocked": [
-                "item_633"
+                "item_633",
+                "item_561"
             ]
         }
     },
@@ -16066,7 +16097,9 @@
             "buildings_unlocked": [
                 "item_643"
             ],
-            "worker_actions_allowed": ["item_1601"]
+            "worker_actions_allowed": [
+                "item_1601"
+            ]
         }
     },
     {
@@ -16089,7 +16122,9 @@
                 "item_1067"
             ],
             "buildings_unlocked": [
-                "item_645"
+                "item_645",
+                "item_548",
+                "item_536"
             ]
         }
     },
@@ -16117,9 +16152,12 @@
                 "item_109"
             ],
             "buildings_unlocked": [
-                "item_650"
+                "item_650",
+                "item_549"
             ],
-            "worker_actions_allowed": ["item_1602"]
+            "worker_actions_allowed": [
+                "item_1602"
+            ]
         }
     },
     {
@@ -16145,7 +16183,9 @@
             "buildings_unlocked": [
                 "item_647"
             ],
-            "worker_actions_allowed": ["item_1603"]
+            "worker_actions_allowed": [
+                "item_1603"
+            ]
         }
     },
     {
@@ -16240,7 +16280,8 @@
                 "item_120"
             ],
             "buildings_unlocked": [
-                "item_646"
+                "item_646",
+                "item_526"
             ]
         }
     },
@@ -16269,7 +16310,8 @@
                 "item_979"
             ],
             "buildings_unlocked": [
-                "item_649"
+                "item_649",
+                "item_528"
             ]
         }
     },
@@ -16469,7 +16511,8 @@
                 "item_997"
             ],
             "buildings_unlocked": [
-                "item_657"
+                "item_657",
+                "item_533"
             ]
         }
     },
@@ -16490,7 +16533,10 @@
                 "item_1084"
             ],
             "buildings_unlocked": [
-                "item_654"
+                "item_654",
+                "item_534",
+                "item_579",
+                "item_529"
             ]
         }
     },
@@ -16516,7 +16562,9 @@
                 "item_547",
                 "item_552"
             ],
-            "worker_actions_allowed": ["item_1604"]
+            "worker_actions_allowed": [
+                "item_1604"
+            ]
         }
     },
     {
@@ -16543,7 +16591,9 @@
                 "item_658",
                 "item_655"
             ],
-            "worker_actions_allowed": ["item_1605"]
+            "worker_actions_allowed": [
+                "item_1605"
+            ]
         }
     },
     {
@@ -16569,7 +16619,8 @@
                 "item_993"
             ],
             "buildings_unlocked": [
-                "item_656"
+                "item_656",
+                "item_563"
             ]
         }
     },
@@ -16673,6 +16724,7 @@
             ],
             "buildings_unlocked": [
                 "item_663",
+                "item_566",
                 "item_662"
             ]
         }
@@ -17057,7 +17109,9 @@
                 "item_1021"
             ],
             "buildings_unlocked": [
-                "item_664"
+                "item_664",
+                "item_531",
+                "item_580"
             ]
         }
     },
@@ -17191,7 +17245,7 @@
             "prerequisite_techs": [
                 "item_1059"
             ],
-            "faith": "+5 [ICON_PEACE]"
+            "faith": "5 [ICON_PEACE]"
         }
     },
     {
@@ -17423,7 +17477,7 @@
             ],
             "great_engineer_points": "1 [ICON_GREAT_PEOPLE]",
             "culture": "1 [ICON_CULTURE]",
-            "faith": "+3 [ICON_PEACE]"
+            "faith": "3 [ICON_PEACE]"
         }
     },
     {
@@ -17456,7 +17510,7 @@
             "prerequisite_techs": [
                 "item_1059"
             ],
-            "faith": "+3 [ICON_PEACE]"
+            "faith": "3 [ICON_PEACE]"
         }
     },
     {
@@ -17590,7 +17644,7 @@
             ],
             "great_merchant_points": "1 [ICON_GREAT_PEOPLE]",
             "gold": "+5 [ICON_GOLD]",
-            "faith": "+2 [ICON_PEACE]"
+            "faith": "2 [ICON_PEACE]"
         }
     },
     {
@@ -17625,7 +17679,8 @@
             ],
             "great_merchant_points": "1 [ICON_GREAT_PEOPLE]",
             "gold": "+6 [ICON_GOLD]",
-            "culture": "4 [ICON_CULTURE]"
+            "culture": "4 [ICON_CULTURE]",
+            "happiness": "2 [ICON_HAPPINESS_1]"
         }
     },
     {
@@ -17779,7 +17834,7 @@
                 "item_1067"
             ],
             "great_scientist_points": "1 [ICON_GREAT_PEOPLE]",
-            "defense": "12.0 [ICON_STRENGTH]",
+            "defense": "12 [ICON_STRENGTH]",
             "culture": "1 [ICON_CULTURE]"
         }
     },
@@ -17848,7 +17903,7 @@
                 "item_1033"
             ],
             "great_engineer_points": "1 [ICON_GREAT_PEOPLE]",
-            "faith": "+5 [ICON_PEACE]"
+            "faith": "5 [ICON_PEACE]"
         }
     },
     {
@@ -17883,7 +17938,8 @@
             "prerequisite_techs": [
                 "item_1061"
             ],
-            "culture": "1 [ICON_CULTURE]"
+            "culture": "1 [ICON_CULTURE]",
+            "happiness": "4 [ICON_HAPPINESS_1]"
         }
     },
     {
@@ -17975,7 +18031,7 @@
             ],
             "gold": "+4 [ICON_GOLD]",
             "required_buildings": [
-                "item_608"
+                "item_615"
             ]
         }
     },
@@ -17992,9 +18048,9 @@
             "prerequisite_techs": [
                 "item_1059"
             ],
-            "faith": "+8 [ICON_PEACE]",
+            "faith": "8 [ICON_PEACE]",
             "required_buildings": [
-                "item_617"
+                "item_619"
             ]
         }
     },
@@ -18040,7 +18096,7 @@
             ],
             "culture": "1 [ICON_CULTURE]",
             "required_buildings": [
-                "item_594"
+                "item_589"
             ]
         }
     },
@@ -18059,7 +18115,7 @@
             ],
             "production": "+8 [ICON_PRODUCTION]",
             "required_buildings": [
-                "item_628"
+                "item_632"
             ]
         }
     },
@@ -18079,7 +18135,7 @@
             "science": "+50% [ICON_RESEARCH], +3 [ICON_RESEARCH]",
             "culture": "1 [ICON_CULTURE]",
             "required_buildings": [
-                "item_597"
+                "item_595"
             ]
         }
     },
@@ -18136,9 +18192,6 @@
             "maintenance": "2 [ICON_GOLD]",
             "prerequisite_techs": [
                 "item_1108"
-            ],
-            "required_buildings": [
-                "item_655"
             ]
         }
     },
@@ -21451,16 +21504,14 @@
             "image": "./assets/images/building_icons/cathedral.png",
             "title": "TXT_KEY_BUILDING_CATHEDRAL",
             "culture": "1 [ICON_CULTURE]",
-            "faith": "+1 [ICON_PEACE]",
+            "faith": "1 [ICON_PEACE]",
             "great_works": [
                 "item_1582"
             ],
             "cost": "200 [ICON_PEACE]",
             "historical_info": "TXT_KEY_CIV5_BUILDINGS_CATHEDRAL_TEXT",
             "strategy": "TXT_KEY_BUILDING_CATHEDRAL_STRATEGY",
-            "replaces": [
-                "item_585"
-            ]
+            "happiness": "1 [ICON_HAPPINESS_1]"
         }
     },
     {
@@ -21470,7 +21521,7 @@
             "image": "./assets/images/building_icons/monastery.png",
             "title": "TXT_KEY_BUILDING_MONASTERY_DESC",
             "culture": "2 [ICON_CULTURE]",
-            "faith": "+2 [ICON_PEACE]",
+            "faith": "2 [ICON_PEACE]",
             "cost": "150 [ICON_PEACE]",
             "game_info": "TXT_KEY_BUILDING_MONASTERY_HELP",
             "historical_info": "TXT_KEY_CIV5_BUILDINGS_MONASTERY_TEXT",
@@ -21484,13 +21535,11 @@
             "image": "./assets/images/building_icons/mosque.png",
             "title": "TXT_KEY_BUILDING_MOSQUE",
             "culture": "2 [ICON_CULTURE]",
-            "faith": "+3 [ICON_PEACE]",
+            "faith": "3 [ICON_PEACE]",
             "cost": "200 [ICON_PEACE]",
             "historical_info": "TXT_KEY_CIV5_BUILDINGS_MOSQUE_TEXT",
             "strategy": "TXT_KEY_BUILDING_MOSQUE_STRATEGY",
-            "replaces": [
-                "item_587"
-            ]
+            "happiness": "1 [ICON_HAPPINESS_1]"
         }
     },
     {
@@ -21500,13 +21549,11 @@
             "image": "./assets/images/building_icons/pagoda.png",
             "title": "TXT_KEY_BUILDING_PAGODA",
             "culture": "2 [ICON_CULTURE]",
-            "faith": "+2 [ICON_PEACE]",
+            "faith": "2 [ICON_PEACE]",
             "cost": "200 [ICON_PEACE]",
             "historical_info": "TXT_KEY_CIV5_BUILDINGS_PAGODA_TEXT",
             "strategy": "TXT_KEY_BUILDING_PAGODA_STRATEGY",
-            "replaces": [
-                "item_588"
-            ]
+            "happiness": "2 [ICON_HAPPINESS_1]"
         }
     },
     {
@@ -21522,9 +21569,6 @@
             "maintenance": "1 [ICON_GOLD]",
             "prerequisite_techs": [
                 "item_1032"
-            ],
-            "replaces": [
-                "item_589"
             ]
         }
     },
@@ -21541,9 +21585,7 @@
             "prerequisite_techs": [
                 "item_1039"
             ],
-            "replaces": [
-                "item_590"
-            ]
+            "happiness": "2 [ICON_HAPPINESS_1]"
         }
     },
     {
@@ -21584,9 +21626,6 @@
             "maintenance": "1 [ICON_GOLD]",
             "prerequisite_techs": [
                 "item_1036"
-            ],
-            "replaces": [
-                "item_592"
             ]
         }
     },
@@ -21647,9 +21686,6 @@
             "maintenance": "1 [ICON_GOLD]",
             "prerequisite_techs": [
                 "item_1040"
-            ],
-            "replaces": [
-                "item_595"
             ]
         }
     },
@@ -21661,7 +21697,6 @@
             "title": "TXT_KEY_BUILDING_MONUMENT_DESC",
             "culture": "2 [ICON_CULTURE]",
             "cost": "40 [ICON_PRODUCTION]",
-            "game_info": "TXT_KEY_BUILDING_MONUMENT_STRATEGY",
             "historical_info": "TXT_KEY_BUILDING_MONUMENT_PEDIA",
             "strategy": "TXT_KEY_BUILDING_MONUMENT_STRATEGY",
             "maintenance": "1 [ICON_GOLD]"
@@ -21695,7 +21730,7 @@
         "strings": {
             "image": "./assets/images/building_icons/pyramid.png",
             "title": "TXT_KEY_BUILDING_MAYA_PYRAMID",
-            "faith": "+2 [ICON_PEACE]",
+            "faith": "2 [ICON_PEACE]",
             "science": "+2 [ICON_RESEARCH]",
             "cost": "40 [ICON_PRODUCTION]",
             "historical_info": "TXT_KEY_CIV5_BUILDINGS_MAYA_PYRAMID_TEXT",
@@ -21743,16 +21778,13 @@
         "strings": {
             "image": "./assets/images/building_icons/shrine.png",
             "title": "TXT_KEY_BUILDING_SHRINE",
-            "faith": "+1 [ICON_PEACE]",
+            "faith": "1 [ICON_PEACE]",
             "cost": "40 [ICON_PRODUCTION]",
             "historical_info": "TXT_KEY_CIV5_BUILDINGS_SHRINE_TEXT",
             "strategy": "TXT_KEY_BUILDING_SHRINE_STRATEGY",
             "maintenance": "1 [ICON_GOLD]",
             "prerequisite_techs": [
                 "item_1036"
-            ],
-            "replaces": [
-                "item_600"
             ]
         }
     },
@@ -21763,7 +21795,7 @@
             "image": "./assets/images/building_icons/stele.png",
             "title": "TXT_KEY_BUILDING_STELE",
             "culture": "2 [ICON_CULTURE]",
-            "faith": "+2 [ICON_PEACE]",
+            "faith": "2 [ICON_PEACE]",
             "cost": "40 [ICON_PRODUCTION]",
             "historical_info": "TXT_KEY_CIV5_BUILDINGS_STELE_TEXT",
             "strategy": "TXT_KEY_BUILDING_STELE_STRATEGY",
@@ -21791,9 +21823,7 @@
             "prerequisite_techs": [
                 "item_1033"
             ],
-            "replaces": [
-                "item_602"
-            ]
+            "happiness": "1 [ICON_HAPPINESS_1]"
         }
     },
     {
@@ -21803,16 +21833,12 @@
             "image": "./assets/images/building_icons/walls.png",
             "title": "TXT_KEY_BUILDING_WALLS",
             "cost": "75 [ICON_PRODUCTION]",
-            "game_info": "TXT_KEY_BUILDING_WALLS_STRATEGY",
             "historical_info": "TXT_KEY_CIV5_BUILDINGS_WALLS_TEXT",
             "strategy": "TXT_KEY_BUILDING_WALLS_STRATEGY",
             "prerequisite_techs": [
                 "item_1034"
             ],
-            "replaces": [
-                "item_603"
-            ],
-            "defense": "5.0 [ICON_STRENGTH]"
+            "defense": "5 [ICON_STRENGTH], +50 HP"
         }
     },
     {
@@ -21834,7 +21860,7 @@
             "replaces": [
                 "item_603"
             ],
-            "defense": "6.0 [ICON_STRENGTH]"
+            "defense": "6 [ICON_STRENGTH], +100 HP"
         }
     },
     {
@@ -21852,9 +21878,6 @@
             "maintenance": "2 [ICON_GOLD]",
             "prerequisite_techs": [
                 "item_1038"
-            ],
-            "replaces": [
-                "item_605"
             ]
         }
     },
@@ -21875,8 +21898,8 @@
             "prerequisite_techs": [
                 "item_1043"
             ],
-            "replaces": [
-                "item_606"
+            "required_buildings": [
+                "item_596"
             ]
         }
     },
@@ -21893,9 +21916,6 @@
             "maintenance": "1 [ICON_GOLD]",
             "prerequisite_techs": [
                 "item_1044"
-            ],
-            "replaces": [
-                "item_607"
             ]
         }
     },
@@ -21905,7 +21925,7 @@
         "strings": {
             "image": "./assets/images/building_icons/bazaar.png",
             "title": "TXT_KEY_BUILDING_BAZAAR_DESC",
-            "gold": "+2 [ICON_GOLD]",
+            "gold": "+2 [ICON_GOLD], +25% [ICON_GOLD]",
             "cost": "100 [ICON_PRODUCTION]",
             "game_info": "TXT_KEY_BUILDING_BAZAAR_HELP",
             "historical_info": "TXT_KEY_CIV5_BUILDINGS_BAZAAR_TEXT",
@@ -21921,8 +21941,7 @@
             ],
             "specialists": [
                 "item_337"
-            ],
-            "great_merchant_points": "0 [ICON_GREAT_PEOPLE]"
+            ]
         }
     },
     {
@@ -21931,7 +21950,7 @@
         "strings": {
             "image": "./assets/images/building_icons/burial_tomb.png",
             "title": "TXT_KEY_BUILDING_BURIAL_TOMB_DESC",
-            "faith": "+2 [ICON_PEACE]",
+            "faith": "2 [ICON_PEACE]",
             "cost": "100 [ICON_PRODUCTION]",
             "game_info": "TXT_KEY_BUILDING_BURIAL_TOMB_HELP",
             "historical_info": "TXT_KEY_BUILDING_BURIAL_TOMB_PEDIA",
@@ -21947,7 +21966,8 @@
             ],
             "required_buildings": [
                 "item_600"
-            ]
+            ],
+            "happiness": "2 [ICON_HAPPINESS_1]"
         }
     },
     {
@@ -21962,9 +21982,6 @@
             "strategy": "TXT_KEY_BUILDING_CARAVANSARY_STRATEGY",
             "prerequisite_techs": [
                 "item_1045"
-            ],
-            "replaces": [
-                "item_610"
             ]
         }
     },
@@ -21982,9 +21999,7 @@
             "prerequisite_techs": [
                 "item_1041"
             ],
-            "replaces": [
-                "item_611"
-            ]
+            "happiness": "2 [ICON_HAPPINESS_1]"
         }
     },
     {
@@ -22000,9 +22015,6 @@
             "maintenance": "4 [ICON_GOLD]",
             "prerequisite_techs": [
                 "item_1047"
-            ],
-            "replaces": [
-                "item_612"
             ]
         }
     },
@@ -22040,9 +22052,6 @@
             "maintenance": "1 [ICON_GOLD]",
             "prerequisite_techs": [
                 "item_1048"
-            ],
-            "replaces": [
-                "item_614"
             ]
         }
     },
@@ -22052,21 +22061,16 @@
         "strings": {
             "image": "./assets/images/building_icons/market.png",
             "title": "TXT_KEY_BUILDING_MARKET",
-            "gold": "+1 [ICON_GOLD]",
+            "gold": "+1 [ICON_GOLD], +25% [ICON_GOLD]",
             "cost": "100 [ICON_PRODUCTION]",
-            "game_info": "TXT_KEY_BUILDING_MARKET_STRATEGY",
             "historical_info": "TXT_KEY_CIV5_BUILDINGS_MARKET_TEXT",
             "strategy": "TXT_KEY_BUILDING_MARKET_STRATEGY",
             "prerequisite_techs": [
                 "item_1042"
             ],
-            "replaces": [
-                "item_615"
-            ],
             "specialists": [
                 "item_337"
-            ],
-            "great_merchant_points": "0 [ICON_GREAT_PEOPLE]"
+            ]
         }
     },
     {
@@ -22081,9 +22085,6 @@
             "strategy": "TXT_KEY_BUILDING_MINT_STRATEGY",
             "prerequisite_techs": [
                 "item_1042"
-            ],
-            "replaces": [
-                "item_616"
             ]
         }
     },
@@ -22093,7 +22094,7 @@
         "strings": {
             "image": "./assets/images/building_icons/mud_pyramid_mosque.png",
             "title": "TXT_KEY_BUILDING_MUD_PYRAMID_MOSQUE_DESC",
-            "faith": "+2 [ICON_PEACE]",
+            "faith": "2 [ICON_PEACE]",
             "culture": "2 [ICON_CULTURE]",
             "cost": "100 [ICON_PRODUCTION]",
             "game_info": "TXT_KEY_BUILDING_MUD_PYRAMID_MOSQUE_HELP",
@@ -22126,9 +22127,6 @@
             "maintenance": "1 [ICON_GOLD]",
             "prerequisite_techs": [
                 "item_1045"
-            ],
-            "replaces": [
-                "item_618"
             ]
         }
     },
@@ -22138,7 +22136,7 @@
         "strings": {
             "image": "./assets/images/building_icons/temple.png",
             "title": "TXT_KEY_BUILDING_TEMPLE_DESC",
-            "faith": "+2 [ICON_PEACE]",
+            "faith": "2 [ICON_PEACE]",
             "cost": "100 [ICON_PRODUCTION]",
             "historical_info": "TXT_KEY_CIV5_BUILDINGS_TEMPLE_TEXT",
             "strategy": "TXT_KEY_BUILDING_TEMPLE_STRATEGY",
@@ -22165,9 +22163,6 @@
             "prerequisite_techs": [
                 "item_1043"
             ],
-            "replaces": [
-                "item_620"
-            ],
             "specialists": [
                 "item_341",
                 "item_341"
@@ -22189,8 +22184,8 @@
             "prerequisite_techs": [
                 "item_1058"
             ],
-            "replaces": [
-                "item_621"
+            "required_buildings": [
+                "item_589"
             ]
         }
     },
@@ -22208,9 +22203,6 @@
             "prerequisite_techs": [
                 "item_1054"
             ],
-            "replaces": [
-                "item_622"
-            ],
             "specialists": [
                 "item_335",
                 "item_335"
@@ -22224,7 +22216,7 @@
         "strings": {
             "image": "./assets/images/building_icons/candi.png",
             "title": "TXT_KEY_BUILDING_CANDI_DESC",
-            "faith": "+2 [ICON_PEACE]",
+            "faith": "2 [ICON_PEACE]",
             "cost": "120 [ICON_PRODUCTION]",
             "game_info": "TXT_KEY_BUILDING_CANDI_HELP",
             "historical_info": "TXT_KEY_CIV5_BUILDINGS_CANDI_TEXT",
@@ -22254,10 +22246,10 @@
             "prerequisite_techs": [
                 "item_1050"
             ],
-            "replaces": [
-                "item_624"
+            "required_buildings": [
+                "item_603"
             ],
-            "defense": "7.0 [ICON_STRENGTH]"
+            "defense": "7 [ICON_STRENGTH], +25 HP"
         }
     },
     {
@@ -22274,8 +22266,8 @@
             "prerequisite_techs": [
                 "item_1056"
             ],
-            "replaces": [
-                "item_625"
+            "local_resources_required": [
+                "item_122"
             ]
         }
     },
@@ -22292,9 +22284,6 @@
             "maintenance": "1 [ICON_GOLD]",
             "prerequisite_techs": [
                 "item_1059"
-            ],
-            "replaces": [
-                "item_626"
             ]
         }
     },
@@ -22311,9 +22300,6 @@
             "maintenance": "2 [ICON_GOLD]",
             "prerequisite_techs": [
                 "item_1052"
-            ],
-            "replaces": [
-                "item_627"
             ]
         }
     },
@@ -22340,8 +22326,7 @@
             ],
             "specialists": [
                 "item_336"
-            ],
-            "great_engineer_points": "0 [ICON_GREAT_PEOPLE]"
+            ]
         }
     },
     {
@@ -22361,10 +22346,13 @@
             "civilization": [
                 "item_264"
             ],
+            "required_buildings": [
+                "item_603"
+            ],
             "replaces": [
                 "item_624"
             ],
-            "defense": "7.0 [ICON_STRENGTH]"
+            "defense": "7 [ICON_STRENGTH], +25 HP"
         }
     },
     {
@@ -22381,14 +22369,13 @@
             "prerequisite_techs": [
                 "item_1053"
             ],
-            "replaces": [
-                "item_630"
+            "required_buildings": [
+                "item_595"
             ],
             "specialists": [
                 "item_339",
                 "item_339"
-            ],
-            "great_scientist_points": "0 [ICON_GREAT_PEOPLE]"
+            ]
         }
     },
     {
@@ -22416,7 +22403,10 @@
                 "item_339",
                 "item_339"
             ],
-            "great_scientist_points": "0 [ICON_GREAT_PEOPLE]"
+            "science": "+33% [ICON_RESEARCH]",
+            "required_buildings": [
+                "item_595"
+            ]
         }
     },
     {
@@ -22425,7 +22415,7 @@
         "strings": {
             "image": "./assets/images/building_icons/workshop.png",
             "title": "TXT_KEY_BUILDING_WORKSHOP",
-            "production": "+2 [ICON_PRODUCTION]",
+            "production": "+10% [ICON_PRODUCTION], +2 [ICON_PRODUCTION]",
             "cost": "120 [ICON_PRODUCTION]",
             "game_info": "TXT_KEY_BUILDING_WORKSHOP_HELP",
             "historical_info": "TXT_KEY_CIV5_BUILDINGS_WORKSHOP_TEXT",
@@ -22434,13 +22424,9 @@
             "prerequisite_techs": [
                 "item_1056"
             ],
-            "replaces": [
-                "item_632"
-            ],
             "specialists": [
                 "item_336"
-            ],
-            "great_engineer_points": "0 [ICON_GREAT_PEOPLE]"
+            ]
         }
     },
     {
@@ -22456,10 +22442,10 @@
             "prerequisite_techs": [
                 "item_1067"
             ],
-            "replaces": [
-                "item_633"
+            "required_buildings": [
+                "item_624"
             ],
-            "defense": "9.0 [ICON_STRENGTH]"
+            "defense": "9 [ICON_STRENGTH], +25 HP"
         }
     },
     {
@@ -22468,7 +22454,7 @@
         "strings": {
             "image": "./assets/images/building_icons/bank.png",
             "title": "TXT_KEY_BUILDING_BANK",
-            "gold": "+2 [ICON_GOLD]",
+            "gold": "+2 [ICON_GOLD], +25% [ICON_GOLD]",
             "cost": "200 [ICON_PRODUCTION]",
             "game_info": "TXT_KEY_BUILDING_BANK_HELP",
             "historical_info": "TXT_KEY_CIV5_BUILDINGS_BANK_TEXT",
@@ -22476,13 +22462,12 @@
             "prerequisite_techs": [
                 "item_1063"
             ],
-            "replaces": [
-                "item_634"
+            "required_buildings": [
+                "item_615"
             ],
             "specialists": [
                 "item_337"
-            ],
-            "great_merchant_points": "0 [ICON_GREAT_PEOPLE]"
+            ]
         }
     },
     {
@@ -22507,6 +22492,10 @@
             ],
             "replaces": [
                 "item_641"
+            ],
+            "happiness": "3 [ICON_HAPPINESS_1]",
+            "required_buildings": [
+                "item_606"
             ]
         }
     },
@@ -22516,7 +22505,7 @@
         "strings": {
             "image": "./assets/images/building_icons/coffee_house.png",
             "title": "TXT_KEY_BUILDING_COFFEE_HOUSE",
-            "production": "+2 [ICON_PRODUCTION]",
+            "production": "+5% [ICON_PRODUCTION], +2 [ICON_PRODUCTION]",
             "cost": "250 [ICON_PRODUCTION]",
             "game_info": "TXT_KEY_BUILDING_COFFEE_HOUSE_HELP",
             "historical_info": "TXT_KEY_CIV5_BUILDINGS_COFFEE_HOUSE_TEXT",
@@ -22533,8 +22522,7 @@
             ],
             "specialists": [
                 "item_336"
-            ],
-            "great_engineer_points": "0 [ICON_GREAT_PEOPLE]"
+            ]
         }
     },
     {
@@ -22550,9 +22538,6 @@
             "maintenance": "1 [ICON_GOLD]",
             "prerequisite_techs": [
                 "item_1063"
-            ],
-            "replaces": [
-                "item_637"
             ]
         }
     },
@@ -22562,7 +22547,7 @@
         "strings": {
             "image": "./assets/images/building_icons/hanse.png",
             "title": "TXT_KEY_BUILDING_HANSE_DESC",
-            "gold": "+2 [ICON_GOLD]",
+            "gold": "+2 [ICON_GOLD], +25% [ICON_GOLD]",
             "cost": "200 [ICON_PRODUCTION]",
             "game_info": "TXT_KEY_BUILDING_HANSE_HELP",
             "historical_info": "TXT_KEY_CIV5_BUILDINGS_HANSE_TEXT",
@@ -22579,7 +22564,9 @@
             "specialists": [
                 "item_337"
             ],
-            "great_merchant_points": "0 [ICON_GREAT_PEOPLE]"
+            "required_buildings": [
+                "item_615"
+            ]
         }
     },
     {
@@ -22595,9 +22582,6 @@
             "maintenance": "1 [ICON_GOLD]",
             "prerequisite_techs": [
                 "item_1060"
-            ],
-            "replaces": [
-                "item_639"
             ],
             "specialists": [
                 "item_338",
@@ -22619,9 +22603,7 @@
             "prerequisite_techs": [
                 "item_1062"
             ],
-            "replaces": [
-                "item_640"
-            ]
+            "science": "+50% [ICON_RESEARCH]"
         }
     },
     {
@@ -22641,8 +22623,8 @@
             "prerequisite_techs": [
                 "item_1060"
             ],
-            "replaces": [
-                "item_641"
+            "required_buildings": [
+                "item_606"
             ]
         }
     },
@@ -22652,7 +22634,7 @@
         "strings": {
             "image": "./assets/images/building_icons/satrap's_court.png",
             "title": "TXT_KEY_BUILDING_SATRAPS_COURT_DESC",
-            "gold": "+3 [ICON_GOLD]",
+            "gold": "+3 [ICON_GOLD], +25% [ICON_GOLD]",
             "cost": "200 [ICON_PRODUCTION]",
             "game_info": "TXT_KEY_BUILDING_SATRAPS_COURT_HELP",
             "historical_info": "TXT_KEY_BUILDING_SATRAPS_COURT_PEDIA",
@@ -22669,7 +22651,10 @@
             "specialists": [
                 "item_337"
             ],
-            "great_merchant_points": "0 [ICON_GREAT_PEOPLE]"
+            "happiness": "2 [ICON_HAPPINESS_1]",
+            "required_buildings": [
+                "item_615"
+            ]
         }
     },
     {
@@ -22686,8 +22671,8 @@
             "prerequisite_techs": [
                 "item_1068"
             ],
-            "replaces": [
-                "item_643"
+            "required_buildings": [
+                "item_627"
             ]
         }
     },
@@ -22706,13 +22691,9 @@
             "prerequisite_techs": [
                 "item_1065"
             ],
-            "replaces": [
-                "item_644"
-            ],
             "specialists": [
                 "item_336"
-            ],
-            "great_engineer_points": "0 [ICON_GREAT_PEOPLE]"
+            ]
         }
     },
     {
@@ -22729,9 +22710,10 @@
             "prerequisite_techs": [
                 "item_1069"
             ],
-            "replaces": [
-                "item_645"
-            ]
+            "required_buildings": [
+                "item_611"
+            ],
+            "happiness": "2 [ICON_HAPPINESS_1]"
         }
     },
     {
@@ -22740,7 +22722,7 @@
         "strings": {
             "image": "./assets/images/building_icons/factory.png",
             "title": "TXT_KEY_BUILDING_FACTORY",
-            "production": "+4 [ICON_PRODUCTION]",
+            "production": "+10% [ICON_PRODUCTION], +4 [ICON_PRODUCTION]",
             "cost": "360 [ICON_PRODUCTION]",
             "game_info": "TXT_KEY_BUILDING_FACTORY_HELP",
             "historical_info": "TXT_KEY_CIV5_BUILDINGS_FACTORY_TEXT",
@@ -22749,14 +22731,13 @@
             "prerequisite_techs": [
                 "item_1075"
             ],
-            "replaces": [
-                "item_646"
+            "required_buildings": [
+                "item_632"
             ],
             "specialists": [
                 "item_336",
                 "item_336"
             ],
-            "great_engineer_points": "0 [ICON_GREAT_PEOPLE]",
             "required_resources": [
                 "item_120"
             ]
@@ -22770,15 +22751,14 @@
             "title": "TXT_KEY_BUILDING_HOSPITAL",
             "food": "+5 [ICON_FOOD]",
             "cost": "360 [ICON_PRODUCTION]",
-            "game_info": "TXT_KEY_BUILDING_HOSPITAL_STRATEGY",
             "historical_info": "TXT_KEY_BUILDING_HOSPITAL_PEDIA",
             "strategy": "TXT_KEY_BUILDING_HOSPITAL_STRATEGY",
             "maintenance": "2 [ICON_GOLD]",
             "prerequisite_techs": [
                 "item_1071"
             ],
-            "replaces": [
-                "item_647"
+            "required_buildings": [
+                "item_607"
             ]
         }
     },
@@ -22795,9 +22775,6 @@
             "maintenance": "3 [ICON_GOLD]",
             "prerequisite_techs": [
                 "item_1073"
-            ],
-            "replaces": [
-                "item_648"
             ],
             "required_resources": [
                 "item_119"
@@ -22818,8 +22795,8 @@
             "prerequisite_techs": [
                 "item_1076"
             ],
-            "replaces": [
-                "item_649"
+            "required_buildings": [
+                "item_621"
             ]
         }
     },
@@ -22841,8 +22818,8 @@
             "prerequisite_techs": [
                 "item_1070"
             ],
-            "replaces": [
-                "item_650"
+            "required_buildings": [
+                "item_641"
             ]
         }
     },
@@ -22860,8 +22837,8 @@
             "prerequisite_techs": [
                 "item_1073"
             ],
-            "replaces": [
-                "item_651"
+            "required_buildings": [
+                "item_637"
             ]
         }
     },
@@ -22880,13 +22857,12 @@
             "prerequisite_techs": [
                 "item_1078"
             ],
-            "replaces": [
-                "item_652"
+            "required_buildings": [
+                "item_630"
             ],
             "specialists": [
                 "item_339"
-            ],
-            "great_scientist_points": "0 [ICON_GREAT_PEOPLE]"
+            ]
         }
     },
     {
@@ -22895,7 +22871,7 @@
         "strings": {
             "image": "./assets/images/building_icons/stock_exchange.png",
             "title": "TXT_KEY_BUILDING_STOCK_EXCHANGE",
-            "gold": "+3 [ICON_GOLD]",
+            "gold": "+3 [ICON_GOLD], +25% [ICON_GOLD]",
             "cost": "360 [ICON_PRODUCTION]",
             "game_info": "TXT_KEY_BUILDING_STOCK_EXCHANGE_HELP",
             "historical_info": "TXT_KEY_CIV5_BUILDINGS_STOCK_EXCHANGE_TEXT",
@@ -22903,14 +22879,13 @@
             "prerequisite_techs": [
                 "item_1073"
             ],
-            "replaces": [
-                "item_653"
+            "required_buildings": [
+                "item_634"
             ],
             "specialists": [
                 "item_337",
                 "item_337"
-            ],
-            "great_merchant_points": "0 [ICON_GREAT_PEOPLE]"
+            ]
         }
     },
     {
@@ -22931,8 +22906,8 @@
             "prerequisite_techs": [
                 "item_1085"
             ],
-            "replaces": [
-                "item_654"
+            "required_buildings": [
+                "item_650"
             ]
         }
     },
@@ -22948,9 +22923,6 @@
             "strategy": "TXT_KEY_BUILDING_HOTEL_STRATEGY",
             "prerequisite_techs": [
                 "item_1087"
-            ],
-            "replaces": [
-                "item_655"
             ]
         }
     },
@@ -22967,10 +22939,10 @@
             "prerequisite_techs": [
                 "item_1088"
             ],
-            "replaces": [
-                "item_656"
+            "required_buildings": [
+                "item_633"
             ],
-            "defense": "12.0 [ICON_STRENGTH]"
+            "defense": "12 [ICON_STRENGTH], +25 HP"
         }
     },
     {
@@ -22979,7 +22951,7 @@
         "strings": {
             "image": "./assets/images/building_icons/research_lab.png",
             "title": "TXT_KEY_BUILDING_LABORATORY",
-            "science": "+4 [ICON_RESEARCH]",
+            "science": "+50% [ICON_RESEARCH], +4 [ICON_RESEARCH]",
             "cost": "500 [ICON_PRODUCTION] or 200 [ICON_PEACE]",
             "game_info": "TXT_KEY_BUILDING_LABORATORY_HELP",
             "historical_info": "TXT_KEY_CIV5_BUILDINGS_RESEARCHLAB_TEXT",
@@ -22988,13 +22960,12 @@
             "prerequisite_techs": [
                 "item_1084"
             ],
-            "replaces": [
-                "item_657"
+            "required_buildings": [
+                "item_652"
             ],
             "specialists": [
                 "item_339"
-            ],
-            "great_scientist_points": "0 [ICON_GREAT_PEOPLE]"
+            ]
         }
     },
     {
@@ -23013,7 +22984,8 @@
             ],
             "required_buildings": [
                 "item_645"
-            ]
+            ],
+            "happiness": "2 [ICON_HAPPINESS_1]"
         }
     },
     {
@@ -23029,9 +23001,6 @@
             "maintenance": "5 [ICON_GOLD]",
             "prerequisite_techs": [
                 "item_1095"
-            ],
-            "replaces": [
-                "item_659"
             ]
         }
     },
@@ -23049,8 +23018,8 @@
             "prerequisite_techs": [
                 "item_1094"
             ],
-            "replaces": [
-                "item_660"
+            "required_buildings": [
+                "item_647"
             ]
         }
     },
@@ -23060,7 +23029,7 @@
         "strings": {
             "image": "./assets/images/building_icons/nuclear_plant.png",
             "title": "TXT_KEY_BUILDING_NUCLEAR_PLANT",
-            "production": "+5 [ICON_PRODUCTION]",
+            "production": "+15% [ICON_PRODUCTION], +5 [ICON_PRODUCTION]",
             "cost": "500 [ICON_PRODUCTION]",
             "game_info": "TXT_KEY_BUILDING_NUCLEAR_PLANT_HELP",
             "historical_info": "TXT_KEY_CIV5_BUILDINGS_NUCLEARPLANT_TEXT",
@@ -23069,8 +23038,8 @@
             "prerequisite_techs": [
                 "item_1093"
             ],
-            "replaces": [
-                "item_661"
+            "required_buildings": [
+                "item_646"
             ],
             "required_resources": [
                 "item_124"
@@ -23090,9 +23059,6 @@
             "maintenance": "3 [ICON_GOLD]",
             "prerequisite_techs": [
                 "item_1092"
-            ],
-            "replaces": [
-                "item_662"
             ]
         }
     },
@@ -23102,7 +23068,7 @@
         "strings": {
             "image": "./assets/images/building_icons/solar_plant.png",
             "title": "TXT_KEY_BUILDING_SOLAR_PLANT",
-            "production": "+5 [ICON_PRODUCTION]",
+            "production": "+15% [ICON_PRODUCTION], +5 [ICON_PRODUCTION]",
             "cost": "500 [ICON_PRODUCTION]",
             "game_info": "TXT_KEY_BUILDING_SOLAR_PLANT_HELP",
             "historical_info": "TXT_KEY_CIV5_BUILDINGS_SOLARPLANT_TEXT",
@@ -23111,8 +23077,8 @@
             "prerequisite_techs": [
                 "item_1092"
             ],
-            "replaces": [
-                "item_663"
+            "required_buildings": [
+                "item_646"
             ]
         }
     },
@@ -23129,9 +23095,6 @@
             "maintenance": "1 [ICON_GOLD]",
             "prerequisite_techs": [
                 "item_1108"
-            ],
-            "replaces": [
-                "item_664"
             ]
         }
     },
@@ -23150,8 +23113,8 @@
             "prerequisite_techs": [
                 "item_1105"
             ],
-            "replaces": [
-                "item_665"
+            "required_buildings": [
+                "item_646"
             ],
             "required_resources": [
                 "item_119"
@@ -23186,6 +23149,182 @@
             "title": "TXT_KEY_RESOLUTION_WORLD_FAIR",
             "cost": "350 [ICON_PRODUCTION]",
             "summary": "TXT_KEY_WORLD_FAIR_SUMMARY"
+        }
+    },
+    {
+        "item_id": "item_1584",
+        "view_id": "view_1",
+        "strings": {
+            "image": "./assets/images/improvement_icons/plantation.png",
+            "title": "TXT_KEY_BUILD_PLANTATION"
+        }
+    },
+    {
+        "item_id": "item_1585",
+        "view_id": "view_1",
+        "strings": {
+            "image": "./assets/images/improvement_icons/quarry.png",
+            "title": "TXT_KEY_BUILD_QUARRY"
+        }
+    },
+    {
+        "item_id": "item_1586",
+        "view_id": "view_1",
+        "strings": {
+            "image": "./assets/images/improvement_icons/remove_marsh.png",
+            "title": "TXT_KEY_BUILD_REMOVE_MARSH"
+        }
+    },
+    {
+        "item_id": "item_1587",
+        "view_id": "view_1",
+        "strings": {
+            "image": "./assets/images/improvement_icons/mine.png",
+            "title": "TXT_KEY_BUILD_MINE"
+        }
+    },
+    {
+        "item_id": "item_1588",
+        "view_id": "view_1",
+        "strings": {
+            "image": "./assets/images/improvement_icons/remove_forest.png",
+            "title": "TXT_KEY_BUILD_REMOVE_FOREST"
+        }
+    },
+    {
+        "item_id": "item_1589",
+        "view_id": "view_1",
+        "strings": {
+            "image": "./assets/images/improvement_icons/fishing_boats.png",
+            "title": "TXT_KEY_BUILD_FISHING_BOATS"
+        }
+    },
+    {
+        "item_id": "item_1590",
+        "view_id": "view_1",
+        "strings": {
+            "image": "./assets/images/improvement_icons/road.png",
+            "title": "TXT_KEY_BUILD_ROAD"
+        }
+    },
+    {
+        "item_id": "item_1591",
+        "view_id": "view_1",
+        "strings": {
+            "image": "./assets/images/improvement_icons/camp.png",
+            "title": "TXT_KEY_BUILD_CAMP"
+        }
+    },
+    {
+        "item_id": "item_1592",
+        "view_id": "view_1",
+        "strings": {
+            "image": "./assets/images/improvement_icons/lumber_mill.png",
+            "title": "TXT_KEY_BUILD_LUMBERMILL"
+        }
+    },
+    {
+        "item_id": "item_1593",
+        "view_id": "view_1",
+        "strings": {
+            "image": "./assets/images/improvement_icons/terrace_farm.png",
+            "title": "TXT_KEY_BUILD_TERRACE_FARM"
+        }
+    },
+    {
+        "item_id": "item_1594",
+        "view_id": "view_1",
+        "strings": {
+            "image": "./assets/images/improvement_icons/moai.png",
+            "title": "TXT_KEY_BUILD_MOAI"
+        }
+    },
+    {
+        "item_id": "item_1595",
+        "view_id": "view_1",
+        "strings": {
+            "image": "./assets/images/improvement_icons/fort.png",
+            "title": "TXT_KEY_BUILD_FORT"
+        }
+    },
+    {
+        "item_id": "item_1596",
+        "view_id": "view_1",
+        "strings": {
+            "image": "./assets/images/improvement_icons/kasbah.png",
+            "title": "TXT_KEY_BUILD_KASBAH"
+        }
+    },
+    {
+        "item_id": "item_1597",
+        "view_id": "view_1",
+        "strings": {
+            "image": "./assets/images/improvement_icons/chateau.png",
+            "title": "TXT_KEY_BUILD_CHATEAU"
+        }
+    },
+    {
+        "item_id": "item_1598",
+        "view_id": "view_1",
+        "strings": {
+            "image": "./assets/images/improvement_icons/trading_post.png",
+            "title": "TXT_KEY_BUILD_TRADING_POST"
+        }
+    },
+    {
+        "item_id": "item_1599",
+        "view_id": "view_1",
+        "strings": {
+            "image": "./assets/images/improvement_icons/polder.png",
+            "title": "TXT_KEY_BUILD_POLDER"
+        }
+    },
+    {
+        "item_id": "item_1600",
+        "view_id": "view_1",
+        "strings": {
+            "image": "./assets/images/improvement_icons/brazilwood_camp.png",
+            "title": "TXT_KEY_BUILD_BRAZILWOOD_CAMP"
+        }
+    },
+    {
+        "item_id": "item_1601",
+        "view_id": "view_1",
+        "strings": {
+            "image": "./assets/images/improvement_icons/feitoria.png",
+            "title": "TXT_KEY_BUILD_FEITORIA"
+        }
+    },
+    {
+        "item_id": "item_1602",
+        "view_id": "view_1",
+        "strings": {
+            "image": "./assets/images/improvement_icons/archaeological_dig.png",
+            "title": "TXT_KEY_BUILD_ARCHAEOLOGY_DIG"
+        }
+    },
+    {
+        "item_id": "item_1603",
+        "view_id": "view_1",
+        "strings": {
+            "image": "./assets/images/improvement_icons/oil_well.png",
+            "title": "TXT_KEY_BUILD_WELL"
+        }
+    },
+    {
+        "item_id": "item_1604",
+        "view_id": "view_1",
+        "strings": {
+            "image": "./assets/images/improvement_icons/railroad.png",
+            "title": "TXT_KEY_BUILD_RAILROAD"
+        }
+    },
+    {
+        "item_id": "item_1605",
+        "view_id": "view_1",
+        "strings": {
+            "image": "./assets/images/improvement_icons/offshore_platform.png",
+            "title": "TXT_KEY_BUILD_OFFSHORE_PLATFORM"
         }
     }
 ]

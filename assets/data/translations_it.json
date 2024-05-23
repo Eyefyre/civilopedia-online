@@ -5904,5 +5904,22 @@
     "TXT_KEY_BUILD_FEITORIA": "Costruisci una [LINK=IMPROVEMENT_FEITORIA]Feitoria[\\LINK]",
     "TXT_KEY_BUILD_ARCHAEOLOGY_DIG": "Costruisci uno [LINK=IMPROVEMENT_ARCHAEOLOGICAL_DIG]Scavo archeologico[\\LINK]",
     "TXT_KEY_BUILD_WELL": "costruire un [LINK=IMPROVEMENT_WELL]Pozzo[\\LINK]",
-    "TXT_KEY_BUILD_RAILROAD": "Costruire una [LINK=CONCEPT_MOVEMENT]Ferrovia[\\LINK]"
+    "TXT_KEY_BUILD_RAILROAD": "Costruire una [LINK=CONCEPT_MOVEMENT]Ferrovia[\\LINK]",
+    "TXT_KEY_SPECIALIST_WRITER_TITLE": "Punti Grande Scrittore:",
+    "TXT_KEY_SPECIALIST_ARTIST_TITLE": "punti Grande Artista:",
+    "TXT_KEY_SPECIALIST_MUSICIAN_TITLE": "Punti Grande Musicista:",
+    "TXT_KEY_UNITCOMBAT_RECON": "Unit\u00e0 di ricognizione",
+    "TXT_KEY_UNITCOMBAT_NAVALMELEE": "Unit\u00e0 navali da mischia",
+    "TXT_KEY_UNITCOMBAT_MOUNTED": "Unit\u00e0 a cavallo",
+    "TXT_KEY_UNITCOMBAT_SIEGE": "Armi d'assedio",
+    "TXT_KEY_UNITCOMBAT_CARRIER": "Portaerei",
+    "TXT_KEY_UNITCOMBAT_FIGHTER": "Unit\u00e0 Caccia",
+    "TXT_KEY_UNITCOMBAT_HELICOPTER": "Unit\u00e0 Elicotteri",
+    "TXT_KEY_UNITCOMBAT_SUBMARINE": "Sottomarini",
+    "TXT_KEY_BUILD_PLANTATION": "Costruire una [LINK=IMPROVEMENT_PLANTATION]Piantagione[\\LINK]",
+    "TXT_KEY_BUILD_OFFSHORE_PLATFORM": "Crea una [LINK=IMPROVEMENT_OFFSHORE_PLATFORM]Piattaforma petrolifera[\\LINK]",
+    "TXT_KEY_ABLTY_ALLOW_EMBASSY_STRING": "Permette di stabilire ambasciate nelle capitali delle altre civilt\u00e0",
+    "TXT_KEY_ABLTY_BRIDGE_STRING": "Permette di costruire ponti sui fiumi.",
+    "TXT_KEY_ALLOWS_EMBARKING": "Permette alle unit\u00e0 di terra di imbarcarsi e attraversare le caselle acquatiche. Tutte le unit\u00e0 che entrano in territorio amico guadagnano quest'abilit\u00e0.",
+    "TXT_KEY_ABLTY_D_PACT_STRING": "Permette di stabilire Patti di Difesa."
 }

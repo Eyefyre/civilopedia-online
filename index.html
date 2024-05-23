@@ -475,6 +475,30 @@
                     </div>
                   </div>
                   {{/if}}
+                  {{#if strings.great_writer_points}}
+                  <div class="row mt-3">
+                    <div class="col-12 info-box-title">
+                      {{translate "TXT_KEY_SPECIALIST_WRITER_TITLE"}}
+                    </div>
+                    <div class="col-12 pe-0">
+                      <div class="bordered-text info-box-content">
+                        {{{translate strings.great_writer_points}}}
+                      </div>
+                    </div>
+                  </div>
+                  {{/if}}
+                  {{#if strings.great_artist_points}}
+                  <div class="row mt-3">
+                    <div class="col-12 info-box-title">
+                      {{translate "TXT_KEY_SPECIALIST_ARTIST_TITLE"}}
+                    </div>
+                    <div class="col-12 pe-0">
+                      <div class="bordered-text info-box-content">
+                        {{{translate strings.great_artist_points}}}
+                      </div>
+                    </div>
+                  </div>
+                  {{/if}}
                   {{#if strings.great_merchant_points}}
                   <div class="row mt-3">
                     <div class="col-12 info-box-title">
@@ -495,6 +519,18 @@
                     <div class="col-12 pe-0">
                       <div class="bordered-text info-box-content">
                         {{{translate strings.great_scientist_points}}}
+                      </div>
+                    </div>
+                  </div>
+                  {{/if}}
+                  {{#if strings.great_musician_points}}
+                  <div class="row mt-3">
+                    <div class="col-12 info-box-title">
+                      {{translate "TXT_KEY_SPECIALIST_MUSICIAN_TITLE"}}
+                    </div>
+                    <div class="col-12 pe-0">
+                      <div class="bordered-text info-box-content">
+                        {{{translate strings.great_musician_points}}}
                       </div>
                     </div>
                   </div>
@@ -767,6 +803,26 @@
                   </div>
                 </div>
                 {{/if}}
+                {{#if strings.local_resources_required}}
+                <div class="row mt-3">
+                  <div class="col-12 pe-0 info-box-title">
+                    {{translate "TXT_KEY_PEDIA_LOCAL_RESRC_LABEL"}}
+                  </div>
+                  <div class="col-12 pe-0">
+                    <div class="bordered-text info-box-content">
+                      <div class="row g-0">
+                        {{#each strings.local_resources_required}}
+                        <div class="col-4 p-1 small-image" value="{{this}}" data-bs-toggle="tooltip" data-bs-placement="bottom"
+                        data-bs-title="{{translate (get_item_name this)}}">
+                          <img class="img-fluid" src="{{get_item_image this}}"/>
+                        </div>
+                         {{/each}}
+                      </div>
+                      
+                    </div>
+                  </div>
+                </div>
+                {{/if}}
                 {{#if strings.prerequisite_techs}}
                 <div class="row mt-3">
                   <div class="col-12 pe-0 info-box-title">
@@ -787,15 +843,35 @@
                   </div>
                 </div>
                 {{/if}}
-                {{#if strings.great_works}}
+                {{#if strings.required_buildings}}
                 <div class="row mt-3">
                   <div class="col-12 pe-0 info-box-title">
-                    {{translate "TXT_KEY_PEDIA_GREAT_WORKS_LABEL"}}
+                    {{translate "TXT_KEY_PEDIA_REQ_BLDG_LABEL"}}
                   </div>
                   <div class="col-12 pe-0">
                     <div class="bordered-text info-box-content">
                       <div class="row g-0">
-                        {{#each strings.great_works}}
+                        {{#each strings.required_buildings}}
+                        <div class="col-4 p-1 small-image" value="{{this}}" data-bs-toggle="tooltip" data-bs-placement="bottom"
+                        data-bs-title="{{translate (get_item_name this)}}">
+                          <img class="img-fluid" src="{{get_item_image this}}"/>
+                        </div>
+                         {{/each}}
+                      </div>
+                      
+                    </div>
+                  </div>
+                </div>
+                {{/if}}
+                {{#if strings.specialists}}
+                <div class="row mt-3">
+                  <div class="col-12 pe-0 info-box-title">
+                    {{translate "TXT_KEY_PEDIA_SPEC_LABEL"}}
+                  </div>
+                  <div class="col-12 pe-0">
+                    <div class="bordered-text info-box-content">
+                      <div class="row g-0">
+                        {{#each strings.specialists}}
                         <div class="col-4 p-1 small-image" value="{{this}}" data-bs-toggle="tooltip" data-bs-placement="bottom"
                         data-bs-title="{{translate (get_item_name this)}}">
                           <img class="img-fluid" src="{{get_item_image this}}"/>
@@ -867,15 +943,16 @@
                   </div>
                 </div>
                 {{/if}}
-                {{#if strings.required_buildings}}
+    
+                {{#if strings.great_works}}
                 <div class="row mt-3">
                   <div class="col-12 pe-0 info-box-title">
-                    {{translate "TXT_KEY_PEDIA_REQ_BLDG_LABEL"}}
+                    {{translate "TXT_KEY_PEDIA_GREAT_WORKS_LABEL"}}
                   </div>
                   <div class="col-12 pe-0">
                     <div class="bordered-text info-box-content">
                       <div class="row g-0">
-                        {{#each strings.required_buildings}}
+                        {{#each strings.great_works}}
                         <div class="col-4 p-1 small-image" value="{{this}}" data-bs-toggle="tooltip" data-bs-placement="bottom"
                         data-bs-title="{{translate (get_item_name this)}}">
                           <img class="img-fluid" src="{{get_item_image this}}"/>

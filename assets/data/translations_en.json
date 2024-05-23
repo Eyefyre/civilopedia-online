@@ -5917,5 +5917,22 @@
     "TXT_KEY_BUILD_FEITORIA": "Construct a [LINK=IMPROVEMENT_FEITORIA]Feitoria[\\LINK]",
     "TXT_KEY_BUILD_ARCHAEOLOGY_DIG": "Construct an [LINK=IMPROVEMENT_ARCHAEOLOGICAL_DIG]Archaeological Dig[\\LINK]",
     "TXT_KEY_BUILD_WELL": "Construct a [LINK=IMPROVEMENT_WELL]Well[\\LINK]",
-    "TXT_KEY_BUILD_RAILROAD": "Construct a [LINK=CONCEPT_MOVEMENT]Railroad[\\LINK]"
+    "TXT_KEY_BUILD_RAILROAD": "Construct a [LINK=CONCEPT_MOVEMENT]Railroad[\\LINK]",
+    "TXT_KEY_SPECIALIST_WRITER_TITLE": "Great Writer Points:",
+    "TXT_KEY_SPECIALIST_ARTIST_TITLE": "Great Artist Points:",
+    "TXT_KEY_SPECIALIST_MUSICIAN_TITLE": "Great Musician Points:",
+    "TXT_KEY_UNITCOMBAT_RECON": "Recon Units",
+    "TXT_KEY_UNITCOMBAT_NAVALMELEE": "Naval Melee Units",
+    "TXT_KEY_UNITCOMBAT_MOUNTED": "Mounted Units",
+    "TXT_KEY_UNITCOMBAT_SIEGE": "Siege Weapons",
+    "TXT_KEY_UNITCOMBAT_CARRIER": "Carriers",
+    "TXT_KEY_UNITCOMBAT_FIGHTER": "Fighter Units",
+    "TXT_KEY_UNITCOMBAT_HELICOPTER": "Helicopter Units",
+    "TXT_KEY_UNITCOMBAT_SUBMARINE": "Submarines",
+    "TXT_KEY_BUILD_PLANTATION": "Construct a [LINK=IMPROVEMENT_PLANTATION]Plantation[\\LINK]",
+    "TXT_KEY_BUILD_OFFSHORE_PLATFORM": "Create [LINK=IMPROVEMENT_OFFSHORE_PLATFORM]Offshore Platform[\\LINK]",
+    "TXT_KEY_ABLTY_ALLOW_EMBASSY_STRING": "Allows embassies to be established in other civilization's capitals",
+    "TXT_KEY_ABLTY_BRIDGE_STRING": "Allows bridges over rivers",
+    "TXT_KEY_ALLOWS_EMBARKING": "Allows land units to embark and cross water tiles. All units which enter friendly territory gain this ability.",
+    "TXT_KEY_ABLTY_D_PACT_STRING": "Allows Defensive Pact treaties"
 }

@@ -15,6 +15,7 @@ var tag_mappings = {
     "[ICON_INTERNATIONAL_TRADE]": "<img class='icon align-top' src='./assets/images/icon_images/ICON_INTERNATIONAL_TRADE.png'>",
     "[ICON_GOLD]": "<img class='icon align-top' src='./assets/images/icon_images/ICON_GOLD.png'>",
     "[COLOR_POSITIVE_TEXT]": "<span style='color:#7FFF19'>",
+    "[COLOR_CYAN]": "<span style='color:#00E2E2'>",
     "[ENDCOLOR]": "</span>",
     "[ICON_TOURISM]": "<img class='icon align-top' src='./assets/images/icon_images/ICON_TOURISM.png'>",
     "[ICON_PEACE]": "<img class='icon align-top' src='./assets/images/icon_images/ICON_PEACE.png'>",
@@ -52,6 +53,11 @@ var tag_mappings = {
     "[ICON_RES_FUR]": "<img class='icon align-top' src='./assets/images/icon_images/ICON_RES_FUR.png'>",
     "[ICON_RES_TRUFFLES]": "<img class='icon align-top' src='./assets/images/icon_images/ICON_RES_TRUFFLES.png'>",
     "[ICON_OCCUPIED]": "<img class='icon align-top' src='./assets/images/icon_images/ICON_OCCUPIED.png'>",
+    "[ICON_RES_STONE]": "<img class='icon align-top' src='./assets/images/icon_images/ICON_RES_STONE.png'>",
+    "[ICON_RES_OIL]": "<img class='icon align-top' src='./assets/images/icon_images/ICON_RES_OIL.png'>",
+    "[ICON_RES_GOLD]": "<img class='icon align-top' src='./assets/images/icon_images/ICON_RES_GOLD.png'>",
+    "[ICON_RES_SILVER]": "<img class='icon align-top' src='./assets/images/icon_images/ICON_RES_SILVER.png'>",
+    "[ICON_RES_COAL]": "<img class='icon align-top' src='./assets/images/icon_images/ICON_RES_COAL.png'>"
 }
 
 
@@ -83,7 +89,7 @@ document.addEventListener("DOMContentLoaded", async function () {
     const tooltipList = [...tooltipTriggerList].map(tooltipTriggerEl => new bootstrap.Tooltip(tooltipTriggerEl))
     for (var i = 0; i < tooltipTriggerList.length; i++) {
         tooltip = tooltipTriggerList[i].getAttribute("data-bs-title")
-        tooltipTriggerList[i].setAttribute("data-bs-title", get_translation(current_language,tooltip));
+        tooltipTriggerList[i].setAttribute("data-bs-title", get_translation(current_language, tooltip));
     }
     generate_view()
     create_listeners()
@@ -94,7 +100,6 @@ document.addEventListener("DOMContentLoaded", async function () {
 
 
 function get_translation(language, key) {
-    console.log(key)
     if (key in translations[language]) {
         return parse_tags(translations[language][key])
     }
