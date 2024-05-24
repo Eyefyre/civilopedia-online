@@ -9431,7 +9431,7 @@
         "item_id": "item_167",
         "view_id": "view_1",
         "strings": {
-            "image": "./assets/images/worldcongressportrait.png",
+            "image": "./assets/images/feature_icons/fountain_youth.png",
             "title": "TXT_KEY_FEATURE_FOUNTAIN_YOUTH",
             "game_info": "TXT_KEY_CIV5_FEATURES_FOUNTAIN_YOUTH_HELP",
             "historical_info": "TXT_KEY_CIV5_FEATURES_FOUNTAIN_YOUTH_TEXT",
@@ -9476,7 +9476,7 @@
         "item_id": "item_170",
         "view_id": "view_1",
         "strings": {
-            "image": "./assets/images/worldcongressportrait.png",
+            "image": "./assets/images/feature_icons/solomon_mines.png",
             "title": "TXT_KEY_FEATURE_SOLOMONS_MINES",
             "historical_info": "TXT_KEY_CIV5_FEATURES_SOLOMONS_MINES_TEXT",
             "yields": "6 [ICON_PRODUCTION]",
@@ -9488,7 +9488,7 @@
         "item_id": "item_171",
         "view_id": "view_1",
         "strings": {
-            "image": "./assets/images/worldcongressportrait.png",
+            "image": "./assets/images/feature_icons/krakatoa.png",
             "title": "TXT_KEY_FEATURE_VOLCANO",
             "historical_info": "TXT_KEY_CIV5_FEATURES_KRAKATOA_TEXT",
             "yields": "5 [ICON_RESEARCH]",
@@ -9500,7 +9500,7 @@
         "item_id": "item_172",
         "view_id": "view_1",
         "strings": {
-            "image": "./assets/images/worldcongressportrait.png",
+            "image": "./assets/images/feature_icons/lake_victoria.png",
             "title": "TXT_KEY_FEATURE_LAKE_VICTORIA",
             "historical_info": "TXT_KEY_CIV5_FEATURES_LAKE_VICTORIA_TEXT",
             "yields": "6 [ICON_FOOD]",
@@ -9542,7 +9542,7 @@
         "item_id": "item_175",
         "view_id": "view_1",
         "strings": {
-            "image": "./assets/images/worldcongressportrait.png",
+            "image": "./assets/images/feature_icons/fuji.png",
             "title": "TXT_KEY_FEATURE_MT_FUJI",
             "historical_info": "TXT_KEY_CIV5_FEATURES_FUJI_TEXT",
             "yields": "2 [ICON_GOLD] 3 [ICON_CULTURE] 3 [ICON_PEACE]",
@@ -9554,7 +9554,7 @@
         "item_id": "item_176",
         "view_id": "view_1",
         "strings": {
-            "image": "./assets/images/worldcongressportrait.png",
+            "image": "./assets/images/feature_icons/kailash.png",
             "title": "TXT_KEY_FEATURE_MT_KAILASH",
             "historical_info": "TXT_KEY_CIV5_FEATURES_MT_KAILASH_TEXT",
             "yields": "6 [ICON_PEACE] 2 [ICON_HAPPINESS_1]",
@@ -9566,7 +9566,7 @@
         "item_id": "item_177",
         "view_id": "view_1",
         "strings": {
-            "image": "./assets/images/worldcongressportrait.png",
+            "image": "./assets/images/feature_icons/kilimanjaro.png",
             "title": "TXT_KEY_FEATURE_KILIMANJARO",
             "game_info": "TXT_KEY_CIV5_FEATURES_KILIMANJARO_HELP",
             "historical_info": "TXT_KEY_CIV5_FEATURES_KILIMANJARO_TEXT",
@@ -9579,7 +9579,7 @@
         "item_id": "item_178",
         "view_id": "view_1",
         "strings": {
-            "image": "./assets/images/worldcongressportrait.png",
+            "image": "./assets/images/feature_icons/sinai.png",
             "title": "TXT_KEY_FEATURE_MT_SINAI",
             "historical_info": "TXT_KEY_CIV5_FEATURES_MT_SINAI_TEXT",
             "yields": "8 [ICON_PEACE]",
@@ -9603,7 +9603,7 @@
         "item_id": "item_180",
         "view_id": "view_1",
         "strings": {
-            "image": "./assets/images/worldcongressportrait.png",
+            "image": "./assets/images/feature_icons/old_faithful.png",
             "title": "TXT_KEY_FEATURE_GEYSER",
             "historical_info": "TXT_KEY_CIV5_FEATURES_OLDFAITHFUL_TEXT",
             "yields": "2 [ICON_RESEARCH] 3 [ICON_HAPPINESS_1]",
@@ -9627,7 +9627,7 @@
         "item_id": "item_182",
         "view_id": "view_1",
         "strings": {
-            "image": "./assets/images/worldcongressportrait.png",
+            "image": "./assets/images/feature_icons/rock_gibraltar.png",
             "title": "TXT_KEY_FEATURE_GIBRALTAR",
             "historical_info": "TXT_KEY_CIV5_FEATURES_GIBRALTER_TEXT",
             "yields": "2 [ICON_FOOD] 5 [ICON_GOLD]",
@@ -9639,7 +9639,7 @@
         "item_id": "item_183",
         "view_id": "view_1",
         "strings": {
-            "image": "./assets/images/worldcongressportrait.png",
+            "image": "./assets/images/feature_icons/sri_pada.png",
             "title": "TXT_KEY_FEATURE_SRI_PADA",
             "historical_info": "TXT_KEY_CIV5_FEATURES_SRI_PADA_TEXT",
             "yields": "2 [ICON_FOOD] 4 [ICON_PEACE] 2 [ICON_HAPPINESS_1]",
@@ -9651,7 +9651,7 @@
         "item_id": "item_184",
         "view_id": "view_1",
         "strings": {
-            "image": "./assets/images/worldcongressportrait.png",
+            "image": "./assets/images/feature_icons/barringer_crater.png",
             "title": "TXT_KEY_FEATURE_CRATER",
             "historical_info": "TXT_KEY_CIV5_FEATURES_BARRINGER_TEXT",
             "yields": "2 [ICON_GOLD] 3 [ICON_RESEARCH]",
@@ -9663,7 +9663,7 @@
         "item_id": "item_185",
         "view_id": "view_1",
         "strings": {
-            "image": "./assets/images/worldcongressportrait.png",
+            "image": "./assets/images/feature_icons/grand_mesa.png",
             "title": "TXT_KEY_FEATURE_MESA",
             "historical_info": "TXT_KEY_CIV5_FEATURES_GRANDMESA_TEXT",
             "yields": "2 [ICON_PRODUCTION] 3 [ICON_GOLD]",
@@ -9675,7 +9675,7 @@
         "item_id": "item_186",
         "view_id": "view_1",
         "strings": {
-            "image": "./assets/images/worldcongressportrait.png",
+            "image": "./assets/images/feature_icons/great_barrier_reef.png",
             "title": "TXT_KEY_FEATURE_REEF",
             "historical_info": "TXT_KEY_CIV5_FEATURES_GREATBARRIERREEF_TEXT",
             "yields": "2 [ICON_FOOD] 1 [ICON_PRODUCTION] 1 [ICON_GOLD] 2 [ICON_RESEARCH]",
@@ -9687,7 +9687,7 @@
         "item_id": "item_187",
         "view_id": "view_1",
         "strings": {
-            "image": "./assets/images/worldcongressportrait.png",
+            "image": "./assets/images/feature_icons/uluru.png",
             "title": "TXT_KEY_FEATURE_ULURU",
             "historical_info": "TXT_KEY_CIV5_FEATURES_ULURU_TEXT",
             "yields": "2 [ICON_FOOD] 6 [ICON_PEACE]",
@@ -14705,7 +14705,7 @@
         "item_id": "item_1015",
         "view_id": "view_1",
         "strings": {
-            "image": "./assets/images/unit_icons/guided_missle.png",
+            "image": "./assets/images/unit_icons/guided_missile.png",
             "title": "TXT_KEY_UNIT_GUIDED_MISSILE",
             "game_info": "TXT_KEY_UNIT_HELP_GUIDED_MISSILE",
             "historical_info": "TXT_KEY_CIVILOPEDIA_UNITS_MODERN_GUIDEDMISSLE_TEXT",
@@ -17161,7 +17161,7 @@
         "item_id": "item_1580",
         "view_id": "view_1",
         "strings": {
-            "image": "./assets/images/improvement_icons/polder.png",
+            "image": "./assets/images/greatworks_music_empty.png",
             "title": "TXT_KEY_GREAT_WORK_SLOT_MUSIC_EMPTY_TOOLTIP"
         }
     },
@@ -17169,7 +17169,7 @@
         "item_id": "item_1581",
         "view_id": "view_1",
         "strings": {
-            "image": "./assets/images/improvement_icons/polder.png",
+            "image": "./assets/images/greatworks_book_empty.png",
             "title": "TXT_KEY_GREAT_WORK_SLOT_LITERATURE_EMPTY_TOOLTIP"
         }
     },
@@ -17177,7 +17177,7 @@
         "item_id": "item_1582",
         "view_id": "view_1",
         "strings": {
-            "image": "./assets/images/improvement_icons/polder.png",
+            "image": "./assets/images/greatworks_art_empty.png",
             "title": "TXT_KEY_GREAT_WORK_SLOT_ART_ARTIFACT_EMPTY_TOOLTIP"
         }
     },
@@ -18276,7 +18276,6 @@
             "image": "./assets/images/civ_icons/america.png",
             "title": "TXT_KEY_CIV_AMERICA_SHORT_DESC",
             "heading": [
-                "TXT_KEY_CIV5_UNITEDSTATES_FACTOID_HEADING",
                 "TXT_KEY_CIV5_UNITEDSTATES_HEADING_1",
                 "TXT_KEY_CIV5_UNITEDSTATES_HEADING_10",
                 "TXT_KEY_CIV5_UNITEDSTATES_HEADING_11",
@@ -18295,11 +18294,20 @@
                 "TXT_KEY_CIV5_UNITEDSTATES_HEADING_6",
                 "TXT_KEY_CIV5_UNITEDSTATES_HEADING_7",
                 "TXT_KEY_CIV5_UNITEDSTATES_HEADING_8",
-                "TXT_KEY_CIV5_UNITEDSTATES_HEADING_9"
+                "TXT_KEY_CIV5_UNITEDSTATES_HEADING_9",
+                
+                "TXT_KEY_CIV5_UNITEDSTATES_FACTOID_HEADING"
             ],
             "texts": [
-                "TXT_KEY_CIV5_UNITEDSTATES_FACTOID_TEXT",
                 "TXT_KEY_CIV5_UNITEDSTATES_TEXT_1",
+                "TXT_KEY_CIV5_UNITEDSTATES_TEXT_2",
+                "TXT_KEY_CIV5_UNITEDSTATES_TEXT_3",
+                "TXT_KEY_CIV5_UNITEDSTATES_TEXT_4",
+                "TXT_KEY_CIV5_UNITEDSTATES_TEXT_5",
+                "TXT_KEY_CIV5_UNITEDSTATES_TEXT_6",
+                "TXT_KEY_CIV5_UNITEDSTATES_TEXT_7",
+                "TXT_KEY_CIV5_UNITEDSTATES_TEXT_8",
+                "TXT_KEY_CIV5_UNITEDSTATES_TEXT_9",
                 "TXT_KEY_CIV5_UNITEDSTATES_TEXT_10",
                 "TXT_KEY_CIV5_UNITEDSTATES_TEXT_11",
                 "TXT_KEY_CIV5_UNITEDSTATES_TEXT_12",
@@ -18310,14 +18318,7 @@
                 "TXT_KEY_CIV5_UNITEDSTATES_TEXT_17",
                 "TXT_KEY_CIV5_UNITEDSTATES_TEXT_18",
                 "TXT_KEY_CIV5_UNITEDSTATES_TEXT_19",
-                "TXT_KEY_CIV5_UNITEDSTATES_TEXT_2",
-                "TXT_KEY_CIV5_UNITEDSTATES_TEXT_3",
-                "TXT_KEY_CIV5_UNITEDSTATES_TEXT_4",
-                "TXT_KEY_CIV5_UNITEDSTATES_TEXT_5",
-                "TXT_KEY_CIV5_UNITEDSTATES_TEXT_6",
-                "TXT_KEY_CIV5_UNITEDSTATES_TEXT_7",
-                "TXT_KEY_CIV5_UNITEDSTATES_TEXT_8",
-                "TXT_KEY_CIV5_UNITEDSTATES_TEXT_9"
+                "TXT_KEY_CIV5_UNITEDSTATES_FACTOID_TEXT"
             ],
             "leaders": [
                 "item_331"
@@ -20971,7 +20972,7 @@
         "item_id": "item_317",
         "view_id": "view_1",
         "strings": {
-            "image": "./assets/images/leader_icons/montezuma.png",
+            "image": "./assets/images/leader_icons/montezuma_i.png",
             "title": "TXT_KEY_LEADER_MONTEZUMA",
             "subtitle": "TXT_KEY_CIVILOPEDIA_LEADERS_MONTEZUMA_SUBTITLE",
             "lived": "TXT_KEY_CIVILOPEDIA_LEADERS_MONTEZUMA_LIVED",
@@ -21007,7 +21008,7 @@
         "item_id": "item_318",
         "view_id": "view_1",
         "strings": {
-            "image": "./assets/images/leader_icons/napoleon.png",
+            "image": "./assets/images/leader_icons/napoleon_bonaparte.png",
             "title": "TXT_KEY_LEADER_NAPOLEON",
             "subtitle": "TXT_KEY_CIVILOPEDIA_LEADERS_NAPOLEON_SUBTITLE",
             "lived": "TXT_KEY_CIVILOPEDIA_LEADERS_NAPOLEON_LIVED",
