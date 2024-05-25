@@ -5383,7 +5383,7 @@
         "item_id": "item_17",
         "view_id": "view_3",
         "strings": {
-            "image": "./assets/images/worldcongressportrait.png",
+            "image": "./assets/images/tech_icons/technology_concept.png",
             "title": "TXT_KEY_PEDIA_GAME_CONCEPT_PAGE_LABEL",
             "quote": "TXT_KEY_PEDIA_QUOTE_BLOCK_GCONCEPTS",
             "section_title": "TXT_KEY_PEDIA_GAME_CONCEPT_PAGE_LABEL",
@@ -5449,7 +5449,7 @@
         "item_id": "item_436",
         "view_id": "view_3",
         "strings": {
-            "image": "./assets/images/policy_icons/socialpolicy.png",
+            "image": "./assets/images/policy_icons/social_policies.png",
             "title": "TXT_KEY_PEDIA_POLICIES_PAGE_LABEL",
             "quote": "TXT_KEY_PEDIA_QUOTE_BLOCK_POLICIES",
             "section_title": "TXT_KEY_PEDIA_POLICIES_PAGE_LABEL",
@@ -5482,7 +5482,7 @@
         "item_id": "item_188",
         "view_id": "view_3",
         "strings": {
-            "image": "./assets/images/worldcongressportrait.png",
+            "image": "./assets/images/unit_icons/unit_city_state.png",
             "title": "TXT_KEY_PEDIA_CITY_STATES_PAGE_LABEL",
             "quote": "TXT_KEY_PEDIA_QUOTE_BLOCK_CITYSTATES",
             "section_title": "TXT_KEY_PEDIA_CITY_STATES_PAGE_LABEL",
@@ -7863,7 +7863,7 @@
         "item_id": "item_442",
         "view_id": "view_1",
         "strings": {
-            "image": "./assets/images/worldcongressportrait.png",
+            "image": "./assets/images/policy_icons/social_policies.png",
             "title": "TXT_KEY_POLICY_TRADITION",
             "game_info": "TXT_KEY_POLICY_TRADITION_HELP",
             "historical_info": "TXT_KEY_CIV5_POLICY_TRADITION_TEXT"
@@ -7898,7 +7898,7 @@
         "item_id": "item_445",
         "view_id": "view_1",
         "strings": {
-            "image": "./assets/images/worldcongressportrait.png",
+            "image": "./assets/images/policy_icons/social_policies.png",
             "title": "TXT_KEY_POLICY_BRANCH_LIBERTY",
             "game_info": "TXT_KEY_POLICY_BRANCH_LIBERTY_HELP",
             "historical_info": "TXT_KEY_CIV5_POLICY_LIBERTY_TEXT"
@@ -8043,7 +8043,7 @@
         "item_id": "item_457",
         "view_id": "view_1",
         "strings": {
-            "image": "./assets/images/worldcongressportrait.png",
+            "image": "./assets/images/policy_icons/social_policies.png",
             "title": "TXT_KEY_POLICY_BRANCH_PIETY",
             "game_info": "TXT_KEY_POLICY_BRANCH_PIETY_HELP",
             "historical_info": "TXT_KEY_POLICY_PIETY_TEXT"
@@ -8138,7 +8138,7 @@
         "item_id": "item_464",
         "view_id": "view_1",
         "strings": {
-            "image": "./assets/images/worldcongressportrait.png",
+            "image": "./assets/images/policy_icons/social_policies.png",
             "title": "TXT_KEY_POLICY_BRANCH_PATRONAGE",
             "game_info": "TXT_KEY_POLICY_BRANCH_PATRONAGE_HELP",
             "historical_info": "TXT_KEY_POLICY_PATRONAGE_TEXT"
@@ -8175,7 +8175,7 @@
         "item_id": "item_467",
         "view_id": "view_1",
         "strings": {
-            "image": "./assets/images/worldcongressportrait.png",
+            "image": "./assets/images/policy_icons/social_policies.png",
             "title": "TXT_KEY_POLICY_AESTHETICS",
             "game_info": "TXT_KEY_POLICY_BRANCH_AESTHETICS_HELP",
             "historical_info": "TXT_KEY_POLICY_AESTHETICS_TEXT"
@@ -8255,7 +8255,7 @@
         "item_id": "item_473",
         "view_id": "view_1",
         "strings": {
-            "image": "./assets/images/worldcongressportrait.png",
+            "image": "./assets/images/policy_icons/social_policies.png",
             "title": "TXT_KEY_POLICY_BRANCH_COMMERCE",
             "game_info": "TXT_KEY_POLICY_BRANCH_COMMERCE_HELP",
             "historical_info": "TXT_KEY_POLICY_COMMERCE_TEXT"
@@ -8335,7 +8335,7 @@
         "item_id": "item_479",
         "view_id": "view_1",
         "strings": {
-            "image": "./assets/images/worldcongressportrait.png",
+            "image": "./assets/images/policy_icons/social_policies.png",
             "title": "TXT_KEY_POLICY_BRANCH_EXPLORATION",
             "game_info": "TXT_KEY_POLICY_BRANCH_EXPLORATION_HELP",
             "historical_info": "TXT_KEY_POLICY_EXPLORATION_TEXT"
@@ -8442,7 +8442,7 @@
         "item_id": "item_487",
         "view_id": "view_1",
         "strings": {
-            "image": "./assets/images/worldcongressportrait.png",
+            "image": "./assets/images/policy_icons/social_policies.png",
             "title": "TXT_KEY_POLICY_BRANCH_RATIONALISM",
             "game_info": "TXT_KEY_POLICY_BRANCH_RATIONALISM_HELP",
             "historical_info": "TXT_KEY_POLICY_RATIONALISM_TEXT"
@@ -17145,7 +17145,7 @@
         "item_id": "item_1579",
         "view_id": "view_1",
         "strings": {
-            "image": "./assets/images/improvement_icons/polder.png",
+            "image": "./assets/images/improvement_icons/remove_forest.png",
             "title": "TXT_KEY_BUILD_REMOVE_JUNGLE"
         }
     },
@@ -18277,6 +18277,14 @@
             "title": "TXT_KEY_CIV_AMERICA_SHORT_DESC",
             "heading": [
                 "TXT_KEY_CIV5_UNITEDSTATES_HEADING_1",
+                "TXT_KEY_CIV5_UNITEDSTATES_HEADING_2",
+                "TXT_KEY_CIV5_UNITEDSTATES_HEADING_3",
+                "TXT_KEY_CIV5_UNITEDSTATES_HEADING_4",
+                "TXT_KEY_CIV5_UNITEDSTATES_HEADING_5",
+                "TXT_KEY_CIV5_UNITEDSTATES_HEADING_6",
+                "TXT_KEY_CIV5_UNITEDSTATES_HEADING_7",
+                "TXT_KEY_CIV5_UNITEDSTATES_HEADING_8",
+                "TXT_KEY_CIV5_UNITEDSTATES_HEADING_9",
                 "TXT_KEY_CIV5_UNITEDSTATES_HEADING_10",
                 "TXT_KEY_CIV5_UNITEDSTATES_HEADING_11",
                 "TXT_KEY_CIV5_UNITEDSTATES_HEADING_12",
@@ -18287,15 +18295,6 @@
                 "TXT_KEY_CIV5_UNITEDSTATES_HEADING_17",
                 "TXT_KEY_CIV5_UNITEDSTATES_HEADING_18",
                 "TXT_KEY_CIV5_UNITEDSTATES_HEADING_19",
-                "TXT_KEY_CIV5_UNITEDSTATES_HEADING_2",
-                "TXT_KEY_CIV5_UNITEDSTATES_HEADING_3",
-                "TXT_KEY_CIV5_UNITEDSTATES_HEADING_4",
-                "TXT_KEY_CIV5_UNITEDSTATES_HEADING_5",
-                "TXT_KEY_CIV5_UNITEDSTATES_HEADING_6",
-                "TXT_KEY_CIV5_UNITEDSTATES_HEADING_7",
-                "TXT_KEY_CIV5_UNITEDSTATES_HEADING_8",
-                "TXT_KEY_CIV5_UNITEDSTATES_HEADING_9",
-                
                 "TXT_KEY_CIV5_UNITEDSTATES_FACTOID_HEADING"
             ],
             "texts": [
@@ -18336,7 +18335,6 @@
             "image": "./assets/images/civ_icons/arabia.png",
             "title": "TXT_KEY_CIV_ARABIA_SHORT_DESC",
             "heading": [
-                "TXT_KEY_CIV5_ARABIA_FACTOID_HEADING",
                 "TXT_KEY_CIV5_ARABIA_HEADING_1",
                 "TXT_KEY_CIV5_ARABIA_HEADING_2",
                 "TXT_KEY_CIV5_ARABIA_HEADING_3",
@@ -18345,10 +18343,10 @@
                 "TXT_KEY_CIV5_ARABIA_HEADING_6",
                 "TXT_KEY_CIV5_ARABIA_HEADING_7",
                 "TXT_KEY_CIV5_ARABIA_HEADING_8",
-                "TXT_KEY_CIV5_ARABIA_HEADING_9"
+                "TXT_KEY_CIV5_ARABIA_HEADING_9",
+                "TXT_KEY_CIV5_ARABIA_FACTOID_HEADING"
             ],
             "texts": [
-                "TXT_KEY_CIV5_ARABIA_FACTOID_TEXT",
                 "TXT_KEY_CIV5_ARABIA_TEXT_1",
                 "TXT_KEY_CIV5_ARABIA_TEXT_2",
                 "TXT_KEY_CIV5_ARABIA_TEXT_3",
@@ -18357,7 +18355,8 @@
                 "TXT_KEY_CIV5_ARABIA_TEXT_6",
                 "TXT_KEY_CIV5_ARABIA_TEXT_7",
                 "TXT_KEY_CIV5_ARABIA_TEXT_8",
-                "TXT_KEY_CIV5_ARABIA_TEXT_9"
+                "TXT_KEY_CIV5_ARABIA_TEXT_9",
+                "TXT_KEY_CIV5_ARABIA_FACTOID_TEXT"
             ],
             "leaders": [
                 "item_311"
@@ -18377,7 +18376,6 @@
             "image": "./assets/images/civ_icons/assyria.png",
             "title": "TXT_KEY_CIV_ASSYRIA_SHORT_DESC",
             "heading": [
-                "TXT_KEY_CIV5_ASSYRIA_FACTOID_HEADING",
                 "TXT_KEY_CIV5_ASSYRIA_HEADING_1",
                 "TXT_KEY_CIV5_ASSYRIA_HEADING_2",
                 "TXT_KEY_CIV5_ASSYRIA_HEADING_3",
@@ -18385,11 +18383,10 @@
                 "TXT_KEY_CIV5_ASSYRIA_HEADING_5",
                 "TXT_KEY_CIV5_ASSYRIA_HEADING_6",
                 "TXT_KEY_CIV5_ASSYRIA_HEADING_7",
-                "TXT_KEY_CIV5_ASSYRIA_HEADING_8"
+                "TXT_KEY_CIV5_ASSYRIA_HEADING_8",
+                "TXT_KEY_CIV5_ASSYRIA_FACTOID_HEADING"
             ],
             "texts": [
-                "TXT_KEY_CIV5_ASSYRIAN_SIEGE_TOWER_TEXT",
-                "TXT_KEY_CIV5_ASSYRIA_FACTOID_TEXT",
                 "TXT_KEY_CIV5_ASSYRIA_TEXT_1",
                 "TXT_KEY_CIV5_ASSYRIA_TEXT_2",
                 "TXT_KEY_CIV5_ASSYRIA_TEXT_3",
@@ -18397,7 +18394,8 @@
                 "TXT_KEY_CIV5_ASSYRIA_TEXT_5",
                 "TXT_KEY_CIV5_ASSYRIA_TEXT_6",
                 "TXT_KEY_CIV5_ASSYRIA_TEXT_7",
-                "TXT_KEY_CIV5_ASSYRIA_TEXT_8"
+                "TXT_KEY_CIV5_ASSYRIA_TEXT_8",
+                "TXT_KEY_CIV5_ASSYRIA_FACTOID_TEXT"
             ],
             "leaders": [
                 "item_293"
@@ -18417,12 +18415,7 @@
             "image": "./assets/images/civ_icons/austria.png",
             "title": "TXT_KEY_CIV_AUSTRIA_SHORT_DESC",
             "heading": [
-                "TXT_KEY_CIV5_AUSTRIA_FACTOID_HEADING",
                 "TXT_KEY_CIV5_AUSTRIA_HEADING_1",
-                "TXT_KEY_CIV5_AUSTRIA_HEADING_10",
-                "TXT_KEY_CIV5_AUSTRIA_HEADING_11",
-                "TXT_KEY_CIV5_AUSTRIA_HEADING_12",
-                "TXT_KEY_CIV5_AUSTRIA_HEADING_13",
                 "TXT_KEY_CIV5_AUSTRIA_HEADING_2",
                 "TXT_KEY_CIV5_AUSTRIA_HEADING_3",
                 "TXT_KEY_CIV5_AUSTRIA_HEADING_4",
@@ -18430,16 +18423,15 @@
                 "TXT_KEY_CIV5_AUSTRIA_HEADING_6",
                 "TXT_KEY_CIV5_AUSTRIA_HEADING_7",
                 "TXT_KEY_CIV5_AUSTRIA_HEADING_8",
-                "TXT_KEY_CIV5_AUSTRIA_HEADING_9"
+                "TXT_KEY_CIV5_AUSTRIA_HEADING_9",
+                "TXT_KEY_CIV5_AUSTRIA_HEADING_10",
+                "TXT_KEY_CIV5_AUSTRIA_HEADING_11",
+                "TXT_KEY_CIV5_AUSTRIA_HEADING_12",
+                "TXT_KEY_CIV5_AUSTRIA_HEADING_13",
+                "TXT_KEY_CIV5_AUSTRIA_FACTOID_HEADING"
             ],
             "texts": [
-                "TXT_KEY_CIV5_AUSTRIAN_HUSSAR_TEXT",
-                "TXT_KEY_CIV5_AUSTRIA_FACTOID_TEXT",
                 "TXT_KEY_CIV5_AUSTRIA_TEXT_1",
-                "TXT_KEY_CIV5_AUSTRIA_TEXT_10",
-                "TXT_KEY_CIV5_AUSTRIA_TEXT_11",
-                "TXT_KEY_CIV5_AUSTRIA_TEXT_12",
-                "TXT_KEY_CIV5_AUSTRIA_TEXT_13",
                 "TXT_KEY_CIV5_AUSTRIA_TEXT_2",
                 "TXT_KEY_CIV5_AUSTRIA_TEXT_3",
                 "TXT_KEY_CIV5_AUSTRIA_TEXT_4",
@@ -18447,7 +18439,12 @@
                 "TXT_KEY_CIV5_AUSTRIA_TEXT_6",
                 "TXT_KEY_CIV5_AUSTRIA_TEXT_7",
                 "TXT_KEY_CIV5_AUSTRIA_TEXT_8",
-                "TXT_KEY_CIV5_AUSTRIA_TEXT_9"
+                "TXT_KEY_CIV5_AUSTRIA_TEXT_9",
+                "TXT_KEY_CIV5_AUSTRIA_TEXT_10",
+                "TXT_KEY_CIV5_AUSTRIA_TEXT_11",
+                "TXT_KEY_CIV5_AUSTRIA_TEXT_12",
+                "TXT_KEY_CIV5_AUSTRIA_TEXT_13",
+                "TXT_KEY_CIV5_AUSTRIA_FACTOID_TEXT"
             ],
             "leaders": [
                 "item_316"
@@ -18467,8 +18464,6 @@
             "image": "./assets/images/civ_icons/babylon.png",
             "title": "TXT_KEY_CIV_BABYLON_SHORT_DESC",
             "heading": [
-                "TXT_KEY_CIV5_BABYLON_BOWMAN_HEADING",
-                "TXT_KEY_CIV5_BABYLON_FACTOID_HEADING",
                 "TXT_KEY_CIV5_BABYLON_HEADING_1",
                 "TXT_KEY_CIV5_BABYLON_HEADING_2",
                 "TXT_KEY_CIV5_BABYLON_HEADING_3",
@@ -18478,11 +18473,9 @@
                 "TXT_KEY_CIV5_BABYLON_HEADING_7",
                 "TXT_KEY_CIV5_BABYLON_HEADING_8",
                 "TXT_KEY_CIV5_BABYLON_HEADING_9",
-                "TXT_KEY_CIV5_BABYLON_WALLS_HEADING"
+                "TXT_KEY_CIV5_BABYLON_FACTOID_HEADING"
             ],
             "texts": [
-                "TXT_KEY_CIV5_BABYLON_BOWMAN_TEXT",
-                "TXT_KEY_CIV5_BABYLON_FACTOID_TEXT",
                 "TXT_KEY_CIV5_BABYLON_TEXT_1",
                 "TXT_KEY_CIV5_BABYLON_TEXT_2",
                 "TXT_KEY_CIV5_BABYLON_TEXT_3",
@@ -18492,7 +18485,7 @@
                 "TXT_KEY_CIV5_BABYLON_TEXT_7",
                 "TXT_KEY_CIV5_BABYLON_TEXT_8",
                 "TXT_KEY_CIV5_BABYLON_TEXT_9",
-                "TXT_KEY_CIV5_BABYLON_WALLS_TEXT"
+                "TXT_KEY_CIV5_BABYLON_FACTOID_TEXT"
             ],
             "leaders": [
                 "item_319"
@@ -18512,25 +18505,24 @@
             "image": "./assets/images/civ_icons/brazil.png",
             "title": "TXT_KEY_CIV_BRAZIL_SHORT_DESC",
             "heading": [
-                "TXT_KEY_CIV5_BRAZIL_FACTOID_HEADING",
                 "TXT_KEY_CIV5_BRAZIL_HEADING_1",
                 "TXT_KEY_CIV5_BRAZIL_HEADING_2",
                 "TXT_KEY_CIV5_BRAZIL_HEADING_3",
                 "TXT_KEY_CIV5_BRAZIL_HEADING_4",
                 "TXT_KEY_CIV5_BRAZIL_HEADING_5",
                 "TXT_KEY_CIV5_BRAZIL_HEADING_6",
-                "TXT_KEY_CIV5_BRAZIL_HEADING_7"
+                "TXT_KEY_CIV5_BRAZIL_HEADING_7",
+                "TXT_KEY_CIV5_BRAZIL_FACTOID_HEADING"
             ],
             "texts": [
-                "TXT_KEY_CIV5_BRAZILIAN_PRACINHA_TEXT",
-                "TXT_KEY_CIV5_BRAZIL_FACTOID_TEXT",
                 "TXT_KEY_CIV5_BRAZIL_TEXT_1",
                 "TXT_KEY_CIV5_BRAZIL_TEXT_2",
                 "TXT_KEY_CIV5_BRAZIL_TEXT_3",
                 "TXT_KEY_CIV5_BRAZIL_TEXT_4",
                 "TXT_KEY_CIV5_BRAZIL_TEXT_5",
                 "TXT_KEY_CIV5_BRAZIL_TEXT_6",
-                "TXT_KEY_CIV5_BRAZIL_TEXT_7"
+                "TXT_KEY_CIV5_BRAZIL_TEXT_7",
+                "TXT_KEY_CIV5_BRAZIL_FACTOID_TEXT"
             ],
             "leaders": [
                 "item_323"
@@ -18550,10 +18542,7 @@
             "image": "./assets/images/civ_icons/byzantium.png",
             "title": "TXT_KEY_CIV_BYZANTIUM_SHORT_DESC",
             "heading": [
-                "TXT_KEY_CIV5_BYZANTIUM_FACTOID_HEADING",
                 "TXT_KEY_CIV5_BYZANTIUM_HEADING_1",
-                "TXT_KEY_CIV5_BYZANTIUM_HEADING_10",
-                "TXT_KEY_CIV5_BYZANTIUM_HEADING_11",
                 "TXT_KEY_CIV5_BYZANTIUM_HEADING_2",
                 "TXT_KEY_CIV5_BYZANTIUM_HEADING_3",
                 "TXT_KEY_CIV5_BYZANTIUM_HEADING_4",
@@ -18561,13 +18550,13 @@
                 "TXT_KEY_CIV5_BYZANTIUM_HEADING_6",
                 "TXT_KEY_CIV5_BYZANTIUM_HEADING_7",
                 "TXT_KEY_CIV5_BYZANTIUM_HEADING_8",
-                "TXT_KEY_CIV5_BYZANTIUM_HEADING_9"
+                "TXT_KEY_CIV5_BYZANTIUM_HEADING_9",
+                "TXT_KEY_CIV5_BYZANTIUM_HEADING_10",
+                "TXT_KEY_CIV5_BYZANTIUM_HEADING_11",
+                "TXT_KEY_CIV5_BYZANTIUM_FACTOID_HEADING"
             ],
             "texts": [
-                "TXT_KEY_CIV5_BYZANTIUM_FACTOID_TEXT",
                 "TXT_KEY_CIV5_BYZANTIUM_TEXT_1",
-                "TXT_KEY_CIV5_BYZANTIUM_TEXT_10",
-                "TXT_KEY_CIV5_BYZANTIUM_TEXT_11",
                 "TXT_KEY_CIV5_BYZANTIUM_TEXT_2",
                 "TXT_KEY_CIV5_BYZANTIUM_TEXT_3",
                 "TXT_KEY_CIV5_BYZANTIUM_TEXT_4",
@@ -18575,7 +18564,10 @@
                 "TXT_KEY_CIV5_BYZANTIUM_TEXT_6",
                 "TXT_KEY_CIV5_BYZANTIUM_TEXT_7",
                 "TXT_KEY_CIV5_BYZANTIUM_TEXT_8",
-                "TXT_KEY_CIV5_BYZANTIUM_TEXT_9"
+                "TXT_KEY_CIV5_BYZANTIUM_TEXT_9",
+                "TXT_KEY_CIV5_BYZANTIUM_TEXT_10",
+                "TXT_KEY_CIV5_BYZANTIUM_TEXT_11",
+                "TXT_KEY_CIV5_BYZANTIUM_FACTOID_TEXT"
             ],
             "leaders": [
                 "item_330"
@@ -18593,10 +18585,7 @@
             "image": "./assets/images/civ_icons/carthage.png",
             "title": "TXT_KEY_CIV_CARTHAGE_SHORT_DESC",
             "heading": [
-                "TXT_KEY_CIV5_CARTHAGE_FACTOID_HEADING",
                 "TXT_KEY_CIV5_CARTHAGE_HEADING_1",
-                "TXT_KEY_CIV5_CARTHAGE_HEADING_10",
-                "TXT_KEY_CIV5_CARTHAGE_HEADING_11",
                 "TXT_KEY_CIV5_CARTHAGE_HEADING_2",
                 "TXT_KEY_CIV5_CARTHAGE_HEADING_3",
                 "TXT_KEY_CIV5_CARTHAGE_HEADING_4",
@@ -18604,13 +18593,13 @@
                 "TXT_KEY_CIV5_CARTHAGE_HEADING_6",
                 "TXT_KEY_CIV5_CARTHAGE_HEADING_7",
                 "TXT_KEY_CIV5_CARTHAGE_HEADING_8",
-                "TXT_KEY_CIV5_CARTHAGE_HEADING_9"
+                "TXT_KEY_CIV5_CARTHAGE_HEADING_9",
+                "TXT_KEY_CIV5_CARTHAGE_HEADING_10",
+                "TXT_KEY_CIV5_CARTHAGE_HEADING_11",
+                "TXT_KEY_CIV5_CARTHAGE_FACTOID_HEADING"
             ],
             "texts": [
-                "TXT_KEY_CIV5_CARTHAGE_FACTOID_TEXT",
                 "TXT_KEY_CIV5_CARTHAGE_TEXT_1",
-                "TXT_KEY_CIV5_CARTHAGE_TEXT_10",
-                "TXT_KEY_CIV5_CARTHAGE_TEXT_11",
                 "TXT_KEY_CIV5_CARTHAGE_TEXT_2",
                 "TXT_KEY_CIV5_CARTHAGE_TEXT_3",
                 "TXT_KEY_CIV5_CARTHAGE_TEXT_4",
@@ -18618,7 +18607,10 @@
                 "TXT_KEY_CIV5_CARTHAGE_TEXT_6",
                 "TXT_KEY_CIV5_CARTHAGE_TEXT_7",
                 "TXT_KEY_CIV5_CARTHAGE_TEXT_8",
-                "TXT_KEY_CIV5_CARTHAGE_TEXT_9"
+                "TXT_KEY_CIV5_CARTHAGE_TEXT_9",
+                "TXT_KEY_CIV5_CARTHAGE_TEXT_10",
+                "TXT_KEY_CIV5_CARTHAGE_TEXT_11",
+                "TXT_KEY_CIV5_CARTHAGE_FACTOID_TEXT"
             ],
             "leaders": [
                 "item_302"
@@ -18636,24 +18628,24 @@
             "image": "./assets/images/civ_icons/china.png",
             "title": "TXT_KEY_CIV_CHINA_SHORT_DESC",
             "heading": [
-                "TXT_KEY_CIV5_CHINA_FACTOID_HEADING",
                 "TXT_KEY_CIV5_CHINA_HEADING_1",
                 "TXT_KEY_CIV5_CHINA_HEADING_2",
                 "TXT_KEY_CIV5_CHINA_HEADING_3",
                 "TXT_KEY_CIV5_CHINA_HEADING_4",
                 "TXT_KEY_CIV5_CHINA_HEADING_5",
                 "TXT_KEY_CIV5_CHINA_HEADING_6",
-                "TXT_KEY_CIV5_CHINA_HEADING_7"
+                "TXT_KEY_CIV5_CHINA_HEADING_7",
+                "TXT_KEY_CIV5_CHINA_FACTOID_HEADING"
             ],
             "texts": [
-                "TXT_KEY_CIV5_CHINA_FACTOID_TEXT",
                 "TXT_KEY_CIV5_CHINA_TEXT_1",
                 "TXT_KEY_CIV5_CHINA_TEXT_2",
                 "TXT_KEY_CIV5_CHINA_TEXT_3",
                 "TXT_KEY_CIV5_CHINA_TEXT_4",
                 "TXT_KEY_CIV5_CHINA_TEXT_5",
                 "TXT_KEY_CIV5_CHINA_TEXT_6",
-                "TXT_KEY_CIV5_CHINA_TEXT_7"
+                "TXT_KEY_CIV5_CHINA_TEXT_7",
+                "TXT_KEY_CIV5_CHINA_FACTOID_TEXT"
             ],
             "leaders": [
                 "item_333"
@@ -18673,8 +18665,6 @@
             "image": "./assets/images/civ_icons/denmark.png",
             "title": "TXT_KEY_CIV_DENMARK_SHORT_DESC",
             "heading": [
-                "TXT_KEY_CIV5_DENMARK_BERSERKER_HEADING",
-                "TXT_KEY_CIV5_DENMARK_FACTOID_HEADING",
                 "TXT_KEY_CIV5_DENMARK_HEADING_1",
                 "TXT_KEY_CIV5_DENMARK_HEADING_2",
                 "TXT_KEY_CIV5_DENMARK_HEADING_3",
@@ -18684,12 +18674,9 @@
                 "TXT_KEY_CIV5_DENMARK_HEADING_7",
                 "TXT_KEY_CIV5_DENMARK_HEADING_8",
                 "TXT_KEY_CIV5_DENMARK_HEADING_9",
-                "TXT_KEY_CIV5_DENMARK_SKI_INFANTRY_HEADING"
+                "TXT_KEY_CIV5_DENMARK_FACTOID_HEADING"
             ],
             "texts": [
-                "TXT_KEY_CIV5_DENMARK_BERSERKER_TEXT",
-                "TXT_KEY_CIV5_DENMARK_FACTOID_TEXT",
-                "TXT_KEY_CIV5_DENMARK_SKI_INFANTRY_TEXT",
                 "TXT_KEY_CIV5_DENMARK_TEXT_1",
                 "TXT_KEY_CIV5_DENMARK_TEXT_2",
                 "TXT_KEY_CIV5_DENMARK_TEXT_3",
@@ -18698,7 +18685,8 @@
                 "TXT_KEY_CIV5_DENMARK_TEXT_6",
                 "TXT_KEY_CIV5_DENMARK_TEXT_7",
                 "TXT_KEY_CIV5_DENMARK_TEXT_8",
-                "TXT_KEY_CIV5_DENMARK_TEXT_9"
+                "TXT_KEY_CIV5_DENMARK_TEXT_9",
+                "TXT_KEY_CIV5_DENMARK_FACTOID_TEXT"
             ],
             "leaders": [
                 "item_310"
@@ -18716,7 +18704,6 @@
             "image": "./assets/images/civ_icons/egypt.png",
             "title": "TXT_KEY_CIV_EGYPT_SHORT_DESC",
             "heading": [
-                "TXT_KEY_CIV5_EGYPT_FACTOID_HEADING",
                 "TXT_KEY_CIV5_EGYPT_HEADING_1",
                 "TXT_KEY_CIV5_EGYPT_HEADING_2",
                 "TXT_KEY_CIV5_EGYPT_HEADING_3",
@@ -18725,10 +18712,10 @@
                 "TXT_KEY_CIV5_EGYPT_HEADING_6",
                 "TXT_KEY_CIV5_EGYPT_HEADING_7",
                 "TXT_KEY_CIV5_EGYPT_HEADING_8",
-                "TXT_KEY_CIV5_EGYPT_HEADING_9"
+                "TXT_KEY_CIV5_EGYPT_HEADING_9",
+                "TXT_KEY_CIV5_EGYPT_FACTOID_HEADING"
             ],
             "texts": [
-                "TXT_KEY_CIV5_EGYPT_FACTOID_TEXT",
                 "TXT_KEY_CIV5_EGYPT_TEXT_1",
                 "TXT_KEY_CIV5_EGYPT_TEXT_2",
                 "TXT_KEY_CIV5_EGYPT_TEXT_3",
@@ -18737,7 +18724,8 @@
                 "TXT_KEY_CIV5_EGYPT_TEXT_6",
                 "TXT_KEY_CIV5_EGYPT_TEXT_7",
                 "TXT_KEY_CIV5_EGYPT_TEXT_8",
-                "TXT_KEY_CIV5_EGYPT_TEXT_9"
+                "TXT_KEY_CIV5_EGYPT_TEXT_9",
+                "TXT_KEY_CIV5_EGYPT_FACTOID_TEXT"
             ],
             "leaders": [
                 "item_325"
@@ -18757,12 +18745,7 @@
             "image": "./assets/images/civ_icons/england.png",
             "title": "TXT_KEY_CIV_ENGLAND_SHORT_DESC",
             "heading": [
-                "TXT_KEY_CIV5_ENGLAND_FACTOID_HEADING",
                 "TXT_KEY_CIV5_ENGLAND_HEADING_1",
-                "TXT_KEY_CIV5_ENGLAND_HEADING_10",
-                "TXT_KEY_CIV5_ENGLAND_HEADING_11",
-                "TXT_KEY_CIV5_ENGLAND_HEADING_12",
-                "TXT_KEY_CIV5_ENGLAND_HEADING_13",
                 "TXT_KEY_CIV5_ENGLAND_HEADING_2",
                 "TXT_KEY_CIV5_ENGLAND_HEADING_3",
                 "TXT_KEY_CIV5_ENGLAND_HEADING_4",
@@ -18770,15 +18753,15 @@
                 "TXT_KEY_CIV5_ENGLAND_HEADING_6",
                 "TXT_KEY_CIV5_ENGLAND_HEADING_7",
                 "TXT_KEY_CIV5_ENGLAND_HEADING_8",
-                "TXT_KEY_CIV5_ENGLAND_HEADING_9"
+                "TXT_KEY_CIV5_ENGLAND_HEADING_9",
+                "TXT_KEY_CIV5_ENGLAND_HEADING_10",
+                "TXT_KEY_CIV5_ENGLAND_HEADING_11",
+                "TXT_KEY_CIV5_ENGLAND_HEADING_12",
+                "TXT_KEY_CIV5_ENGLAND_HEADING_13",
+                "TXT_KEY_CIV5_ENGLAND_FACTOID_HEADING"
             ],
             "texts": [
-                "TXT_KEY_CIV5_ENGLAND_FACTOID_TEXT",
                 "TXT_KEY_CIV5_ENGLAND_TEXT_1",
-                "TXT_KEY_CIV5_ENGLAND_TEXT_10",
-                "TXT_KEY_CIV5_ENGLAND_TEXT_11",
-                "TXT_KEY_CIV5_ENGLAND_TEXT_12",
-                "TXT_KEY_CIV5_ENGLAND_TEXT_13",
                 "TXT_KEY_CIV5_ENGLAND_TEXT_2",
                 "TXT_KEY_CIV5_ENGLAND_TEXT_3",
                 "TXT_KEY_CIV5_ENGLAND_TEXT_4",
@@ -18786,7 +18769,12 @@
                 "TXT_KEY_CIV5_ENGLAND_TEXT_6",
                 "TXT_KEY_CIV5_ENGLAND_TEXT_7",
                 "TXT_KEY_CIV5_ENGLAND_TEXT_8",
-                "TXT_KEY_CIV5_ENGLAND_TEXT_9"
+                "TXT_KEY_CIV5_ENGLAND_TEXT_9",
+                "TXT_KEY_CIV5_ENGLAND_TEXT_10",
+                "TXT_KEY_CIV5_ENGLAND_TEXT_11",
+                "TXT_KEY_CIV5_ENGLAND_TEXT_12",
+                "TXT_KEY_CIV5_ENGLAND_TEXT_13",
+                "TXT_KEY_CIV5_ENGLAND_FACTOID_TEXT"
             ],
             "leaders": [
                 "item_303"
@@ -18804,11 +18792,7 @@
             "image": "./assets/images/civ_icons/ethiopia.png",
             "title": "TXT_KEY_CIV_ETHIOPIA_SHORT_DESC",
             "heading": [
-                "TXT_KEY_CIV5_ETHIOPIA_FACTOID_HEADING",
                 "TXT_KEY_CIV5_ETHIOPIA_HEADING_1",
-                "TXT_KEY_CIV5_ETHIOPIA_HEADING_10",
-                "TXT_KEY_CIV5_ETHIOPIA_HEADING_11",
-                "TXT_KEY_CIV5_ETHIOPIA_HEADING_12",
                 "TXT_KEY_CIV5_ETHIOPIA_HEADING_2",
                 "TXT_KEY_CIV5_ETHIOPIA_HEADING_3",
                 "TXT_KEY_CIV5_ETHIOPIA_HEADING_4",
@@ -18816,14 +18800,14 @@
                 "TXT_KEY_CIV5_ETHIOPIA_HEADING_6",
                 "TXT_KEY_CIV5_ETHIOPIA_HEADING_7",
                 "TXT_KEY_CIV5_ETHIOPIA_HEADING_8",
-                "TXT_KEY_CIV5_ETHIOPIA_HEADING_9"
+                "TXT_KEY_CIV5_ETHIOPIA_HEADING_9",
+                "TXT_KEY_CIV5_ETHIOPIA_HEADING_10",
+                "TXT_KEY_CIV5_ETHIOPIA_HEADING_11",
+                "TXT_KEY_CIV5_ETHIOPIA_HEADING_12",
+                "TXT_KEY_CIV5_ETHIOPIA_FACTOID_HEADING"
             ],
             "texts": [
-                "TXT_KEY_CIV5_ETHIOPIA_FACTOID_TEXT",
                 "TXT_KEY_CIV5_ETHIOPIA_TEXT_1",
-                "TXT_KEY_CIV5_ETHIOPIA_TEXT_10",
-                "TXT_KEY_CIV5_ETHIOPIA_TEXT_11",
-                "TXT_KEY_CIV5_ETHIOPIA_TEXT_12",
                 "TXT_KEY_CIV5_ETHIOPIA_TEXT_2",
                 "TXT_KEY_CIV5_ETHIOPIA_TEXT_3",
                 "TXT_KEY_CIV5_ETHIOPIA_TEXT_4",
@@ -18831,7 +18815,11 @@
                 "TXT_KEY_CIV5_ETHIOPIA_TEXT_6",
                 "TXT_KEY_CIV5_ETHIOPIA_TEXT_7",
                 "TXT_KEY_CIV5_ETHIOPIA_TEXT_8",
-                "TXT_KEY_CIV5_ETHIOPIA_TEXT_9"
+                "TXT_KEY_CIV5_ETHIOPIA_TEXT_9",
+                "TXT_KEY_CIV5_ETHIOPIA_TEXT_10",
+                "TXT_KEY_CIV5_ETHIOPIA_TEXT_11",
+                "TXT_KEY_CIV5_ETHIOPIA_TEXT_12",
+                "TXT_KEY_CIV5_ETHIOPIA_FACTOID_TEXT"
             ],
             "leaders": [
                 "item_309"
@@ -18851,8 +18839,15 @@
             "image": "./assets/images/civ_icons/france.png",
             "title": "TXT_KEY_CIV_FRANCE_SHORT_DESC",
             "heading": [
-                "TXT_KEY_CIV5_FRANCE_FACTOID_HEADING",
                 "TXT_KEY_CIV5_FRANCE_HEADING_1",
+                "TXT_KEY_CIV5_FRANCE_HEADING_2",
+                "TXT_KEY_CIV5_FRANCE_HEADING_3",
+                "TXT_KEY_CIV5_FRANCE_HEADING_4",
+                "TXT_KEY_CIV5_FRANCE_HEADING_5",
+                "TXT_KEY_CIV5_FRANCE_HEADING_6",
+                "TXT_KEY_CIV5_FRANCE_HEADING_7",
+                "TXT_KEY_CIV5_FRANCE_HEADING_8",
+                "TXT_KEY_CIV5_FRANCE_HEADING_9",
                 "TXT_KEY_CIV5_FRANCE_HEADING_10",
                 "TXT_KEY_CIV5_FRANCE_HEADING_11",
                 "TXT_KEY_CIV5_FRANCE_HEADING_12",
@@ -18862,18 +18857,18 @@
                 "TXT_KEY_CIV5_FRANCE_HEADING_16",
                 "TXT_KEY_CIV5_FRANCE_HEADING_17",
                 "TXT_KEY_CIV5_FRANCE_HEADING_18",
-                "TXT_KEY_CIV5_FRANCE_HEADING_2",
-                "TXT_KEY_CIV5_FRANCE_HEADING_3",
-                "TXT_KEY_CIV5_FRANCE_HEADING_4",
-                "TXT_KEY_CIV5_FRANCE_HEADING_5",
-                "TXT_KEY_CIV5_FRANCE_HEADING_6",
-                "TXT_KEY_CIV5_FRANCE_HEADING_7",
-                "TXT_KEY_CIV5_FRANCE_HEADING_8",
-                "TXT_KEY_CIV5_FRANCE_HEADING_9"
+                "TXT_KEY_CIV5_FRANCE_FACTOID_HEADING"
             ],
             "texts": [
-                "TXT_KEY_CIV5_FRANCE_FACTOID_TEXT",
                 "TXT_KEY_CIV5_FRANCE_TEXT_1",
+                "TXT_KEY_CIV5_FRANCE_TEXT_2",
+                "TXT_KEY_CIV5_FRANCE_TEXT_3",
+                "TXT_KEY_CIV5_FRANCE_TEXT_4",
+                "TXT_KEY_CIV5_FRANCE_TEXT_5",
+                "TXT_KEY_CIV5_FRANCE_TEXT_6",
+                "TXT_KEY_CIV5_FRANCE_TEXT_7",
+                "TXT_KEY_CIV5_FRANCE_TEXT_8",
+                "TXT_KEY_CIV5_FRANCE_TEXT_9",
                 "TXT_KEY_CIV5_FRANCE_TEXT_10",
                 "TXT_KEY_CIV5_FRANCE_TEXT_11",
                 "TXT_KEY_CIV5_FRANCE_TEXT_12",
@@ -18883,14 +18878,7 @@
                 "TXT_KEY_CIV5_FRANCE_TEXT_16",
                 "TXT_KEY_CIV5_FRANCE_TEXT_17",
                 "TXT_KEY_CIV5_FRANCE_TEXT_18",
-                "TXT_KEY_CIV5_FRANCE_TEXT_2",
-                "TXT_KEY_CIV5_FRANCE_TEXT_3",
-                "TXT_KEY_CIV5_FRANCE_TEXT_4",
-                "TXT_KEY_CIV5_FRANCE_TEXT_5",
-                "TXT_KEY_CIV5_FRANCE_TEXT_6",
-                "TXT_KEY_CIV5_FRANCE_TEXT_7",
-                "TXT_KEY_CIV5_FRANCE_TEXT_8",
-                "TXT_KEY_CIV5_FRANCE_TEXT_9"
+                "TXT_KEY_CIV5_FRANCE_FACTOID_TEXT"
             ],
             "leaders": [
                 "item_318"
@@ -18910,14 +18898,7 @@
             "image": "./assets/images/civ_icons/germany.png",
             "title": "TXT_KEY_CIV_GERMANY_SHORT_DESC",
             "heading": [
-                "TXT_KEY_CIV5_GERMANY_FACTOID_HEADING",
                 "TXT_KEY_CIV5_GERMANY_HEADING_1",
-                "TXT_KEY_CIV5_GERMANY_HEADING_10",
-                "TXT_KEY_CIV5_GERMANY_HEADING_11",
-                "TXT_KEY_CIV5_GERMANY_HEADING_12",
-                "TXT_KEY_CIV5_GERMANY_HEADING_13",
-                "TXT_KEY_CIV5_GERMANY_HEADING_14",
-                "TXT_KEY_CIV5_GERMANY_HEADING_15",
                 "TXT_KEY_CIV5_GERMANY_HEADING_2",
                 "TXT_KEY_CIV5_GERMANY_HEADING_3",
                 "TXT_KEY_CIV5_GERMANY_HEADING_4",
@@ -18925,17 +18906,17 @@
                 "TXT_KEY_CIV5_GERMANY_HEADING_6",
                 "TXT_KEY_CIV5_GERMANY_HEADING_7",
                 "TXT_KEY_CIV5_GERMANY_HEADING_8",
-                "TXT_KEY_CIV5_GERMANY_HEADING_9"
+                "TXT_KEY_CIV5_GERMANY_HEADING_9",
+                "TXT_KEY_CIV5_GERMANY_HEADING_10",
+                "TXT_KEY_CIV5_GERMANY_HEADING_11",
+                "TXT_KEY_CIV5_GERMANY_HEADING_12",
+                "TXT_KEY_CIV5_GERMANY_HEADING_13",
+                "TXT_KEY_CIV5_GERMANY_HEADING_14",
+                "TXT_KEY_CIV5_GERMANY_HEADING_15",
+                "TXT_KEY_CIV5_GERMANY_FACTOID_HEADING"
             ],
             "texts": [
-                "TXT_KEY_CIV5_GERMANY_FACTOID_TEXT",
                 "TXT_KEY_CIV5_GERMANY_TEXT_1",
-                "TXT_KEY_CIV5_GERMANY_TEXT_10",
-                "TXT_KEY_CIV5_GERMANY_TEXT_11",
-                "TXT_KEY_CIV5_GERMANY_TEXT_12",
-                "TXT_KEY_CIV5_GERMANY_TEXT_13",
-                "TXT_KEY_CIV5_GERMANY_TEXT_14",
-                "TXT_KEY_CIV5_GERMANY_TEXT_15",
                 "TXT_KEY_CIV5_GERMANY_TEXT_2",
                 "TXT_KEY_CIV5_GERMANY_TEXT_3",
                 "TXT_KEY_CIV5_GERMANY_TEXT_4",
@@ -18943,7 +18924,14 @@
                 "TXT_KEY_CIV5_GERMANY_TEXT_6",
                 "TXT_KEY_CIV5_GERMANY_TEXT_7",
                 "TXT_KEY_CIV5_GERMANY_TEXT_8",
-                "TXT_KEY_CIV5_GERMANY_TEXT_9"
+                "TXT_KEY_CIV5_GERMANY_TEXT_9",
+                "TXT_KEY_CIV5_GERMANY_TEXT_10",
+                "TXT_KEY_CIV5_GERMANY_TEXT_11",
+                "TXT_KEY_CIV5_GERMANY_TEXT_12",
+                "TXT_KEY_CIV5_GERMANY_TEXT_13",
+                "TXT_KEY_CIV5_GERMANY_TEXT_14",
+                "TXT_KEY_CIV5_GERMANY_TEXT_15",
+                "TXT_KEY_CIV5_GERMANY_FACTOID_TEXT"
             ],
             "leaders": [
                 "item_297"
@@ -18963,13 +18951,7 @@
             "image": "./assets/images/civ_icons/greece.png",
             "title": "TXT_KEY_CIV_GREECE_SHORT_DESC",
             "heading": [
-                "TXT_KEY_CIV5_GREECE_FACTOID_HEADING",
                 "TXT_KEY_CIV5_GREECE_HEADING_1",
-                "TXT_KEY_CIV5_GREECE_HEADING_10",
-                "TXT_KEY_CIV5_GREECE_HEADING_11",
-                "TXT_KEY_CIV5_GREECE_HEADING_12",
-                "TXT_KEY_CIV5_GREECE_HEADING_13",
-                "TXT_KEY_CIV5_GREECE_HEADING_14",
                 "TXT_KEY_CIV5_GREECE_HEADING_2",
                 "TXT_KEY_CIV5_GREECE_HEADING_3",
                 "TXT_KEY_CIV5_GREECE_HEADING_4",
@@ -18977,16 +18959,16 @@
                 "TXT_KEY_CIV5_GREECE_HEADING_6",
                 "TXT_KEY_CIV5_GREECE_HEADING_7",
                 "TXT_KEY_CIV5_GREECE_HEADING_8",
-                "TXT_KEY_CIV5_GREECE_HEADING_9"
+                "TXT_KEY_CIV5_GREECE_HEADING_9",
+                "TXT_KEY_CIV5_GREECE_HEADING_10",
+                "TXT_KEY_CIV5_GREECE_HEADING_11",
+                "TXT_KEY_CIV5_GREECE_HEADING_12",
+                "TXT_KEY_CIV5_GREECE_HEADING_13",
+                "TXT_KEY_CIV5_GREECE_HEADING_14",
+                "TXT_KEY_CIV5_GREECE_FACTOID_HEADING"
             ],
             "texts": [
-                "TXT_KEY_CIV5_GREECE_FACTOID_TEXT",
                 "TXT_KEY_CIV5_GREECE_TEXT_1",
-                "TXT_KEY_CIV5_GREECE_TEXT_10",
-                "TXT_KEY_CIV5_GREECE_TEXT_11",
-                "TXT_KEY_CIV5_GREECE_TEXT_12",
-                "TXT_KEY_CIV5_GREECE_TEXT_13",
-                "TXT_KEY_CIV5_GREECE_TEXT_14",
                 "TXT_KEY_CIV5_GREECE_TEXT_2",
                 "TXT_KEY_CIV5_GREECE_TEXT_3",
                 "TXT_KEY_CIV5_GREECE_TEXT_4",
@@ -18994,7 +18976,13 @@
                 "TXT_KEY_CIV5_GREECE_TEXT_6",
                 "TXT_KEY_CIV5_GREECE_TEXT_7",
                 "TXT_KEY_CIV5_GREECE_TEXT_8",
-                "TXT_KEY_CIV5_GREECE_TEXT_9"
+                "TXT_KEY_CIV5_GREECE_TEXT_9",
+                "TXT_KEY_CIV5_GREECE_TEXT_10",
+                "TXT_KEY_CIV5_GREECE_TEXT_11",
+                "TXT_KEY_CIV5_GREECE_TEXT_12",
+                "TXT_KEY_CIV5_GREECE_TEXT_13",
+                "TXT_KEY_CIV5_GREECE_TEXT_14",
+                "TXT_KEY_CIV5_GREECE_FACTOID_TEXT"
             ],
             "leaders": [
                 "item_292"
@@ -19012,15 +19000,7 @@
             "image": "./assets/images/civ_icons/india.png",
             "title": "TXT_KEY_CIV_INDIA_SHORT_DESC",
             "heading": [
-                "TXT_KEY_CIV5_INDIA_FACTOID_HEADING",
                 "TXT_KEY_CIV5_INDIA_HEADING_1",
-                "TXT_KEY_CIV5_INDIA_HEADING_10",
-                "TXT_KEY_CIV5_INDIA_HEADING_11",
-                "TXT_KEY_CIV5_INDIA_HEADING_12",
-                "TXT_KEY_CIV5_INDIA_HEADING_13",
-                "TXT_KEY_CIV5_INDIA_HEADING_14",
-                "TXT_KEY_CIV5_INDIA_HEADING_15",
-                "TXT_KEY_CIV5_INDIA_HEADING_16",
                 "TXT_KEY_CIV5_INDIA_HEADING_2",
                 "TXT_KEY_CIV5_INDIA_HEADING_3",
                 "TXT_KEY_CIV5_INDIA_HEADING_4",
@@ -19028,18 +19008,18 @@
                 "TXT_KEY_CIV5_INDIA_HEADING_6",
                 "TXT_KEY_CIV5_INDIA_HEADING_7",
                 "TXT_KEY_CIV5_INDIA_HEADING_8",
-                "TXT_KEY_CIV5_INDIA_HEADING_9"
+                "TXT_KEY_CIV5_INDIA_HEADING_9",
+                "TXT_KEY_CIV5_INDIA_HEADING_10",
+                "TXT_KEY_CIV5_INDIA_HEADING_11",
+                "TXT_KEY_CIV5_INDIA_HEADING_12",
+                "TXT_KEY_CIV5_INDIA_HEADING_13",
+                "TXT_KEY_CIV5_INDIA_HEADING_14",
+                "TXT_KEY_CIV5_INDIA_HEADING_15",
+                "TXT_KEY_CIV5_INDIA_HEADING_16",
+                "TXT_KEY_CIV5_INDIA_FACTOID_HEADING"
             ],
             "texts": [
-                "TXT_KEY_CIV5_INDIA_FACTOID_TEXT",
                 "TXT_KEY_CIV5_INDIA_TEXT_1",
-                "TXT_KEY_CIV5_INDIA_TEXT_10",
-                "TXT_KEY_CIV5_INDIA_TEXT_11",
-                "TXT_KEY_CIV5_INDIA_TEXT_12",
-                "TXT_KEY_CIV5_INDIA_TEXT_13",
-                "TXT_KEY_CIV5_INDIA_TEXT_14",
-                "TXT_KEY_CIV5_INDIA_TEXT_15",
-                "TXT_KEY_CIV5_INDIA_TEXT_16",
                 "TXT_KEY_CIV5_INDIA_TEXT_2",
                 "TXT_KEY_CIV5_INDIA_TEXT_3",
                 "TXT_KEY_CIV5_INDIA_TEXT_4",
@@ -19047,7 +19027,15 @@
                 "TXT_KEY_CIV5_INDIA_TEXT_6",
                 "TXT_KEY_CIV5_INDIA_TEXT_7",
                 "TXT_KEY_CIV5_INDIA_TEXT_8",
-                "TXT_KEY_CIV5_INDIA_TEXT_9"
+                "TXT_KEY_CIV5_INDIA_TEXT_9",
+                "TXT_KEY_CIV5_INDIA_TEXT_10",
+                "TXT_KEY_CIV5_INDIA_TEXT_11",
+                "TXT_KEY_CIV5_INDIA_TEXT_12",
+                "TXT_KEY_CIV5_INDIA_TEXT_13",
+                "TXT_KEY_CIV5_INDIA_TEXT_14",
+                "TXT_KEY_CIV5_INDIA_TEXT_15",
+                "TXT_KEY_CIV5_INDIA_TEXT_16",
+                "TXT_KEY_CIV5_INDIA_FACTOID_TEXT"
             ],
             "leaders": [
                 "item_306"
@@ -19067,7 +19055,6 @@
             "image": "./assets/images/civ_icons/indonesia.png",
             "title": "TXT_KEY_CIV_INDONESIA_SHORT_DESC",
             "heading": [
-                "TXT_KEY_CIV5_INDONESIA_FACTOID_HEADING",
                 "TXT_KEY_CIV5_INDONESIA_HEADING_1",
                 "TXT_KEY_CIV5_INDONESIA_HEADING_2",
                 "TXT_KEY_CIV5_INDONESIA_HEADING_3",
@@ -19075,11 +19062,10 @@
                 "TXT_KEY_CIV5_INDONESIA_HEADING_5",
                 "TXT_KEY_CIV5_INDONESIA_HEADING_6",
                 "TXT_KEY_CIV5_INDONESIA_HEADING_7",
-                "TXT_KEY_CIV5_INDONESIA_HEADING_8"
+                "TXT_KEY_CIV5_INDONESIA_HEADING_8",
+                "TXT_KEY_CIV5_INDONESIA_FACTOID_HEADING"
             ],
             "texts": [
-                "TXT_KEY_CIV5_INDONESIAN_KRIS_SWORDSMAN_TEXT",
-                "TXT_KEY_CIV5_INDONESIA_FACTOID_TEXT",
                 "TXT_KEY_CIV5_INDONESIA_TEXT_1",
                 "TXT_KEY_CIV5_INDONESIA_TEXT_2",
                 "TXT_KEY_CIV5_INDONESIA_TEXT_3",
@@ -19087,7 +19073,8 @@
                 "TXT_KEY_CIV5_INDONESIA_TEXT_5",
                 "TXT_KEY_CIV5_INDONESIA_TEXT_6",
                 "TXT_KEY_CIV5_INDONESIA_TEXT_7",
-                "TXT_KEY_CIV5_INDONESIA_TEXT_8"
+                "TXT_KEY_CIV5_INDONESIA_TEXT_8",
+                "TXT_KEY_CIV5_INDONESIA_FACTOID_TEXT"
             ],
             "leaders": [
                 "item_305"
@@ -19107,8 +19094,15 @@
             "image": "./assets/images/civ_icons/japan.png",
             "title": "TXT_KEY_CIV_JAPAN_SHORT_DESC",
             "heading": [
-                "TXT_KEY_CIV5_JAPAN_FACTOID_HEADING",
                 "TXT_KEY_CIV5_JAPAN_HEADING_1",
+                "TXT_KEY_CIV5_JAPAN_HEADING_2",
+                "TXT_KEY_CIV5_JAPAN_HEADING_3",
+                "TXT_KEY_CIV5_JAPAN_HEADING_4",
+                "TXT_KEY_CIV5_JAPAN_HEADING_5",
+                "TXT_KEY_CIV5_JAPAN_HEADING_6",
+                "TXT_KEY_CIV5_JAPAN_HEADING_7",
+                "TXT_KEY_CIV5_JAPAN_HEADING_8",
+                "TXT_KEY_CIV5_JAPAN_HEADING_9",
                 "TXT_KEY_CIV5_JAPAN_HEADING_10",
                 "TXT_KEY_CIV5_JAPAN_HEADING_11",
                 "TXT_KEY_CIV5_JAPAN_HEADING_12",
@@ -19119,18 +19113,18 @@
                 "TXT_KEY_CIV5_JAPAN_HEADING_17",
                 "TXT_KEY_CIV5_JAPAN_HEADING_18",
                 "TXT_KEY_CIV5_JAPAN_HEADING_19",
-                "TXT_KEY_CIV5_JAPAN_HEADING_2",
-                "TXT_KEY_CIV5_JAPAN_HEADING_3",
-                "TXT_KEY_CIV5_JAPAN_HEADING_4",
-                "TXT_KEY_CIV5_JAPAN_HEADING_5",
-                "TXT_KEY_CIV5_JAPAN_HEADING_6",
-                "TXT_KEY_CIV5_JAPAN_HEADING_7",
-                "TXT_KEY_CIV5_JAPAN_HEADING_8",
-                "TXT_KEY_CIV5_JAPAN_HEADING_9"
+                "TXT_KEY_CIV5_JAPAN_FACTOID_HEADING"
             ],
             "texts": [
-                "TXT_KEY_CIV5_JAPAN_FACTOID_TEXT",
                 "TXT_KEY_CIV5_JAPAN_TEXT_1",
+                "TXT_KEY_CIV5_JAPAN_TEXT_2",
+                "TXT_KEY_CIV5_JAPAN_TEXT_3",
+                "TXT_KEY_CIV5_JAPAN_TEXT_4",
+                "TXT_KEY_CIV5_JAPAN_TEXT_5",
+                "TXT_KEY_CIV5_JAPAN_TEXT_6",
+                "TXT_KEY_CIV5_JAPAN_TEXT_7",
+                "TXT_KEY_CIV5_JAPAN_TEXT_8",
+                "TXT_KEY_CIV5_JAPAN_TEXT_9",
                 "TXT_KEY_CIV5_JAPAN_TEXT_10",
                 "TXT_KEY_CIV5_JAPAN_TEXT_11",
                 "TXT_KEY_CIV5_JAPAN_TEXT_12",
@@ -19141,14 +19135,7 @@
                 "TXT_KEY_CIV5_JAPAN_TEXT_17",
                 "TXT_KEY_CIV5_JAPAN_TEXT_18",
                 "TXT_KEY_CIV5_JAPAN_TEXT_19",
-                "TXT_KEY_CIV5_JAPAN_TEXT_2",
-                "TXT_KEY_CIV5_JAPAN_TEXT_3",
-                "TXT_KEY_CIV5_JAPAN_TEXT_4",
-                "TXT_KEY_CIV5_JAPAN_TEXT_5",
-                "TXT_KEY_CIV5_JAPAN_TEXT_6",
-                "TXT_KEY_CIV5_JAPAN_TEXT_7",
-                "TXT_KEY_CIV5_JAPAN_TEXT_8",
-                "TXT_KEY_CIV5_JAPAN_TEXT_9"
+                "TXT_KEY_CIV5_JAPAN_FACTOID_TEXT"
             ],
             "leaders": [
                 "item_320"
@@ -19166,10 +19153,7 @@
             "image": "./assets/images/civ_icons/korea.png",
             "title": "TXT_KEY_CIV_KOREA_SHORT_DESC",
             "heading": [
-                "TXT_KEY_CIV5_KOREA_FACTOID_HEADING",
                 "TXT_KEY_CIV5_KOREA_HEADING_1",
-                "TXT_KEY_CIV5_KOREA_HEADING_10",
-                "TXT_KEY_CIV5_KOREA_HEADING_11",
                 "TXT_KEY_CIV5_KOREA_HEADING_2",
                 "TXT_KEY_CIV5_KOREA_HEADING_3",
                 "TXT_KEY_CIV5_KOREA_HEADING_4",
@@ -19178,15 +19162,12 @@
                 "TXT_KEY_CIV5_KOREA_HEADING_7",
                 "TXT_KEY_CIV5_KOREA_HEADING_8",
                 "TXT_KEY_CIV5_KOREA_HEADING_9",
-                "TXT_KEY_CIV5_KOREA_HWACHA_HEADING",
-                "TXT_KEY_CIV5_KOREA_TURTLESHIP_HEADING"
+                "TXT_KEY_CIV5_KOREA_HEADING_10",
+                "TXT_KEY_CIV5_KOREA_HEADING_11",
+                "TXT_KEY_CIV5_KOREA_FACTOID_HEADING"
             ],
             "texts": [
-                "TXT_KEY_CIV5_KOREA_FACTOID_TEXT",
-                "TXT_KEY_CIV5_KOREA_HWACHA_TEXT",
                 "TXT_KEY_CIV5_KOREA_TEXT_1",
-                "TXT_KEY_CIV5_KOREA_TEXT_10",
-                "TXT_KEY_CIV5_KOREA_TEXT_11",
                 "TXT_KEY_CIV5_KOREA_TEXT_2",
                 "TXT_KEY_CIV5_KOREA_TEXT_3",
                 "TXT_KEY_CIV5_KOREA_TEXT_4",
@@ -19195,7 +19176,9 @@
                 "TXT_KEY_CIV5_KOREA_TEXT_7",
                 "TXT_KEY_CIV5_KOREA_TEXT_8",
                 "TXT_KEY_CIV5_KOREA_TEXT_9",
-                "TXT_KEY_CIV5_KOREA_TURTLESHIP_TEXT"
+                "TXT_KEY_CIV5_KOREA_TEXT_10",
+                "TXT_KEY_CIV5_KOREA_TEXT_11",
+                "TXT_KEY_CIV5_KOREA_FACTOID_TEXT"
             ],
             "leaders": [
                 "item_327"
@@ -19213,9 +19196,7 @@
             "image": "./assets/images/civ_icons/mongolia.png",
             "title": "TXT_KEY_CIV_MONGOL_SHORT_DESC",
             "heading": [
-                "TXT_KEY_CIV5_MONGOLIA_FACTOID_HEADING",
                 "TXT_KEY_CIV5_MONGOLIA_HEADING_1",
-                "TXT_KEY_CIV5_MONGOLIA_HEADING_10",
                 "TXT_KEY_CIV5_MONGOLIA_HEADING_2",
                 "TXT_KEY_CIV5_MONGOLIA_HEADING_3",
                 "TXT_KEY_CIV5_MONGOLIA_HEADING_4",
@@ -19224,15 +19205,11 @@
                 "TXT_KEY_CIV5_MONGOLIA_HEADING_7",
                 "TXT_KEY_CIV5_MONGOLIA_HEADING_8",
                 "TXT_KEY_CIV5_MONGOLIA_HEADING_9",
-                "TXT_KEY_CIV5_MONGOLIA_KESHIK_HEADING",
-                "TXT_KEY_CIV5_MONGOLIA_KHAN_HEADING"
+                "TXT_KEY_CIV5_MONGOLIA_HEADING_10",
+                "TXT_KEY_CIV5_MONGOLIA_FACTOID_HEADING"
             ],
             "texts": [
-                "TXT_KEY_CIV5_MONGOLIA_FACTOID_TEXT",
-                "TXT_KEY_CIV5_MONGOLIA_KESHIK_TEXT",
-                "TXT_KEY_CIV5_MONGOLIA_KHAN_TEXT",
                 "TXT_KEY_CIV5_MONGOLIA_TEXT_1",
-                "TXT_KEY_CIV5_MONGOLIA_TEXT_10",
                 "TXT_KEY_CIV5_MONGOLIA_TEXT_2",
                 "TXT_KEY_CIV5_MONGOLIA_TEXT_3",
                 "TXT_KEY_CIV5_MONGOLIA_TEXT_4",
@@ -19240,7 +19217,9 @@
                 "TXT_KEY_CIV5_MONGOLIA_TEXT_6",
                 "TXT_KEY_CIV5_MONGOLIA_TEXT_7",
                 "TXT_KEY_CIV5_MONGOLIA_TEXT_8",
-                "TXT_KEY_CIV5_MONGOLIA_TEXT_9"
+                "TXT_KEY_CIV5_MONGOLIA_TEXT_9",
+                "TXT_KEY_CIV5_MONGOLIA_TEXT_10",
+                "TXT_KEY_CIV5_MONGOLIA_FACTOID_TEXT"
             ],
             "leaders": [
                 "item_307"
@@ -19257,7 +19236,6 @@
             "image": "./assets/images/civ_icons/morocco.png",
             "title": "TXT_KEY_CIV_MOROCCO_SHORT_DESC",
             "heading": [
-                "TXT_KEY_CIV5_MOROCCO_FACTOID_HEADING",
                 "TXT_KEY_CIV5_MOROCCO_HEADING_1",
                 "TXT_KEY_CIV5_MOROCCO_HEADING_2",
                 "TXT_KEY_CIV5_MOROCCO_HEADING_3",
@@ -19265,10 +19243,10 @@
                 "TXT_KEY_CIV5_MOROCCO_HEADING_5",
                 "TXT_KEY_CIV5_MOROCCO_HEADING_6",
                 "TXT_KEY_CIV5_MOROCCO_HEADING_7",
-                "TXT_KEY_CIV5_MOROCCO_HEADING_8"
+                "TXT_KEY_CIV5_MOROCCO_HEADING_8",
+                "TXT_KEY_CIV5_MOROCCO_FACTOID_HEADING"
             ],
             "texts": [
-                "TXT_KEY_CIV5_MOROCCO_FACTOID_TEXT",
                 "TXT_KEY_CIV5_MOROCCO_TEXT_1",
                 "TXT_KEY_CIV5_MOROCCO_TEXT_2",
                 "TXT_KEY_CIV5_MOROCCO_TEXT_3",
@@ -19276,7 +19254,8 @@
                 "TXT_KEY_CIV5_MOROCCO_TEXT_5",
                 "TXT_KEY_CIV5_MOROCCO_TEXT_6",
                 "TXT_KEY_CIV5_MOROCCO_TEXT_7",
-                "TXT_KEY_CIV5_MOROCCO_TEXT_8"
+                "TXT_KEY_CIV5_MOROCCO_TEXT_8",
+                "TXT_KEY_CIV5_MOROCCO_FACTOID_TEXT"
             ],
             "leaders": [
                 "item_291"
@@ -19296,7 +19275,6 @@
             "image": "./assets/images/civ_icons/persia.png",
             "title": "TXT_KEY_CIV_PERSIA_SHORT_DESC",
             "heading": [
-                "TXT_KEY_CIV5_PERSIA_FACTOID_HEADING",
                 "TXT_KEY_CIV5_PERSIA_HEADING_1",
                 "TXT_KEY_CIV5_PERSIA_HEADING_2",
                 "TXT_KEY_CIV5_PERSIA_HEADING_3",
@@ -19305,10 +19283,10 @@
                 "TXT_KEY_CIV5_PERSIA_HEADING_6",
                 "TXT_KEY_CIV5_PERSIA_HEADING_7",
                 "TXT_KEY_CIV5_PERSIA_HEADING_8",
-                "TXT_KEY_CIV5_PERSIA_HEADING_9"
+                "TXT_KEY_CIV5_PERSIA_HEADING_9",
+                "TXT_KEY_CIV5_PERSIA_FACTOID_HEADING"
             ],
             "texts": [
-                "TXT_KEY_CIV5_PERSIA_FACTOID_TEXT",
                 "TXT_KEY_CIV5_PERSIA_TEXT_1",
                 "TXT_KEY_CIV5_PERSIA_TEXT_2",
                 "TXT_KEY_CIV5_PERSIA_TEXT_3",
@@ -19317,7 +19295,8 @@
                 "TXT_KEY_CIV5_PERSIA_TEXT_6",
                 "TXT_KEY_CIV5_PERSIA_TEXT_7",
                 "TXT_KEY_CIV5_PERSIA_TEXT_8",
-                "TXT_KEY_CIV5_PERSIA_TEXT_9"
+                "TXT_KEY_CIV5_PERSIA_TEXT_9",
+                "TXT_KEY_CIV5_PERSIA_FACTOID_TEXT"
             ],
             "leaders": [
                 "item_301"
@@ -19337,7 +19316,6 @@
             "image": "./assets/images/civ_icons/poland.png",
             "title": "TXT_KEY_CIV_POLAND_SHORT_DESC",
             "heading": [
-                "TXT_KEY_CIV5_POLAND_FACTOID_HEADING",
                 "TXT_KEY_CIV5_POLAND_HEADING_1",
                 "TXT_KEY_CIV5_POLAND_HEADING_2",
                 "TXT_KEY_CIV5_POLAND_HEADING_3",
@@ -19346,10 +19324,10 @@
                 "TXT_KEY_CIV5_POLAND_HEADING_6",
                 "TXT_KEY_CIV5_POLAND_HEADING_7",
                 "TXT_KEY_CIV5_POLAND_HEADING_8",
-                "TXT_KEY_CIV5_POLAND_HEADING_9"
+                "TXT_KEY_CIV5_POLAND_HEADING_9",
+                "TXT_KEY_CIV5_POLAND_FACTOID_HEADING"
             ],
             "texts": [
-                "TXT_KEY_CIV5_POLAND_FACTOID_TEXT",
                 "TXT_KEY_CIV5_POLAND_TEXT_1",
                 "TXT_KEY_CIV5_POLAND_TEXT_2",
                 "TXT_KEY_CIV5_POLAND_TEXT_3",
@@ -19358,7 +19336,8 @@
                 "TXT_KEY_CIV5_POLAND_TEXT_6",
                 "TXT_KEY_CIV5_POLAND_TEXT_7",
                 "TXT_KEY_CIV5_POLAND_TEXT_8",
-                "TXT_KEY_CIV5_POLAND_TEXT_9"
+                "TXT_KEY_CIV5_POLAND_TEXT_9",
+                "TXT_KEY_CIV5_POLAND_FACTOID_TEXT"
             ],
             "leaders": [
                 "item_299"
@@ -19378,7 +19357,6 @@
             "image": "./assets/images/civ_icons/polynesia.png",
             "title": "TXT_KEY_CIV_POLYNESIA_SHORT_DESC",
             "heading": [
-                "TXT_KEY_CIV5_POLYNESIA_FACTOID_HEADING",
                 "TXT_KEY_CIV5_POLYNESIA_HEADING_1",
                 "TXT_KEY_CIV5_POLYNESIA_HEADING_2",
                 "TXT_KEY_CIV5_POLYNESIA_HEADING_3",
@@ -19386,18 +19364,17 @@
                 "TXT_KEY_CIV5_POLYNESIA_HEADING_5",
                 "TXT_KEY_CIV5_POLYNESIA_HEADING_6",
                 "TXT_KEY_CIV5_POLYNESIA_HEADING_7",
-                "TXT_KEY_CIV5_POLYNESIA_MAORI_HEADING"
+                "TXT_KEY_CIV5_POLYNESIA_FACTOID_HEADING"
             ],
             "texts": [
-                "TXT_KEY_CIV5_POLYNESIAN_MAORI_WARRIOR_TEXT",
-                "TXT_KEY_CIV5_POLYNESIA_FACTOID_TEXT",
                 "TXT_KEY_CIV5_POLYNESIA_TEXT_1",
                 "TXT_KEY_CIV5_POLYNESIA_TEXT_2",
                 "TXT_KEY_CIV5_POLYNESIA_TEXT_3",
                 "TXT_KEY_CIV5_POLYNESIA_TEXT_4",
                 "TXT_KEY_CIV5_POLYNESIA_TEXT_5",
                 "TXT_KEY_CIV5_POLYNESIA_TEXT_6",
-                "TXT_KEY_CIV5_POLYNESIA_TEXT_7"
+                "TXT_KEY_CIV5_POLYNESIA_TEXT_7",
+                "TXT_KEY_CIV5_POLYNESIA_FACTOID_TEXT"
             ],
             "leaders": [
                 "item_314"
@@ -19417,7 +19394,6 @@
             "image": "./assets/images/civ_icons/portugal.png",
             "title": "TXT_KEY_CIV_PORTUGAL_SHORT_DESC",
             "heading": [
-                "TXT_KEY_CIV5_PORTUGAL_FACTOID_HEADING",
                 "TXT_KEY_CIV5_PORTUGAL_HEADING_1",
                 "TXT_KEY_CIV5_PORTUGAL_HEADING_2",
                 "TXT_KEY_CIV5_PORTUGAL_HEADING_3",
@@ -19426,10 +19402,10 @@
                 "TXT_KEY_CIV5_PORTUGAL_HEADING_6",
                 "TXT_KEY_CIV5_PORTUGAL_HEADING_7",
                 "TXT_KEY_CIV5_PORTUGAL_HEADING_8",
-                "TXT_KEY_CIV5_PORTUGAL_HEADING_9"
+                "TXT_KEY_CIV5_PORTUGAL_HEADING_9",
+                "TXT_KEY_CIV5_PORTUGAL_FACTOID_HEADING"
             ],
             "texts": [
-                "TXT_KEY_CIV5_PORTUGAL_FACTOID_TEXT",
                 "TXT_KEY_CIV5_PORTUGAL_TEXT_1",
                 "TXT_KEY_CIV5_PORTUGAL_TEXT_2",
                 "TXT_KEY_CIV5_PORTUGAL_TEXT_3",
@@ -19438,7 +19414,8 @@
                 "TXT_KEY_CIV5_PORTUGAL_TEXT_6",
                 "TXT_KEY_CIV5_PORTUGAL_TEXT_7",
                 "TXT_KEY_CIV5_PORTUGAL_TEXT_8",
-                "TXT_KEY_CIV5_PORTUGAL_TEXT_9"
+                "TXT_KEY_CIV5_PORTUGAL_TEXT_9",
+                "TXT_KEY_CIV5_PORTUGAL_FACTOID_TEXT"
             ],
             "leaders": [
                 "item_315"
@@ -19458,10 +19435,7 @@
             "image": "./assets/images/civ_icons/rome.png",
             "title": "TXT_KEY_CIV_ROME_SHORT_DESC",
             "heading": [
-                "TXT_KEY_CIV5_ROME_FACTOID_HEADING",
                 "TXT_KEY_CIV5_ROME_HEADING_1",
-                "TXT_KEY_CIV5_ROME_HEADING_10",
-                "TXT_KEY_CIV5_ROME_HEADING_11",
                 "TXT_KEY_CIV5_ROME_HEADING_2",
                 "TXT_KEY_CIV5_ROME_HEADING_3",
                 "TXT_KEY_CIV5_ROME_HEADING_4",
@@ -19469,13 +19443,13 @@
                 "TXT_KEY_CIV5_ROME_HEADING_6",
                 "TXT_KEY_CIV5_ROME_HEADING_7",
                 "TXT_KEY_CIV5_ROME_HEADING_8",
-                "TXT_KEY_CIV5_ROME_HEADING_9"
+                "TXT_KEY_CIV5_ROME_HEADING_9",
+                "TXT_KEY_CIV5_ROME_HEADING_10",
+                "TXT_KEY_CIV5_ROME_HEADING_11",
+                "TXT_KEY_CIV5_ROME_FACTOID_HEADING"
             ],
             "texts": [
-                "TXT_KEY_CIV5_ROME_FACTOID_TEXT",
                 "TXT_KEY_CIV5_ROME_TEXT_1",
-                "TXT_KEY_CIV5_ROME_TEXT_10",
-                "TXT_KEY_CIV5_ROME_TEXT_11",
                 "TXT_KEY_CIV5_ROME_TEXT_2",
                 "TXT_KEY_CIV5_ROME_TEXT_3",
                 "TXT_KEY_CIV5_ROME_TEXT_4",
@@ -19483,7 +19457,10 @@
                 "TXT_KEY_CIV5_ROME_TEXT_6",
                 "TXT_KEY_CIV5_ROME_TEXT_7",
                 "TXT_KEY_CIV5_ROME_TEXT_8",
-                "TXT_KEY_CIV5_ROME_TEXT_9"
+                "TXT_KEY_CIV5_ROME_TEXT_9",
+                "TXT_KEY_CIV5_ROME_TEXT_10",
+                "TXT_KEY_CIV5_ROME_TEXT_11",
+                "TXT_KEY_CIV5_ROME_FACTOID_TEXT"
             ],
             "leaders": [
                 "item_296"
@@ -19501,15 +19478,7 @@
             "image": "./assets/images/civ_icons/russia.png",
             "title": "TXT_KEY_CIV_RUSSIA_SHORT_DESC",
             "heading": [
-                "TXT_KEY_CIV5_RUSSIA_FACTOID_HEADING",
                 "TXT_KEY_CIV5_RUSSIA_HEADING_1",
-                "TXT_KEY_CIV5_RUSSIA_HEADING_10",
-                "TXT_KEY_CIV5_RUSSIA_HEADING_11",
-                "TXT_KEY_CIV5_RUSSIA_HEADING_12",
-                "TXT_KEY_CIV5_RUSSIA_HEADING_13",
-                "TXT_KEY_CIV5_RUSSIA_HEADING_14",
-                "TXT_KEY_CIV5_RUSSIA_HEADING_15",
-                "TXT_KEY_CIV5_RUSSIA_HEADING_16",
                 "TXT_KEY_CIV5_RUSSIA_HEADING_2",
                 "TXT_KEY_CIV5_RUSSIA_HEADING_3",
                 "TXT_KEY_CIV5_RUSSIA_HEADING_4",
@@ -19517,18 +19486,18 @@
                 "TXT_KEY_CIV5_RUSSIA_HEADING_6",
                 "TXT_KEY_CIV5_RUSSIA_HEADING_7",
                 "TXT_KEY_CIV5_RUSSIA_HEADING_8",
-                "TXT_KEY_CIV5_RUSSIA_HEADING_9"
+                "TXT_KEY_CIV5_RUSSIA_HEADING_9",
+                "TXT_KEY_CIV5_RUSSIA_HEADING_10",
+                "TXT_KEY_CIV5_RUSSIA_HEADING_11",
+                "TXT_KEY_CIV5_RUSSIA_HEADING_12",
+                "TXT_KEY_CIV5_RUSSIA_HEADING_13",
+                "TXT_KEY_CIV5_RUSSIA_HEADING_14",
+                "TXT_KEY_CIV5_RUSSIA_HEADING_15",
+                "TXT_KEY_CIV5_RUSSIA_HEADING_16",
+                "TXT_KEY_CIV5_RUSSIA_FACTOID_HEADING"
             ],
             "texts": [
-                "TXT_KEY_CIV5_RUSSIA_FACTOID_TEXT",
                 "TXT_KEY_CIV5_RUSSIA_TEXT_1",
-                "TXT_KEY_CIV5_RUSSIA_TEXT_10",
-                "TXT_KEY_CIV5_RUSSIA_TEXT_11",
-                "TXT_KEY_CIV5_RUSSIA_TEXT_12",
-                "TXT_KEY_CIV5_RUSSIA_TEXT_13",
-                "TXT_KEY_CIV5_RUSSIA_TEXT_14",
-                "TXT_KEY_CIV5_RUSSIA_TEXT_15",
-                "TXT_KEY_CIV5_RUSSIA_TEXT_16",
                 "TXT_KEY_CIV5_RUSSIA_TEXT_2",
                 "TXT_KEY_CIV5_RUSSIA_TEXT_3",
                 "TXT_KEY_CIV5_RUSSIA_TEXT_4",
@@ -19536,7 +19505,15 @@
                 "TXT_KEY_CIV5_RUSSIA_TEXT_6",
                 "TXT_KEY_CIV5_RUSSIA_TEXT_7",
                 "TXT_KEY_CIV5_RUSSIA_TEXT_8",
-                "TXT_KEY_CIV5_RUSSIA_TEXT_9"
+                "TXT_KEY_CIV5_RUSSIA_TEXT_9",
+                "TXT_KEY_CIV5_RUSSIA_TEXT_10",
+                "TXT_KEY_CIV5_RUSSIA_TEXT_11",
+                "TXT_KEY_CIV5_RUSSIA_TEXT_12",
+                "TXT_KEY_CIV5_RUSSIA_TEXT_13",
+                "TXT_KEY_CIV5_RUSSIA_TEXT_14",
+                "TXT_KEY_CIV5_RUSSIA_TEXT_15",
+                "TXT_KEY_CIV5_RUSSIA_TEXT_16",
+                "TXT_KEY_CIV5_RUSSIA_FACTOID_TEXT"
             ],
             "leaders": [
                 "item_300"
@@ -19556,10 +19533,7 @@
             "image": "./assets/images/civ_icons/siam.png",
             "title": "TXT_KEY_CIV_SIAM_SHORT_DESC",
             "heading": [
-                "TXT_KEY_CIV5_SIAM_FACTOID_HEADING",
                 "TXT_KEY_CIV5_SIAM_HEADING_1",
-                "TXT_KEY_CIV5_SIAM_HEADING_10",
-                "TXT_KEY_CIV5_SIAM_HEADING_11",
                 "TXT_KEY_CIV5_SIAM_HEADING_2",
                 "TXT_KEY_CIV5_SIAM_HEADING_3",
                 "TXT_KEY_CIV5_SIAM_HEADING_4",
@@ -19567,13 +19541,13 @@
                 "TXT_KEY_CIV5_SIAM_HEADING_6",
                 "TXT_KEY_CIV5_SIAM_HEADING_7",
                 "TXT_KEY_CIV5_SIAM_HEADING_8",
-                "TXT_KEY_CIV5_SIAM_HEADING_9"
+                "TXT_KEY_CIV5_SIAM_HEADING_9",
+                "TXT_KEY_CIV5_SIAM_HEADING_10",
+                "TXT_KEY_CIV5_SIAM_HEADING_11",
+                "TXT_KEY_CIV5_SIAM_FACTOID_HEADING"
             ],
             "texts": [
-                "TXT_KEY_CIV5_SIAM_FACTOID_TEXT",
                 "TXT_KEY_CIV5_SIAM_TEXT_1",
-                "TXT_KEY_CIV5_SIAM_TEXT_10",
-                "TXT_KEY_CIV5_SIAM_TEXT_11",
                 "TXT_KEY_CIV5_SIAM_TEXT_2",
                 "TXT_KEY_CIV5_SIAM_TEXT_3",
                 "TXT_KEY_CIV5_SIAM_TEXT_4",
@@ -19581,7 +19555,10 @@
                 "TXT_KEY_CIV5_SIAM_TEXT_6",
                 "TXT_KEY_CIV5_SIAM_TEXT_7",
                 "TXT_KEY_CIV5_SIAM_TEXT_8",
-                "TXT_KEY_CIV5_SIAM_TEXT_9"
+                "TXT_KEY_CIV5_SIAM_TEXT_9",
+                "TXT_KEY_CIV5_SIAM_TEXT_10",
+                "TXT_KEY_CIV5_SIAM_TEXT_11",
+                "TXT_KEY_CIV5_SIAM_FACTOID_TEXT"
             ],
             "leaders": [
                 "item_326"
@@ -19601,7 +19578,6 @@
             "image": "./assets/images/civ_icons/songhai.png",
             "title": "TXT_KEY_CIV_SONGHAI_SHORT_DESC",
             "heading": [
-                "TXT_KEY_CIV5_SONGHAI_FACTOID_HEADING",
                 "TXT_KEY_CIV5_SONGHAI_HEADING_1",
                 "TXT_KEY_CIV5_SONGHAI_HEADING_2",
                 "TXT_KEY_CIV5_SONGHAI_HEADING_3",
@@ -19609,10 +19585,10 @@
                 "TXT_KEY_CIV5_SONGHAI_HEADING_5",
                 "TXT_KEY_CIV5_SONGHAI_HEADING_6",
                 "TXT_KEY_CIV5_SONGHAI_HEADING_7",
-                "TXT_KEY_CIV5_SONGHAI_HEADING_8"
+                "TXT_KEY_CIV5_SONGHAI_HEADING_8",
+                "TXT_KEY_CIV5_SONGHAI_FACTOID_HEADING"
             ],
             "texts": [
-                "TXT_KEY_CIV5_SONGHAI_FACTOID_TEXT",
                 "TXT_KEY_CIV5_SONGHAI_TEXT_1",
                 "TXT_KEY_CIV5_SONGHAI_TEXT_2",
                 "TXT_KEY_CIV5_SONGHAI_TEXT_3",
@@ -19620,7 +19596,8 @@
                 "TXT_KEY_CIV5_SONGHAI_TEXT_5",
                 "TXT_KEY_CIV5_SONGHAI_TEXT_6",
                 "TXT_KEY_CIV5_SONGHAI_TEXT_7",
-                "TXT_KEY_CIV5_SONGHAI_TEXT_8"
+                "TXT_KEY_CIV5_SONGHAI_TEXT_8",
+                "TXT_KEY_CIV5_SONGHAI_FACTOID_TEXT"
             ],
             "leaders": [
                 "item_294"
@@ -19640,8 +19617,6 @@
             "image": "./assets/images/civ_icons/spain.png",
             "title": "TXT_KEY_CIV_SPAIN_SHORT_DESC",
             "heading": [
-                "TXT_KEY_CIV5_SPAIN_CONQUISTADOR_HEADING",
-                "TXT_KEY_CIV5_SPAIN_FACTOID_HEADING",
                 "TXT_KEY_CIV5_SPAIN_HEADING_1",
                 "TXT_KEY_CIV5_SPAIN_HEADING_2",
                 "TXT_KEY_CIV5_SPAIN_HEADING_3",
@@ -19651,12 +19626,9 @@
                 "TXT_KEY_CIV5_SPAIN_HEADING_7",
                 "TXT_KEY_CIV5_SPAIN_HEADING_8",
                 "TXT_KEY_CIV5_SPAIN_HEADING_9",
-                "TXT_KEY_CIV5_SPAIN_TERCIO_HEADING"
+                "TXT_KEY_CIV5_SPAIN_FACTOID_HEADING"
             ],
             "texts": [
-                "TXT_KEY_CIV5_SPAIN_CONQUISTADOR_TEXT",
-                "TXT_KEY_CIV5_SPAIN_FACTOID_TEXT",
-                "TXT_KEY_CIV5_SPAIN_TERCIO_TEXT",
                 "TXT_KEY_CIV5_SPAIN_TEXT_1",
                 "TXT_KEY_CIV5_SPAIN_TEXT_2",
                 "TXT_KEY_CIV5_SPAIN_TEXT_3",
@@ -19665,7 +19637,8 @@
                 "TXT_KEY_CIV5_SPAIN_TEXT_6",
                 "TXT_KEY_CIV5_SPAIN_TEXT_7",
                 "TXT_KEY_CIV5_SPAIN_TEXT_8",
-                "TXT_KEY_CIV5_SPAIN_TEXT_9"
+                "TXT_KEY_CIV5_SPAIN_TEXT_9",
+                "TXT_KEY_CIV5_SPAIN_FACTOID_TEXT"
             ],
             "leaders": [
                 "item_313"
@@ -19683,9 +19656,7 @@
             "image": "./assets/images/civ_icons/sweden.png",
             "title": "TXT_KEY_CIV_SWEDEN_SHORT_DESC",
             "heading": [
-                "TXT_KEY_CIV5_SWEDEN_FACTOID_HEADING",
                 "TXT_KEY_CIV5_SWEDEN_HEADING_1",
-                "TXT_KEY_CIV5_SWEDEN_HEADING_10",
                 "TXT_KEY_CIV5_SWEDEN_HEADING_2",
                 "TXT_KEY_CIV5_SWEDEN_HEADING_3",
                 "TXT_KEY_CIV5_SWEDEN_HEADING_4",
@@ -19693,12 +19664,12 @@
                 "TXT_KEY_CIV5_SWEDEN_HEADING_6",
                 "TXT_KEY_CIV5_SWEDEN_HEADING_7",
                 "TXT_KEY_CIV5_SWEDEN_HEADING_8",
-                "TXT_KEY_CIV5_SWEDEN_HEADING_9"
+                "TXT_KEY_CIV5_SWEDEN_HEADING_9",
+                "TXT_KEY_CIV5_SWEDEN_HEADING_10",
+                "TXT_KEY_CIV5_SWEDEN_FACTOID_HEADING"
             ],
             "texts": [
-                "TXT_KEY_CIV5_SWEDEN_FACTOID_TEXT",
                 "TXT_KEY_CIV5_SWEDEN_TEXT_1",
-                "TXT_KEY_CIV5_SWEDEN_TEXT_10",
                 "TXT_KEY_CIV5_SWEDEN_TEXT_2",
                 "TXT_KEY_CIV5_SWEDEN_TEXT_3",
                 "TXT_KEY_CIV5_SWEDEN_TEXT_4",
@@ -19706,7 +19677,9 @@
                 "TXT_KEY_CIV5_SWEDEN_TEXT_6",
                 "TXT_KEY_CIV5_SWEDEN_TEXT_7",
                 "TXT_KEY_CIV5_SWEDEN_TEXT_8",
-                "TXT_KEY_CIV5_SWEDEN_TEXT_9"
+                "TXT_KEY_CIV5_SWEDEN_TEXT_9",
+                "TXT_KEY_CIV5_SWEDEN_TEXT_10",
+                "TXT_KEY_CIV5_SWEDEN_FACTOID_TEXT"
             ],
             "leaders": [
                 "item_308"
@@ -19724,9 +19697,7 @@
             "image": "./assets/images/civ_icons/the_aztecs.png",
             "title": "TXT_KEY_CIV_AZTEC_SHORT_DESC",
             "heading": [
-                "TXT_KEY_CIV5_AZTECS_FACTOID_HEADING",
                 "TXT_KEY_CIV5_AZTECS_HEADING_1",
-                "TXT_KEY_CIV5_AZTECS_HEADING_10",
                 "TXT_KEY_CIV5_AZTECS_HEADING_2",
                 "TXT_KEY_CIV5_AZTECS_HEADING_3",
                 "TXT_KEY_CIV5_AZTECS_HEADING_4",
@@ -19734,12 +19705,12 @@
                 "TXT_KEY_CIV5_AZTECS_HEADING_6",
                 "TXT_KEY_CIV5_AZTECS_HEADING_7",
                 "TXT_KEY_CIV5_AZTECS_HEADING_8",
-                "TXT_KEY_CIV5_AZTECS_HEADING_9"
+                "TXT_KEY_CIV5_AZTECS_HEADING_9",
+                "TXT_KEY_CIV5_AZTECS_HEADING_10",
+                "TXT_KEY_CIV5_AZTECS_FACTOID_HEADING"
             ],
             "texts": [
-                "TXT_KEY_CIV5_AZTECS_FACTOID_TEXT",
                 "TXT_KEY_CIV5_AZTECS_TEXT_1",
-                "TXT_KEY_CIV5_AZTECS_TEXT_10",
                 "TXT_KEY_CIV5_AZTECS_TEXT_2",
                 "TXT_KEY_CIV5_AZTECS_TEXT_3",
                 "TXT_KEY_CIV5_AZTECS_TEXT_4",
@@ -19747,7 +19718,9 @@
                 "TXT_KEY_CIV5_AZTECS_TEXT_6",
                 "TXT_KEY_CIV5_AZTECS_TEXT_7",
                 "TXT_KEY_CIV5_AZTECS_TEXT_8",
-                "TXT_KEY_CIV5_AZTECS_TEXT_9"
+                "TXT_KEY_CIV5_AZTECS_TEXT_9",
+                "TXT_KEY_CIV5_AZTECS_TEXT_10",
+                "TXT_KEY_CIV5_AZTECS_FACTOID_TEXT"
             ],
             "leaders": [
                 "item_317"
@@ -19767,10 +19740,7 @@
             "image": "./assets/images/civ_icons/the_celts.png",
             "title": "TXT_KEY_CIV_CELTS_SHORT_DESC",
             "heading": [
-                "TXT_KEY_CIV5_CELTS_FACTOID_HEADING",
                 "TXT_KEY_CIV5_CELTS_HEADING_1",
-                "TXT_KEY_CIV5_CELTS_HEADING_10",
-                "TXT_KEY_CIV5_CELTS_HEADING_11",
                 "TXT_KEY_CIV5_CELTS_HEADING_2",
                 "TXT_KEY_CIV5_CELTS_HEADING_3",
                 "TXT_KEY_CIV5_CELTS_HEADING_4",
@@ -19778,13 +19748,13 @@
                 "TXT_KEY_CIV5_CELTS_HEADING_6",
                 "TXT_KEY_CIV5_CELTS_HEADING_7",
                 "TXT_KEY_CIV5_CELTS_HEADING_8",
-                "TXT_KEY_CIV5_CELTS_HEADING_9"
+                "TXT_KEY_CIV5_CELTS_HEADING_9",
+                "TXT_KEY_CIV5_CELTS_HEADING_10",
+                "TXT_KEY_CIV5_CELTS_HEADING_11",
+                "TXT_KEY_CIV5_CELTS_FACTOID_HEADING"
             ],
             "texts": [
-                "TXT_KEY_CIV5_CELTS_FACTOID_TEXT",
                 "TXT_KEY_CIV5_CELTS_TEXT_1",
-                "TXT_KEY_CIV5_CELTS_TEXT_10",
-                "TXT_KEY_CIV5_CELTS_TEXT_11",
                 "TXT_KEY_CIV5_CELTS_TEXT_2",
                 "TXT_KEY_CIV5_CELTS_TEXT_3",
                 "TXT_KEY_CIV5_CELTS_TEXT_4",
@@ -19792,7 +19762,10 @@
                 "TXT_KEY_CIV5_CELTS_TEXT_6",
                 "TXT_KEY_CIV5_CELTS_TEXT_7",
                 "TXT_KEY_CIV5_CELTS_TEXT_8",
-                "TXT_KEY_CIV5_CELTS_TEXT_9"
+                "TXT_KEY_CIV5_CELTS_TEXT_9",
+                "TXT_KEY_CIV5_CELTS_TEXT_10",
+                "TXT_KEY_CIV5_CELTS_TEXT_11",
+                "TXT_KEY_CIV5_CELTS_FACTOID_TEXT"
             ],
             "leaders": [
                 "item_298"
@@ -19812,7 +19785,6 @@
             "image": "./assets/images/civ_icons/the_huns.png",
             "title": "TXT_KEY_CIV_HUNS_SHORT_DESC",
             "heading": [
-                "TXT_KEY_CIV5_HUNS_FACTOID_HEADING",
                 "TXT_KEY_CIV5_HUNS_HEADING_1",
                 "TXT_KEY_CIV5_HUNS_HEADING_2",
                 "TXT_KEY_CIV5_HUNS_HEADING_3",
@@ -19820,10 +19792,10 @@
                 "TXT_KEY_CIV5_HUNS_HEADING_5",
                 "TXT_KEY_CIV5_HUNS_HEADING_6",
                 "TXT_KEY_CIV5_HUNS_HEADING_7",
-                "TXT_KEY_CIV5_HUNS_HEADING_8"
+                "TXT_KEY_CIV5_HUNS_HEADING_8",
+                "TXT_KEY_CIV5_HUNS_FACTOID_HEADING"
             ],
             "texts": [
-                "TXT_KEY_CIV5_HUNS_FACTOID_TEXT",
                 "TXT_KEY_CIV5_HUNS_TEXT_1",
                 "TXT_KEY_CIV5_HUNS_TEXT_2",
                 "TXT_KEY_CIV5_HUNS_TEXT_3",
@@ -19831,7 +19803,8 @@
                 "TXT_KEY_CIV5_HUNS_TEXT_5",
                 "TXT_KEY_CIV5_HUNS_TEXT_6",
                 "TXT_KEY_CIV5_HUNS_TEXT_7",
-                "TXT_KEY_CIV5_HUNS_TEXT_8"
+                "TXT_KEY_CIV5_HUNS_TEXT_8",
+                "TXT_KEY_CIV5_HUNS_FACTOID_TEXT"
             ],
             "leaders": [
                 "item_295"
@@ -19849,24 +19822,22 @@
             "image": "./assets/images/civ_icons/the_inca.png",
             "title": "TXT_KEY_CIV_INCA_SHORT_DESC",
             "heading": [
-                "TXT_KEY_CIV5_INCA_FACTOID_HEADING",
                 "TXT_KEY_CIV5_INCA_HEADING_1",
                 "TXT_KEY_CIV5_INCA_HEADING_2",
                 "TXT_KEY_CIV5_INCA_HEADING_3",
                 "TXT_KEY_CIV5_INCA_HEADING_4",
                 "TXT_KEY_CIV5_INCA_HEADING_5",
                 "TXT_KEY_CIV5_INCA_HEADING_6",
-                "TXT_KEY_CIV5_INCA_SLINGER_HEADING"
+                "TXT_KEY_CIV5_INCA_FACTOID_HEADING"
             ],
             "texts": [
-                "TXT_KEY_CIV5_INCA_FACTOID_TEXT",
-                "TXT_KEY_CIV5_INCA_SLINGER_TEXT",
                 "TXT_KEY_CIV5_INCA_TEXT_1",
                 "TXT_KEY_CIV5_INCA_TEXT_2",
                 "TXT_KEY_CIV5_INCA_TEXT_3",
                 "TXT_KEY_CIV5_INCA_TEXT_4",
                 "TXT_KEY_CIV5_INCA_TEXT_5",
-                "TXT_KEY_CIV5_INCA_TEXT_6"
+                "TXT_KEY_CIV5_INCA_TEXT_6",
+                "TXT_KEY_CIV5_INCA_FACTOID_TEXT"
             ],
             "leaders": [
                 "item_322"
@@ -19886,9 +19857,7 @@
             "image": "./assets/images/civ_icons/the_iroquois.png",
             "title": "TXT_KEY_CIV_IROQUOIS_SHORT_DESC",
             "heading": [
-                "TXT_KEY_CIV5_IROQUOIS_FACTOID_HEADING",
                 "TXT_KEY_CIV5_IROQUOIS_HEADING_1",
-                "TXT_KEY_CIV5_IROQUOIS_HEADING_10",
                 "TXT_KEY_CIV5_IROQUOIS_HEADING_2",
                 "TXT_KEY_CIV5_IROQUOIS_HEADING_3",
                 "TXT_KEY_CIV5_IROQUOIS_HEADING_4",
@@ -19896,12 +19865,12 @@
                 "TXT_KEY_CIV5_IROQUOIS_HEADING_6",
                 "TXT_KEY_CIV5_IROQUOIS_HEADING_7",
                 "TXT_KEY_CIV5_IROQUOIS_HEADING_8",
-                "TXT_KEY_CIV5_IROQUOIS_HEADING_9"
+                "TXT_KEY_CIV5_IROQUOIS_HEADING_9",
+                "TXT_KEY_CIV5_IROQUOIS_HEADING_10",
+                "TXT_KEY_CIV5_IROQUOIS_FACTOID_HEADING"
             ],
             "texts": [
-                "TXT_KEY_CIV5_IROQUOIS_FACTOID_TEXT",
                 "TXT_KEY_CIV5_IROQUOIS_TEXT_1",
-                "TXT_KEY_CIV5_IROQUOIS_TEXT_10",
                 "TXT_KEY_CIV5_IROQUOIS_TEXT_2",
                 "TXT_KEY_CIV5_IROQUOIS_TEXT_3",
                 "TXT_KEY_CIV5_IROQUOIS_TEXT_4",
@@ -19909,7 +19878,9 @@
                 "TXT_KEY_CIV5_IROQUOIS_TEXT_6",
                 "TXT_KEY_CIV5_IROQUOIS_TEXT_7",
                 "TXT_KEY_CIV5_IROQUOIS_TEXT_8",
-                "TXT_KEY_CIV5_IROQUOIS_TEXT_9"
+                "TXT_KEY_CIV5_IROQUOIS_TEXT_9",
+                "TXT_KEY_CIV5_IROQUOIS_TEXT_10",
+                "TXT_KEY_CIV5_IROQUOIS_FACTOID_TEXT"
             ],
             "leaders": [
                 "item_312"
@@ -19929,11 +19900,7 @@
             "image": "./assets/images/civ_icons/the_maya.png",
             "title": "TXT_KEY_CIV_MAYA_SHORT_DESC",
             "heading": [
-                "TXT_KEY_CIV5_MAYA_FACTOID_HEADING",
                 "TXT_KEY_CIV5_MAYA_HEADING_1",
-                "TXT_KEY_CIV5_MAYA_HEADING_10",
-                "TXT_KEY_CIV5_MAYA_HEADING_11",
-                "TXT_KEY_CIV5_MAYA_HEADING_12",
                 "TXT_KEY_CIV5_MAYA_HEADING_2",
                 "TXT_KEY_CIV5_MAYA_HEADING_3",
                 "TXT_KEY_CIV5_MAYA_HEADING_4",
@@ -19941,15 +19908,14 @@
                 "TXT_KEY_CIV5_MAYA_HEADING_6",
                 "TXT_KEY_CIV5_MAYA_HEADING_7",
                 "TXT_KEY_CIV5_MAYA_HEADING_8",
-                "TXT_KEY_CIV5_MAYA_HEADING_9"
+                "TXT_KEY_CIV5_MAYA_HEADING_9",
+                "TXT_KEY_CIV5_MAYA_HEADING_10",
+                "TXT_KEY_CIV5_MAYA_HEADING_11",
+                "TXT_KEY_CIV5_MAYA_HEADING_12",
+                "TXT_KEY_CIV5_MAYA_FACTOID_HEADING"
             ],
             "texts": [
-                "TXT_KEY_CIV5_MAYAN_ATLATLIST_TEXT",
-                "TXT_KEY_CIV5_MAYA_FACTOID_TEXT",
                 "TXT_KEY_CIV5_MAYA_TEXT_1",
-                "TXT_KEY_CIV5_MAYA_TEXT_10",
-                "TXT_KEY_CIV5_MAYA_TEXT_11",
-                "TXT_KEY_CIV5_MAYA_TEXT_12",
                 "TXT_KEY_CIV5_MAYA_TEXT_2",
                 "TXT_KEY_CIV5_MAYA_TEXT_3",
                 "TXT_KEY_CIV5_MAYA_TEXT_4",
@@ -19957,7 +19923,11 @@
                 "TXT_KEY_CIV5_MAYA_TEXT_6",
                 "TXT_KEY_CIV5_MAYA_TEXT_7",
                 "TXT_KEY_CIV5_MAYA_TEXT_8",
-                "TXT_KEY_CIV5_MAYA_TEXT_9"
+                "TXT_KEY_CIV5_MAYA_TEXT_9",
+                "TXT_KEY_CIV5_MAYA_TEXT_10",
+                "TXT_KEY_CIV5_MAYA_TEXT_11",
+                "TXT_KEY_CIV5_MAYA_TEXT_12",
+                "TXT_KEY_CIV5_MAYA_FACTOID_TEXT"
             ],
             "leaders": [
                 "item_321"
@@ -19977,14 +19947,7 @@
             "image": "./assets/images/civ_icons/the_netherlands.png",
             "title": "TXT_KEY_CIV_NETHERLANDS_SHORT_DESC",
             "heading": [
-                "TXT_KEY_CIV5_NETHERLANDS_FACTOID_HEADING",
                 "TXT_KEY_CIV5_NETHERLANDS_HEADING_1",
-                "TXT_KEY_CIV5_NETHERLANDS_HEADING_10",
-                "TXT_KEY_CIV5_NETHERLANDS_HEADING_11",
-                "TXT_KEY_CIV5_NETHERLANDS_HEADING_12",
-                "TXT_KEY_CIV5_NETHERLANDS_HEADING_13",
-                "TXT_KEY_CIV5_NETHERLANDS_HEADING_14",
-                "TXT_KEY_CIV5_NETHERLANDS_HEADING_15",
                 "TXT_KEY_CIV5_NETHERLANDS_HEADING_2",
                 "TXT_KEY_CIV5_NETHERLANDS_HEADING_3",
                 "TXT_KEY_CIV5_NETHERLANDS_HEADING_4",
@@ -19992,17 +19955,17 @@
                 "TXT_KEY_CIV5_NETHERLANDS_HEADING_6",
                 "TXT_KEY_CIV5_NETHERLANDS_HEADING_7",
                 "TXT_KEY_CIV5_NETHERLANDS_HEADING_8",
-                "TXT_KEY_CIV5_NETHERLANDS_HEADING_9"
+                "TXT_KEY_CIV5_NETHERLANDS_HEADING_9",
+                "TXT_KEY_CIV5_NETHERLANDS_HEADING_10",
+                "TXT_KEY_CIV5_NETHERLANDS_HEADING_11",
+                "TXT_KEY_CIV5_NETHERLANDS_HEADING_12",
+                "TXT_KEY_CIV5_NETHERLANDS_HEADING_13",
+                "TXT_KEY_CIV5_NETHERLANDS_HEADING_14",
+                "TXT_KEY_CIV5_NETHERLANDS_HEADING_15",
+                "TXT_KEY_CIV5_NETHERLANDS_FACTOID_HEADING"
             ],
             "texts": [
-                "TXT_KEY_CIV5_NETHERLANDS_FACTOID_TEXT",
                 "TXT_KEY_CIV5_NETHERLANDS_TEXT_1",
-                "TXT_KEY_CIV5_NETHERLANDS_TEXT_10",
-                "TXT_KEY_CIV5_NETHERLANDS_TEXT_11",
-                "TXT_KEY_CIV5_NETHERLANDS_TEXT_12",
-                "TXT_KEY_CIV5_NETHERLANDS_TEXT_13",
-                "TXT_KEY_CIV5_NETHERLANDS_TEXT_14",
-                "TXT_KEY_CIV5_NETHERLANDS_TEXT_15",
                 "TXT_KEY_CIV5_NETHERLANDS_TEXT_2",
                 "TXT_KEY_CIV5_NETHERLANDS_TEXT_3",
                 "TXT_KEY_CIV5_NETHERLANDS_TEXT_4",
@@ -20010,7 +19973,14 @@
                 "TXT_KEY_CIV5_NETHERLANDS_TEXT_6",
                 "TXT_KEY_CIV5_NETHERLANDS_TEXT_7",
                 "TXT_KEY_CIV5_NETHERLANDS_TEXT_8",
-                "TXT_KEY_CIV5_NETHERLANDS_TEXT_9"
+                "TXT_KEY_CIV5_NETHERLANDS_TEXT_9",
+                "TXT_KEY_CIV5_NETHERLANDS_TEXT_10",
+                "TXT_KEY_CIV5_NETHERLANDS_TEXT_11",
+                "TXT_KEY_CIV5_NETHERLANDS_TEXT_12",
+                "TXT_KEY_CIV5_NETHERLANDS_TEXT_13",
+                "TXT_KEY_CIV5_NETHERLANDS_TEXT_14",
+                "TXT_KEY_CIV5_NETHERLANDS_TEXT_15",
+                "TXT_KEY_CIV5_NETHERLANDS_FACTOID_TEXT"
             ],
             "leaders": [
                 "item_332"
@@ -20030,11 +20000,7 @@
             "image": "./assets/images/civ_icons/the_ottomans.png",
             "title": "TXT_KEY_CIV_OTTOMAN_SHORT_DESC",
             "heading": [
-                "TXT_KEY_CIV5_OTTOMAN_FACTOID_HEADING",
                 "TXT_KEY_CIV5_OTTOMAN_HEADING_1",
-                "TXT_KEY_CIV5_OTTOMAN_HEADING_10",
-                "TXT_KEY_CIV5_OTTOMAN_HEADING_11",
-                "TXT_KEY_CIV5_OTTOMAN_HEADING_12",
                 "TXT_KEY_CIV5_OTTOMAN_HEADING_2",
                 "TXT_KEY_CIV5_OTTOMAN_HEADING_3",
                 "TXT_KEY_CIV5_OTTOMAN_HEADING_4",
@@ -20042,14 +20008,14 @@
                 "TXT_KEY_CIV5_OTTOMAN_HEADING_6",
                 "TXT_KEY_CIV5_OTTOMAN_HEADING_7",
                 "TXT_KEY_CIV5_OTTOMAN_HEADING_8",
-                "TXT_KEY_CIV5_OTTOMAN_HEADING_9"
+                "TXT_KEY_CIV5_OTTOMAN_HEADING_9",
+                "TXT_KEY_CIV5_OTTOMAN_HEADING_10",
+                "TXT_KEY_CIV5_OTTOMAN_HEADING_11",
+                "TXT_KEY_CIV5_OTTOMAN_HEADING_12",
+                "TXT_KEY_CIV5_OTTOMAN_FACTOID_HEADING"
             ],
             "texts": [
-                "TXT_KEY_CIV5_OTTOMAN_FACTOID_TEXT",
                 "TXT_KEY_CIV5_OTTOMAN_TEXT_1",
-                "TXT_KEY_CIV5_OTTOMAN_TEXT_10",
-                "TXT_KEY_CIV5_OTTOMAN_TEXT_11",
-                "TXT_KEY_CIV5_OTTOMAN_TEXT_12",
                 "TXT_KEY_CIV5_OTTOMAN_TEXT_2",
                 "TXT_KEY_CIV5_OTTOMAN_TEXT_3",
                 "TXT_KEY_CIV5_OTTOMAN_TEXT_4",
@@ -20057,7 +20023,11 @@
                 "TXT_KEY_CIV5_OTTOMAN_TEXT_6",
                 "TXT_KEY_CIV5_OTTOMAN_TEXT_7",
                 "TXT_KEY_CIV5_OTTOMAN_TEXT_8",
-                "TXT_KEY_CIV5_OTTOMAN_TEXT_9"
+                "TXT_KEY_CIV5_OTTOMAN_TEXT_9",
+                "TXT_KEY_CIV5_OTTOMAN_TEXT_10",
+                "TXT_KEY_CIV5_OTTOMAN_TEXT_11",
+                "TXT_KEY_CIV5_OTTOMAN_TEXT_12",
+                "TXT_KEY_CIV5_OTTOMAN_FACTOID_TEXT"
             ],
             "leaders": [
                 "item_329"
@@ -20075,24 +20045,22 @@
             "image": "./assets/images/civ_icons/the_shoshone.png",
             "title": "TXT_KEY_CIV_SHOSHONE_SHORT_DESC",
             "heading": [
-                "TXT_KEY_CIV5_SHOSHONE_FACTOID_HEADING",
                 "TXT_KEY_CIV5_SHOSHONE_HEADING_1",
                 "TXT_KEY_CIV5_SHOSHONE_HEADING_2",
                 "TXT_KEY_CIV5_SHOSHONE_HEADING_3",
                 "TXT_KEY_CIV5_SHOSHONE_HEADING_4",
                 "TXT_KEY_CIV5_SHOSHONE_HEADING_5",
-                "TXT_KEY_CIV5_SHOSHONE_HEADING_6"
+                "TXT_KEY_CIV5_SHOSHONE_HEADING_6",
+                "TXT_KEY_CIV5_SHOSHONE_FACTOID_HEADING"
             ],
             "texts": [
-                "TXT_KEY_CIV5_SHOSHONE_COMANCHE_RIDERS_TEXT",
-                "TXT_KEY_CIV5_SHOSHONE_FACTOID_TEXT",
-                "TXT_KEY_CIV5_SHOSHONE_PATHFINDER_TEXT",
                 "TXT_KEY_CIV5_SHOSHONE_TEXT_1",
                 "TXT_KEY_CIV5_SHOSHONE_TEXT_2",
                 "TXT_KEY_CIV5_SHOSHONE_TEXT_3",
                 "TXT_KEY_CIV5_SHOSHONE_TEXT_4",
                 "TXT_KEY_CIV5_SHOSHONE_TEXT_5",
-                "TXT_KEY_CIV5_SHOSHONE_TEXT_6"
+                "TXT_KEY_CIV5_SHOSHONE_TEXT_6",
+                "TXT_KEY_CIV5_SHOSHONE_FACTOID_TEXT"
             ],
             "leaders": [
                 "item_324"
@@ -20110,25 +20078,24 @@
             "image": "./assets/images/civ_icons/the_zulus.png",
             "title": "TXT_KEY_CIV_ZULU_SHORT_DESC",
             "heading": [
-                "TXT_KEY_CIV5_ZULU_FACTOID_HEADING",
                 "TXT_KEY_CIV5_ZULU_HEADING_1",
                 "TXT_KEY_CIV5_ZULU_HEADING_2",
                 "TXT_KEY_CIV5_ZULU_HEADING_3",
                 "TXT_KEY_CIV5_ZULU_HEADING_4",
                 "TXT_KEY_CIV5_ZULU_HEADING_5",
                 "TXT_KEY_CIV5_ZULU_HEADING_6",
-                "TXT_KEY_CIV5_ZULU_HEADING_7"
+                "TXT_KEY_CIV5_ZULU_HEADING_7",
+                "TXT_KEY_CIV5_ZULU_FACTOID_HEADING"
             ],
             "texts": [
-                "TXT_KEY_CIV5_ZULU_FACTOID_TEXT",
-                "TXT_KEY_CIV5_ZULU_IMPI_TEXT",
                 "TXT_KEY_CIV5_ZULU_TEXT_1",
                 "TXT_KEY_CIV5_ZULU_TEXT_2",
                 "TXT_KEY_CIV5_ZULU_TEXT_3",
                 "TXT_KEY_CIV5_ZULU_TEXT_4",
                 "TXT_KEY_CIV5_ZULU_TEXT_5",
                 "TXT_KEY_CIV5_ZULU_TEXT_6",
-                "TXT_KEY_CIV5_ZULU_TEXT_7"
+                "TXT_KEY_CIV5_ZULU_TEXT_7",
+                "TXT_KEY_CIV5_ZULU_FACTOID_TEXT"
             ],
             "leaders": [
                 "item_328"
@@ -20148,17 +20115,16 @@
             "image": "./assets/images/civ_icons/venice.png",
             "title": "TXT_KEY_CIV_VENICE_SHORT_DESC",
             "heading": [
-                "TXT_KEY_CIV5_VENICE_FACTOID_HEADING",
                 "TXT_KEY_CIV5_VENICE_HEADING_1",
                 "TXT_KEY_CIV5_VENICE_HEADING_2",
                 "TXT_KEY_CIV5_VENICE_HEADING_3",
                 "TXT_KEY_CIV5_VENICE_HEADING_4",
                 "TXT_KEY_CIV5_VENICE_HEADING_5",
                 "TXT_KEY_CIV5_VENICE_HEADING_6",
-                "TXT_KEY_CIV5_VENICE_HEADING_7"
+                "TXT_KEY_CIV5_VENICE_HEADING_7",
+                "TXT_KEY_CIV5_VENICE_FACTOID_HEADING"
             ],
             "texts": [
-                "TXT_KEY_CIV5_VENICE_FACTOID_TEXT",
                 "TXT_KEY_CIV5_VENICE_TEXT",
                 "TXT_KEY_CIV5_VENICE_TEXT_1",
                 "TXT_KEY_CIV5_VENICE_TEXT_2",
@@ -20166,7 +20132,8 @@
                 "TXT_KEY_CIV5_VENICE_TEXT_4",
                 "TXT_KEY_CIV5_VENICE_TEXT_5",
                 "TXT_KEY_CIV5_VENICE_TEXT_6",
-                "TXT_KEY_CIV5_VENICE_TEXT_7"
+                "TXT_KEY_CIV5_VENICE_TEXT_7",
+                "TXT_KEY_CIV5_VENICE_FACTOID_TEXT"
             ],
             "leaders": [
                 "item_304"
@@ -20201,7 +20168,8 @@
                 "TXT_KEY_CIVILOPEDIA_LEADERS_AHMAD_ALMANSUR_TEXT_4",
                 "TXT_KEY_CIVILOPEDIA_LEADERS_AHMAD_ALMANSUR_TEXT_5"
             ],
-            "titles": "TXT_KEY_CIVILOPEDIA_LEADERS_AHMAD_ALMANSUR_TITLES_1"
+            "titles": "TXT_KEY_CIVILOPEDIA_LEADERS_AHMAD_ALMANSUR_TITLES_1",
+            "game_info":"{TXT_KEY_TRAIT_GATEWAY_AFRICA_SHORT}[NEWLINE][NEWLINE]{TXT_KEY_TRAIT_GATEWAY_AFRICA}"
         }
     },
     {
@@ -20231,7 +20199,8 @@
                 "TXT_KEY_CIVILOPEDIA_LEADERS_ALEXANDER_TEXT_5",
                 "TXT_KEY_CIVILOPEDIA_LEADERS_ALEXANDER_TEXT_6"
             ],
-            "titles": "TXT_KEY_CIVILOPEDIA_LEADERS_ALEXANDER_TITLES_1"
+            "titles": "TXT_KEY_CIVILOPEDIA_LEADERS_ALEXANDER_TITLES_1",
+            "game_info":"{TXT_KEY_TRAIT_CITY_STATE_FRIENDSHIP_SHORT}[NEWLINE][NEWLINE]{TXT_KEY_TRAIT_CITY_STATE_FRIENDSHIP}"
         }
     },
     {
@@ -20259,7 +20228,8 @@
                 "TXT_KEY_CIVILOPEDIA_LEADERS_ASHURBANIPAL_TEXT_4",
                 "TXT_KEY_CIVILOPEDIA_LEADERS_ASHURBANIPAL_TEXT_5"
             ],
-            "titles": "TXT_KEY_CIVILOPEDIA_LEADERS_ASHURBANIPAL_TITLES_1"
+            "titles": "TXT_KEY_CIVILOPEDIA_LEADERS_ASHURBANIPAL_TITLES_1",
+            "game_info":"{TXT_KEY_TRAIT_SLAYER_OF_TIAMAT_SHORT}[NEWLINE][NEWLINE]{TXT_KEY_TRAIT_SLAYER_OF_TIAMAT}"
         }
     },
     {
@@ -20289,7 +20259,8 @@
                 "TXT_KEY_CIVILOPEDIA_LEADERS_ASKIA_TEXT_5",
                 "TXT_KEY_CIVILOPEDIA_LEADERS_ASKIA_TEXT_6"
             ],
-            "titles": "TXT_KEY_CIVILOPEDIA_LEADERS_ASKIA_TITLES_1"
+            "titles": "TXT_KEY_CIVILOPEDIA_LEADERS_ASKIA_TITLES_1",
+            "game_info":"{TXT_KEY_TRAIT_AMPHIB_WARLORD_SHORT}[NEWLINE][NEWLINE]{TXT_KEY_TRAIT_AMPHIB_WARLORD}"
         }
     },
     {
@@ -20321,7 +20292,8 @@
                 "TXT_KEY_CIVILOPEDIA_LEADERS_ATTILA_TEXT_6",
                 "TXT_KEY_CIVILOPEDIA_LEADERS_ATTILA_TEXT_7"
             ],
-            "titles": "TXT_KEY_CIVILOPEDIA_LEADERS_ATTILA_TITLES_1"
+            "titles": "TXT_KEY_CIVILOPEDIA_LEADERS_ATTILA_TITLES_1",
+            "game_info":"{TXT_KEY_TRAIT_RAZE_AND_HORSES_SHORT}[NEWLINE][NEWLINE]{TXT_KEY_TRAIT_RAZE_AND_HORSES}"
         }
     },
     {
@@ -20355,7 +20327,8 @@
                 "TXT_KEY_CIVILOPEDIA_LEADERS_AUGUSTUS_TEXT_7",
                 "TXT_KEY_CIVILOPEDIA_LEADERS_AUGUSTUS_TEXT_8"
             ],
-            "titles": "TXT_KEY_CIVILOPEDIA_LEADERS_AUGUSTUS_TITLES_1"
+            "titles": "TXT_KEY_CIVILOPEDIA_LEADERS_AUGUSTUS_TITLES_1",
+            "game_info":"{TXT_KEY_TRAIT_CAPITAL_BUILDINGS_CHEAPER_SHORT}[NEWLINE][NEWLINE]{TXT_KEY_TRAIT_CAPITAL_BUILDINGS_CHEAPER}"
         }
     },
     {
@@ -20383,7 +20356,8 @@
                 "TXT_KEY_CIVILOPEDIA_LEADERS_BISMARCK_TEXT_4",
                 "TXT_KEY_CIVILOPEDIA_LEADERS_BISMARCK_TEXT_5"
             ],
-            "titles": "{TXT_KEY_CIVILOPEDIA_LEADERS_BISMARCK_TITLES_1}[NEWLINE][NEWLINE]{TXT_KEY_CIVILOPEDIA_LEADERS_BISMARCK_TITLES_2}"
+            "titles": "{TXT_KEY_CIVILOPEDIA_LEADERS_BISMARCK_TITLES_1}[NEWLINE][NEWLINE]{TXT_KEY_CIVILOPEDIA_LEADERS_BISMARCK_TITLES_2}",
+            "game_info":"{TXT_KEY_TRAIT_CONVERTS_LAND_BARBARIANS_SHORT}[NEWLINE][NEWLINE]{TXT_KEY_TRAIT_CONVERTS_LAND_BARBARIANS}"
         }
     },
     {
@@ -20405,7 +20379,8 @@
                 "TXT_KEY_CIVILOPEDIA_LEADERS_BOUDICCA_TEXT_1",
                 "TXT_KEY_CIVILOPEDIA_LEADERS_BOUDICCA_TEXT_2"
             ],
-            "titles": "TXT_KEY_CIVILOPEDIA_LEADERS_BOUDICCA_TITLES_1"
+            "titles": "TXT_KEY_CIVILOPEDIA_LEADERS_BOUDICCA_TITLES_1",
+            "game_info":"{TXT_KEY_TRAIT_FAITH_FROM_NATURE_SHORT}[NEWLINE][NEWLINE]{TXT_KEY_TRAIT_FAITH_FROM_NATURE}"
         }
     },
     {
@@ -20433,7 +20408,8 @@
                 "TXT_KEY_CIVILOPEDIA_LEADERS_CASIMIR_TEXT_4",
                 "TXT_KEY_CIVILOPEDIA_LEADERS_CASIMIR_TEXT_5"
             ],
-            "titles": "TXT_KEY_CIVILOPEDIA_LEADERS_CASIMIR_TITLES_1"
+            "titles": "TXT_KEY_CIVILOPEDIA_LEADERS_CASIMIR_TITLES_1",
+            "game_info":"{TXT_KEY_TRAIT_SOLIDARITY_SHORT}[NEWLINE][NEWLINE]{TXT_KEY_TRAIT_SOLIDARITY}"
         }
     },
     {
@@ -20467,7 +20443,8 @@
                 "TXT_KEY_CIVILOPEDIA_LEADERS_CATHERINE_TEXT_7",
                 "TXT_KEY_CIVILOPEDIA_LEADERS_CATHERINE_TEXT_8"
             ],
-            "titles": "TXT_KEY_CIVILOPEDIA_LEADERS_CATHERINE_TITLES_1"
+            "titles": "TXT_KEY_CIVILOPEDIA_LEADERS_CATHERINE_TITLES_1",
+            "game_info":"{TXT_KEY_TRAIT_STRATEGIC_RICHES_SHORT}[NEWLINE][NEWLINE]{TXT_KEY_TRAIT_STRATEGIC_RICHES}"
         }
     },
     {
@@ -20497,7 +20474,8 @@
                 "TXT_KEY_CIVILOPEDIA_LEADERS_DARIUS_TEXT_5",
                 "TXT_KEY_CIVILOPEDIA_LEADERS_DARIUS_TEXT_6"
             ],
-            "titles": "TXT_KEY_CIVILOPEDIA_LEADERS_DARIUS_TITLES_1"
+            "titles": "TXT_KEY_CIVILOPEDIA_LEADERS_DARIUS_TITLES_1",
+            "game_info":"{TXT_KEY_TRAIT_ENHANCED_GOLDEN_AGES_SHORT}[NEWLINE][NEWLINE]{TXT_KEY_TRAIT_ENHANCED_GOLDEN_AGES}"
         }
     },
     {
@@ -20519,7 +20497,8 @@
                 "TXT_KEY_CIVILOPEDIA_LEADERS_DIDO_TEXT_1",
                 "TXT_KEY_CIVILOPEDIA_LEADERS_DIDO_TEXT_2"
             ],
-            "titles": "TXT_KEY_CIVILOPEDIA_LEADERS_DIDO_TITLES_1"
+            "titles": "TXT_KEY_CIVILOPEDIA_LEADERS_DIDO_TITLES_1",
+            "game_info":"{TXT_KEY_TRAIT_PHOENICIAN_HERITAGE_SHORT}[NEWLINE][NEWLINE]{TXT_KEY_TRAIT_PHOENICIAN_HERITAGE}"
         }
     },
     {
@@ -20549,7 +20528,8 @@
                 "TXT_KEY_CIVILOPEDIA_LEADERS_ELIZABETH_TEXT_5",
                 "TXT_KEY_CIVILOPEDIA_LEADERS_ELIZABETH_TEXT_6"
             ],
-            "titles": "{TXT_KEY_CIVILOPEDIA_LEADERS_ELIZABETH_TITLES_1}[NEWLINE][NEWLINE]{TXT_KEY_CIVILOPEDIA_LEADERS_ELIZABETH_TITLES_2}[NEWLINE][NEWLINE]{TXT_KEY_CIVILOPEDIA_LEADERS_ELIZABETH_TITLES_3}"
+            "titles": "{TXT_KEY_CIVILOPEDIA_LEADERS_ELIZABETH_TITLES_1}[NEWLINE][NEWLINE]{TXT_KEY_CIVILOPEDIA_LEADERS_ELIZABETH_TITLES_2}[NEWLINE][NEWLINE]{TXT_KEY_CIVILOPEDIA_LEADERS_ELIZABETH_TITLES_3}",
+            "game_info":"{TXT_KEY_TRAIT_OCEAN_MOVEMENT_SHORT}[NEWLINE][NEWLINE]{TXT_KEY_TRAIT_OCEAN_MOVEMENT}"
         }
     },
     {
@@ -20577,7 +20557,8 @@
                 "TXT_KEY_CIVILOPEDIA_LEADERS_ENRICO_DANDOLO_TEXT_4",
                 "TXT_KEY_CIVILOPEDIA_LEADERS_ENRICO_DANDOLO_TEXT_5"
             ],
-            "titles": "TXT_KEY_CIVILOPEDIA_LEADERS_ENRICO_DANDOLO_TITLES_1"
+            "titles": "TXT_KEY_CIVILOPEDIA_LEADERS_ENRICO_DANDOLO_TITLES_1",
+            "game_info":"{TXT_KEY_TRAIT_SUPER_CITY_STATE_SHORT}[NEWLINE][NEWLINE]{TXT_KEY_TRAIT_SUPER_CITY_STATE}"
         }
     },
     {
@@ -20605,7 +20586,8 @@
                 "TXT_KEY_CIVILOPEDIA_LEADERS_GAJAH_MADA_TEXT_4",
                 "TXT_KEY_CIVILOPEDIA_LEADERS_GAJAH_MADA_TEXT_5"
             ],
-            "titles": "TXT_KEY_CIVILOPEDIA_LEADERS_GAJAH_MADA_TITLES_1"
+            "titles": "TXT_KEY_CIVILOPEDIA_LEADERS_GAJAH_MADA_TITLES_1",
+            "game_info":"{TXT_KEY_TRAIT_SPICE_SHORT}[NEWLINE][NEWLINE]{TXT_KEY_TRAIT_SPICE}"
         }
     },
     {
@@ -20635,7 +20617,8 @@
                 "TXT_KEY_CIVILOPEDIA_LEADERS_GANDHI_TEXT_5",
                 "TXT_KEY_CIVILOPEDIA_LEADERS_GANDHI_TEXT_6"
             ],
-            "titles": "TXT_KEY_CIVILOPEDIA_LEADERS_GANDHI_TITLES_1"
+            "titles": "TXT_KEY_CIVILOPEDIA_LEADERS_GANDHI_TITLES_1",
+            "game_info":"{TXT_KEY_TRAIT_POPULATION_GROWTH_SHORT}[NEWLINE][NEWLINE]{TXT_KEY_TRAIT_POPULATION_GROWTH}"
         }
     },
     {
@@ -20650,7 +20633,6 @@
                 "item_268"
             ],
             "heading": [
-                "TXT_KEY_CIV5_GENGHIS_FACTOID_HEADING",
                 "TXT_KEY_CIV5_GENGHIS_HEADING_1",
                 "TXT_KEY_CIV5_GENGHIS_HEADING_2",
                 "TXT_KEY_CIV5_GENGHIS_HEADING_3",
@@ -20660,7 +20642,6 @@
                 "TXT_KEY_CIV5_GENGHIS_HEADING_7"
             ],
             "texts": [
-                "TXT_KEY_CIV5_GENGHIS_FACTOID_TEXT",
                 "TXT_KEY_CIV5_GENGHIS_TEXT_1",
                 "TXT_KEY_CIV5_GENGHIS_TEXT_2",
                 "TXT_KEY_CIV5_GENGHIS_TEXT_3",
@@ -20669,7 +20650,8 @@
                 "TXT_KEY_CIV5_GENGHIS_TEXT_6",
                 "TXT_KEY_CIV5_GENGHIS_TEXT_7"
             ],
-            "titles": "TXT_KEY_CIV5_GENGHIS_TITLES_1"
+            "titles": "TXT_KEY_CIV5_GENGHIS_TITLES_1",
+            "game_info":"{TXT_KEY_TRAIT_TERROR_SHORT}[NEWLINE][NEWLINE]{TXT_KEY_TRAIT_TERROR}"
         }
     },
     {
@@ -20701,7 +20683,8 @@
                 "TXT_KEY_CIVILOPEDIA_LEADERS_GUSTAVUS_ADOLPHUS_TEXT_6",
                 "TXT_KEY_CIVILOPEDIA_LEADERS_GUSTAVUS_ADOLPHUS_TEXT_7"
             ],
-            "titles": "TXT_KEY_CIVILOPEDIA_LEADERS_GUSTAVUS_ADOLPHUS_TITLES_1"
+            "titles": "TXT_KEY_CIVILOPEDIA_LEADERS_GUSTAVUS_ADOLPHUS_TITLES_1",
+            "game_info":"{TXT_KEY_TRAIT_DIPLOMACY_GREAT_PEOPLE_SHORT}[NEWLINE][NEWLINE]{TXT_KEY_TRAIT_DIPLOMACY_GREAT_PEOPLE}"
         }
     },
     {
@@ -20735,7 +20718,8 @@
                 "TXT_KEY_CIVILOPEDIA_LEADERS_SELASSIE_TEXT_7",
                 "TXT_KEY_CIVILOPEDIA_LEADERS_SELASSIE_TEXT_8"
             ],
-            "titles": "TXT_KEY_CIVILOPEDIA_LEADERS_SELASSIE_TITLES_1"
+            "titles": "TXT_KEY_CIVILOPEDIA_LEADERS_SELASSIE_TITLES_1",
+            "game_info":"{TXT_KEY_TRAIT_BONUS_AGAINST_TECH_SHORT}[NEWLINE][NEWLINE]{TXT_KEY_TRAIT_BONUS_AGAINST_TECH}"
         }
     },
     {
@@ -20750,7 +20734,6 @@
                 "item_257"
             ],
             "heading": [
-                "TXT_KEY_CIV5_HARALD_FACTOID_HEADING",
                 "TXT_KEY_CIV5_HARALD_HEADING_1",
                 "TXT_KEY_CIV5_HARALD_HEADING_2",
                 "TXT_KEY_CIV5_HARALD_HEADING_3",
@@ -20759,7 +20742,6 @@
                 "TXT_KEY_CIV5_HARALD_HEADING_6"
             ],
             "texts": [
-                "TXT_KEY_CIV5_HARALD_FACTOID_TEXT",
                 "TXT_KEY_CIV5_HARALD_TEXT_1",
                 "TXT_KEY_CIV5_HARALD_TEXT_2",
                 "TXT_KEY_CIV5_HARALD_TEXT_3",
@@ -20767,7 +20749,8 @@
                 "TXT_KEY_CIV5_HARALD_TEXT_5",
                 "TXT_KEY_CIV5_HARALD_TEXT_6"
             ],
-            "titles": "{TXT_KEY_CIV5_HARALD_TITLES_1}[NEWLINE][NEWLINE]{TXT_KEY_CIV5_HARALD_TITLES_2}"
+            "titles": "{TXT_KEY_CIV5_HARALD_TITLES_1}[NEWLINE][NEWLINE]{TXT_KEY_CIV5_HARALD_TITLES_2}",
+            "game_info":"{TXT_KEY_TRAIT_VIKING_FURY_SHORT}[NEWLINE][NEWLINE]{TXT_KEY_TRAIT_VIKING_FURY}"
         }
     },
     {
@@ -20799,7 +20782,8 @@
                 "TXT_KEY_CIVILOPEDIA_LEADERS_HARUN_TEXT_6",
                 "TXT_KEY_CIVILOPEDIA_LEADERS_HARUN_TEXT_7"
             ],
-            "titles": "{TXT_KEY_CIVILOPEDIA_LEADERS_HARUN_TITLES_1}[NEWLINE][NEWLINE]{TXT_KEY_CIVILOPEDIA_LEADERS_HARUN_TITLES_2}"
+            "titles": "{TXT_KEY_CIVILOPEDIA_LEADERS_HARUN_TITLES_1}[NEWLINE][NEWLINE]{TXT_KEY_CIVILOPEDIA_LEADERS_HARUN_TITLES_2}",
+            "game_info":"{TXT_KEY_TRAIT_LAND_TRADE_GOLD2_SHORT}[NEWLINE][NEWLINE]{TXT_KEY_TRAIT_LAND_TRADE_GOLD2}"
         }
     },
     {
@@ -20821,7 +20805,8 @@
                 "TXT_KEY_CIVILOPEDIA_LEADERS_HIAWATHA_TEXT_1",
                 "TXT_KEY_CIVILOPEDIA_LEADERS_HIAWATHA_TEXT_2"
             ],
-            "titles": "TXT_KEY_CIVILOPEDIA_LEADERS_HIAWATHA_TITLES_1"
+            "titles": "TXT_KEY_CIVILOPEDIA_LEADERS_HIAWATHA_TITLES_1",
+            "game_info":"{TXT_KEY_TRAIT_IGNORE_TERRAIN_IN_FOREST_SHORT}[NEWLINE][NEWLINE]{TXT_KEY_TRAIT_IGNORE_TERRAIN_IN_FOREST}"
         }
     },
     {
@@ -20836,7 +20821,6 @@
                 "item_278"
             ],
             "heading": [
-                "TXT_KEY_CIV5_ISABELLA_FACTOID_HEADING",
                 "TXT_KEY_CIV5_ISABELLA_HEADING_1",
                 "TXT_KEY_CIV5_ISABELLA_HEADING_2",
                 "TXT_KEY_CIV5_ISABELLA_HEADING_3",
@@ -20847,7 +20831,6 @@
                 "TXT_KEY_CIV5_ISABELLA_HEADING_8"
             ],
             "texts": [
-                "TXT_KEY_CIV5_ISABELLA_FACTOID_TEXT",
                 "TXT_KEY_CIV5_ISABELLA_TEXT_1",
                 "TXT_KEY_CIV5_ISABELLA_TEXT_2",
                 "TXT_KEY_CIV5_ISABELLA_TEXT_3",
@@ -20857,7 +20840,8 @@
                 "TXT_KEY_CIV5_ISABELLA_TEXT_7",
                 "TXT_KEY_CIV5_ISABELLA_TEXT_8"
             ],
-            "titles": "{TXT_KEY_CIV5_ISABELLA_TITLES_1}[NEWLINE][NEWLINE]{TXT_KEY_CIV5_ISABELLA_TITLES_2}"
+            "titles": "{TXT_KEY_CIV5_ISABELLA_TITLES_1}[NEWLINE][NEWLINE]{TXT_KEY_CIV5_ISABELLA_TITLES_2}",
+            "game_info":"{TXT_KEY_TRAIT_SEVEN_CITIES_SHORT}[NEWLINE][NEWLINE]{TXT_KEY_TRAIT_SEVEN_CITIES}"
         }
     },
     {
@@ -20872,7 +20856,6 @@
                 "item_272"
             ],
             "heading": [
-                "TXT_KEY_CIV5_KAMEHAMEHA_FACTOID_HEADING",
                 "TXT_KEY_CIV5_KAMEHAMEHA_HEADING_1",
                 "TXT_KEY_CIV5_KAMEHAMEHA_HEADING_2",
                 "TXT_KEY_CIV5_KAMEHAMEHA_HEADING_3",
@@ -20882,7 +20865,6 @@
                 "TXT_KEY_CIV5_KAMEHAMEHA_HEADING_7"
             ],
             "texts": [
-                "TXT_KEY_CIV5_KAMEHAMEHA_FACTOID_TEXT",
                 "TXT_KEY_CIV5_KAMEHAMEHA_TEXT_1",
                 "TXT_KEY_CIV5_KAMEHAMEHA_TEXT_2",
                 "TXT_KEY_CIV5_KAMEHAMEHA_TEXT_3",
@@ -20891,7 +20873,8 @@
                 "TXT_KEY_CIV5_KAMEHAMEHA_TEXT_6",
                 "TXT_KEY_CIV5_KAMEHAMEHA_TEXT_7"
             ],
-            "titles": "TXT_KEY_CIV5_KAMEHAMEHA_TITLES_1"
+            "titles": "TXT_KEY_CIV5_KAMEHAMEHA_TITLES_1",
+            "game_info":"{TXT_KEY_TRAIT_WAYFINDING_SHORT}[NEWLINE][NEWLINE]{TXT_KEY_TRAIT_WAYFINDING}"
         }
     },
     {
@@ -20921,7 +20904,8 @@
                 "TXT_KEY_CIVILOPEDIA_LEADERS_MARIA_I_TEXT_5",
                 "TXT_KEY_CIVILOPEDIA_LEADERS_MARIA_I_TEXT_6"
             ],
-            "titles": "TXT_KEY_CIVILOPEDIA_LEADERS_MARIA_I_TITLES_1"
+            "titles": "TXT_KEY_CIVILOPEDIA_LEADERS_MARIA_I_TITLES_1",
+            "game_info":"{TXT_KEY_TRAIT_EXTRA_TRADE_SHORT}[NEWLINE][NEWLINE]{TXT_KEY_TRAIT_EXTRA_TRADE}"
         }
     },
     {
@@ -20942,21 +20926,9 @@
                 "TXT_KEY_CIVILOPEDIA_LEADERS_MARIA_HEADING_4",
                 "TXT_KEY_CIVILOPEDIA_LEADERS_MARIA_HEADING_5",
                 "TXT_KEY_CIVILOPEDIA_LEADERS_MARIA_HEADING_6",
-                "TXT_KEY_CIVILOPEDIA_LEADERS_MARIA_HEADING_7",
-                "TXT_KEY_CIVILOPEDIA_LEADERS_MARIA_I_HEADING_1",
-                "TXT_KEY_CIVILOPEDIA_LEADERS_MARIA_I_HEADING_2",
-                "TXT_KEY_CIVILOPEDIA_LEADERS_MARIA_I_HEADING_3",
-                "TXT_KEY_CIVILOPEDIA_LEADERS_MARIA_I_HEADING_4",
-                "TXT_KEY_CIVILOPEDIA_LEADERS_MARIA_I_HEADING_5",
-                "TXT_KEY_CIVILOPEDIA_LEADERS_MARIA_I_HEADING_6"
+                "TXT_KEY_CIVILOPEDIA_LEADERS_MARIA_HEADING_7"
             ],
             "texts": [
-                "TXT_KEY_CIVILOPEDIA_LEADERS_MARIA_I_TEXT_1",
-                "TXT_KEY_CIVILOPEDIA_LEADERS_MARIA_I_TEXT_2",
-                "TXT_KEY_CIVILOPEDIA_LEADERS_MARIA_I_TEXT_3",
-                "TXT_KEY_CIVILOPEDIA_LEADERS_MARIA_I_TEXT_4",
-                "TXT_KEY_CIVILOPEDIA_LEADERS_MARIA_I_TEXT_5",
-                "TXT_KEY_CIVILOPEDIA_LEADERS_MARIA_I_TEXT_6",
                 "TXT_KEY_CIVILOPEDIA_LEADERS_MARIA_TEXT_1",
                 "TXT_KEY_CIVILOPEDIA_LEADERS_MARIA_TEXT_2",
                 "TXT_KEY_CIVILOPEDIA_LEADERS_MARIA_TEXT_3",
@@ -20965,7 +20937,8 @@
                 "TXT_KEY_CIVILOPEDIA_LEADERS_MARIA_TEXT_6",
                 "TXT_KEY_CIVILOPEDIA_LEADERS_MARIA_TEXT_7"
             ],
-            "titles": "TXT_KEY_CIVILOPEDIA_LEADERS_MARIA_I_TITLES_1TXT_KEY_CIVILOPEDIA_LEADERS_MARIA_TITLES_1"
+            "titles": "{TXT_KEY_CIVILOPEDIA_LEADERS_MARIA_I_TITLES_1}[NEWLINE][NEWLINE]{TXT_KEY_CIVILOPEDIA_LEADERS_MARIA_TITLES_1}",
+            "game_info":"{TXT_KEY_TRAIT_ANNEX_CITY_STATE_SHORT}[NEWLINE][NEWLINE]{TXT_KEY_TRAIT_ANNEX_CITY_STATE}"
         }
     },
     {
@@ -21001,7 +20974,8 @@
                 "TXT_KEY_CIVILOPEDIA_LEADERS_MONTEZUMA_TEXT_8",
                 "TXT_KEY_CIVILOPEDIA_LEADERS_MONTEZUMA_TEXT_9"
             ],
-            "titles": "TXT_KEY_CIVILOPEDIA_LEADERS_MONTEZUMA_TITLES_1"
+            "titles": "TXT_KEY_CIVILOPEDIA_LEADERS_MONTEZUMA_TITLES_1",
+            "game_info":"{TXT_KEY_TRAIT_CULTURE_FROM_KILLS_SHORT}[NEWLINE][NEWLINE]{TXT_KEY_TRAIT_CULTURE_FROM_KILLS}"
         }
     },
     {
@@ -21033,7 +21007,8 @@
                 "TXT_KEY_CIVILOPEDIA_LEADERS_NAPOLEON_TEXT_6",
                 "TXT_KEY_CIVILOPEDIA_LEADERS_NAPOLEON_TEXT_7"
             ],
-            "titles": "{TXT_KEY_CIVILOPEDIA_LEADERS_NAPOLEON_TITLES_1}[NEWLINE][NEWLINE]{TXT_KEY_CIVILOPEDIA_LEADERS_NAPOLEON_TITLES_2}"
+            "titles": "{TXT_KEY_CIVILOPEDIA_LEADERS_NAPOLEON_TITLES_1}[NEWLINE][NEWLINE]{TXT_KEY_CIVILOPEDIA_LEADERS_NAPOLEON_TITLES_2}",
+            "game_info":"{TXT_KEY_TRAIT_ENHANCED_CULTURE_SHORT}[NEWLINE][NEWLINE]{TXT_KEY_TRAIT_ENHANCED_CULTURE}"
         }
     },
     {
@@ -21048,7 +21023,6 @@
                 "item_252"
             ],
             "heading": [
-                "TXT_KEY_CIV5_NEBUCHADNEZZAR_FACTOID_HEADING",
                 "TXT_KEY_CIV5_NEBUCHADNEZZAR_HEADING_1",
                 "TXT_KEY_CIV5_NEBUCHADNEZZAR_HEADING_2",
                 "TXT_KEY_CIV5_NEBUCHADNEZZAR_HEADING_3",
@@ -21057,7 +21031,6 @@
                 "TXT_KEY_CIV5_NEBUCHADNEZZAR_HEADING_6"
             ],
             "texts": [
-                "TXT_KEY_CIV5_NEBUCHADNEZZAR_FACTOID_TEXT",
                 "TXT_KEY_CIV5_NEBUCHADNEZZAR_TEXT_1",
                 "TXT_KEY_CIV5_NEBUCHADNEZZAR_TEXT_2",
                 "TXT_KEY_CIV5_NEBUCHADNEZZAR_TEXT_3",
@@ -21065,7 +21038,8 @@
                 "TXT_KEY_CIV5_NEBUCHADNEZZAR_TEXT_5",
                 "TXT_KEY_CIV5_NEBUCHADNEZZAR_TEXT_6"
             ],
-            "titles": "TXT_KEY_CIV5_NEBUCHADNEZZAR_TITLES_1"
+            "titles": "TXT_KEY_CIV5_NEBUCHADNEZZAR_TITLES_1",
+            "game_info":"{TXT_KEY_TRAIT_INGENIOUS_SHORT}[NEWLINE][NEWLINE]{TXT_KEY_TRAIT_INGENIOUS}"
         }
     },
     {
@@ -21095,7 +21069,8 @@
                 "TXT_KEY_CIVILOPEDIA_LEADERS_ODA_TEXT_5",
                 "TXT_KEY_CIVILOPEDIA_LEADERS_ODA_TEXT_6"
             ],
-            "titles": "TXT_KEY_CIVILOPEDIA_LEADERS_ODA_TITLES_1"
+            "titles": "TXT_KEY_CIVILOPEDIA_LEADERS_ODA_TITLES_1",
+            "game_info":"{TXT_KEY_TRAIT_FIGHT_WELL_DAMAGED_SHORT}[NEWLINE][NEWLINE]{TXT_KEY_TRAIT_FIGHT_WELL_DAMAGED}"
         }
     },
     {
@@ -21121,7 +21096,8 @@
                 "TXT_KEY_CIVILOPEDIA_LEADERS_PACAL_TEXT_3",
                 "TXT_KEY_CIVILOPEDIA_LEADERS_PACAL_TEXT_4"
             ],
-            "titles": "TXT_KEY_CIVILOPEDIA_LEADERS_PACAL_TITLES_1"
+            "titles": "TXT_KEY_CIVILOPEDIA_LEADERS_PACAL_TITLES_1",
+            "game_info":"{TXT_KEY_TRAIT_LONG_COUNT_SHORT}[NEWLINE][NEWLINE]{TXT_KEY_TRAIT_LONG_COUNT}"
         }
     },
     {
@@ -21136,20 +21112,19 @@
                 "item_283"
             ],
             "heading": [
-                "TXT_KEY_CIV5_PACHACUTI_FACTOID_HEADING",
                 "TXT_KEY_CIV5_PACHACUTI_HEADING_1",
                 "TXT_KEY_CIV5_PACHACUTI_HEADING_2",
                 "TXT_KEY_CIV5_PACHACUTI_HEADING_3",
                 "TXT_KEY_CIV5_PACHACUTI_HEADING_4"
             ],
             "texts": [
-                "TXT_KEY_CIV5_PACHACUTI_FACTOID_TEXT",
                 "TXT_KEY_CIV5_PACHACUTI_TEXT_1",
                 "TXT_KEY_CIV5_PACHACUTI_TEXT_2",
                 "TXT_KEY_CIV5_PACHACUTI_TEXT_3",
                 "TXT_KEY_CIV5_PACHACUTI_TEXT_4"
             ],
-            "titles": "TXT_KEY_CIV5_PACHACUTI_TITLES_1"
+            "titles": "TXT_KEY_CIV5_PACHACUTI_TITLES_1",
+            "game_info":"{TXT_KEY_TRAIT_GREAT_ANDEAN_ROAD_SHORT}[NEWLINE][NEWLINE]{TXT_KEY_TRAIT_GREAT_ANDEAN_ROAD}"
         }
     },
     {
@@ -21177,7 +21152,8 @@
                 "TXT_KEY_CIVILOPEDIA_LEADERS_PEDRO_TEXT_4",
                 "TXT_KEY_CIVILOPEDIA_LEADERS_PEDRO_TEXT_5"
             ],
-            "titles": "TXT_KEY_CIVILOPEDIA_LEADERS_PEDRO_TITLES_1"
+            "titles": "TXT_KEY_CIVILOPEDIA_LEADERS_PEDRO_TITLES_1",
+            "game_info":"{TXT_KEY_TRAIT_CARNIVAL_SHORT}[NEWLINE][NEWLINE]{TXT_KEY_TRAIT_CARNIVAL}"
         }
     },
     {
@@ -21205,7 +21181,8 @@
                 "TXT_KEY_CIVILOPEDIA_LEADERS_POCATELLO_TEXT_4",
                 "TXT_KEY_CIVILOPEDIA_LEADERS_POCATELLO_TEXT_5"
             ],
-            "titles": "TXT_KEY_CIVILOPEDIA_LEADERS_POCATELLO_TITLES_1"
+            "titles": "TXT_KEY_CIVILOPEDIA_LEADERS_POCATELLO_TITLES_1",
+            "game_info":"{TXT_KEY_TRAIT_GREAT_EXPANSE_SHORT}[NEWLINE][NEWLINE]{TXT_KEY_TRAIT_GREAT_EXPANSE}"
         }
     },
     {
@@ -21241,7 +21218,8 @@
                 "TXT_KEY_CIVILOPEDIA_LEADERS_RAMESSES_TEXT_8",
                 "TXT_KEY_CIVILOPEDIA_LEADERS_RAMESSES_TEXT_9"
             ],
-            "titles": "{TXT_KEY_CIVILOPEDIA_LEADERS_RAMESSES_TITLES_1}[NEWLINE][NEWLINE]{TXT_KEY_CIVILOPEDIA_LEADERS_RAMESSES_TITLES_2}"
+            "titles": "{TXT_KEY_CIVILOPEDIA_LEADERS_RAMESSES_TITLES_1}[NEWLINE][NEWLINE]{TXT_KEY_CIVILOPEDIA_LEADERS_RAMESSES_TITLES_2}",
+            "game_info":"{TXT_KEY_TRAIT_WONDER_BUILDER_SHORT}[NEWLINE][NEWLINE]{TXT_KEY_TRAIT_WONDER_BUILDER}"
         }
     },
     {
@@ -21271,7 +21249,8 @@
                 "TXT_KEY_CIVILOPEDIA_LEADERS_RAMKHAMHAENG_TEXT_5",
                 "TXT_KEY_CIVILOPEDIA_LEADERS_RAMKHAMHAENG_TEXT_6"
             ],
-            "titles": "TXT_KEY_CIVILOPEDIA_LEADERS_RAMKHAMHAENG_TITLES_1"
+            "titles": "TXT_KEY_CIVILOPEDIA_LEADERS_RAMKHAMHAENG_TITLES_1",
+            "game_info":"{TXT_KEY_TRAIT_CITY_STATE_BONUSES_SHORT}[NEWLINE][NEWLINE]{TXT_KEY_TRAIT_CITY_STATE_BONUSES}"
         }
     },
     {
@@ -21286,7 +21265,6 @@
                 "item_267"
             ],
             "heading": [
-                "TXT_KEY_CIV5_SEJONG_FACTOID_HEADING",
                 "TXT_KEY_CIV5_SEJONG_HEADING_1",
                 "TXT_KEY_CIV5_SEJONG_HEADING_2",
                 "TXT_KEY_CIV5_SEJONG_HEADING_3",
@@ -21296,7 +21274,6 @@
                 "TXT_KEY_CIV5_SEJONG_HEADING_7"
             ],
             "texts": [
-                "TXT_KEY_CIV5_SEJONG_FACTOID_TEXT",
                 "TXT_KEY_CIV5_SEJONG_TEXT_1",
                 "TXT_KEY_CIV5_SEJONG_TEXT_2",
                 "TXT_KEY_CIV5_SEJONG_TEXT_3",
@@ -21305,7 +21282,8 @@
                 "TXT_KEY_CIV5_SEJONG_TEXT_6",
                 "TXT_KEY_CIV5_SEJONG_TEXT_7"
             ],
-            "titles": "TXT_KEY_CIV5_SEJONG_TITLES_1"
+            "titles": "TXT_KEY_CIV5_SEJONG_TITLES_1",
+            "game_info":"{TXT_KEY_TRAIT_SCHOLARS_JADE_HALL_SHORT}[NEWLINE][NEWLINE]{TXT_KEY_TRAIT_SCHOLARS_JADE_HALL}"
         }
     },
     {
@@ -21333,7 +21311,8 @@
                 "TXT_KEY_CIVILOPEDIA_LEADERS_SHAKA_TEXT_4",
                 "TXT_KEY_CIVILOPEDIA_LEADERS_SHAKA_TEXT_5"
             ],
-            "titles": "TXT_KEY_CIVILOPEDIA_LEADERS_SHAKA_TITLES_1"
+            "titles": "TXT_KEY_CIVILOPEDIA_LEADERS_SHAKA_TITLES_1",
+            "game_info":"{TXT_KEY_TRAIT_BUFFALO_HORNS_SHORT}[NEWLINE][NEWLINE]{TXT_KEY_TRAIT_BUFFALO_HORNS}"
         }
     },
     {
@@ -21365,7 +21344,8 @@
                 "TXT_KEY_CIVILOPEDIA_LEADERS_SULEIMAN_TEXT_6",
                 "TXT_KEY_CIVILOPEDIA_LEADERS_SULEIMAN_TEXT_7"
             ],
-            "titles": "{TXT_KEY_CIVILOPEDIA_LEADERS_SULEIMAN_TITLES_1}[NEWLINE][NEWLINE]{TXT_KEY_CIVILOPEDIA_LEADERS_SULEIMAN_TITLES_2}"
+            "titles": "{TXT_KEY_CIVILOPEDIA_LEADERS_SULEIMAN_TITLES_1}[NEWLINE][NEWLINE]{TXT_KEY_CIVILOPEDIA_LEADERS_SULEIMAN_TITLES_2}",
+            "game_info":"{TXT_KEY_TRAIT_CONVERTS_SEA_BARBARIANS_SHORT}[NEWLINE][NEWLINE]{TXT_KEY_TRAIT_CONVERTS_SEA_BARBARIANS}"
         }
     },
     {
@@ -21397,7 +21377,8 @@
                 "TXT_KEY_CIVILOPEDIA_LEADERS_THEODORA_TEXT_6",
                 "TXT_KEY_CIVILOPEDIA_LEADERS_THEODORA_TEXT_7"
             ],
-            "titles": "TXT_KEY_CIVILOPEDIA_LEADERS_THEODORA_TITLES_1"
+            "titles": "TXT_KEY_CIVILOPEDIA_LEADERS_THEODORA_TITLES_1",
+            "game_info":"{TXT_KEY_TRAIT_EXTRA_BELIEF_SHORT}[NEWLINE][NEWLINE]{TXT_KEY_TRAIT_EXTRA_BELIEF}"
         }
     },
     {
@@ -21431,7 +21412,8 @@
                 "TXT_KEY_CIVILOPEDIA_LEADERS_GEORGE_TEXT_7",
                 "TXT_KEY_CIVILOPEDIA_LEADERS_GEORGE_TEXT_8"
             ],
-            "titles": "{TXT_KEY_CIVILOPEDIA_LEADERS_GEORGE_TITLES_1}[NEWLINE][NEWLINE]{TXT_KEY_CIVILOPEDIA_LEADERS_GEORGE_TITLES_2}"
+            "titles": "{TXT_KEY_CIVILOPEDIA_LEADERS_GEORGE_TITLES_1}[NEWLINE][NEWLINE]{TXT_KEY_CIVILOPEDIA_LEADERS_GEORGE_TITLES_2}",
+            "game_info":"{TXT_KEY_TRAIT_RIVER_EXPANSION_SHORT}[NEWLINE][NEWLINE]{TXT_KEY_TRAIT_RIVER_EXPANSION}"
         }
     },
     {
@@ -21465,7 +21447,8 @@
                 "TXT_KEY_CIVILOPEDIA_LEADERS_WILLIAM_TEXT_7",
                 "TXT_KEY_CIVILOPEDIA_LEADERS_WILLIAM_TEXT_8"
             ],
-            "titles": "TXT_KEY_CIVILOPEDIA_LEADERS_WILLIAM_TITLES_1"
+            "titles": "TXT_KEY_CIVILOPEDIA_LEADERS_WILLIAM_TITLES_1",
+            "game_info":"{TXT_KEY_TRAIT_LUXURY_RETENTION_SHORT}[NEWLINE][NEWLINE]{TXT_KEY_TRAIT_LUXURY_RETENTION}"
         }
     },
     {
@@ -21495,7 +21478,8 @@
                 "TXT_KEY_CIVILOPEDIA_LEADERS_WUZETIAN_TEXT_5",
                 "TXT_KEY_CIVILOPEDIA_LEADERS_WUZETIAN_TEXT_6"
             ],
-            "titles": "TXT_KEY_CIVILOPEDIA_LEADERS_WUZETIAN_TITLES_1"
+            "titles": "TXT_KEY_CIVILOPEDIA_LEADERS_WUZETIAN_TITLES_1",
+            "game_info":"{TXT_KEY_TRAIT_ART_OF_WAR_SHORT}[NEWLINE][NEWLINE]{TXT_KEY_TRAIT_ART_OF_WAR}"
         }
     },
     {

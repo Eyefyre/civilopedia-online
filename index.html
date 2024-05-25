@@ -51,7 +51,8 @@
               value="cat_2" data-bs-toggle="tab">
               <img src="./assets/images/category_concepts_icon.png"
                 data-bs-toggle="tooltip" data-bs-placement="bottom"
-                data-bs-title="TXT_KEY_PEDIA_CATEGORY_2_LABEL" alt="Game Concepts">
+                data-bs-title="TXT_KEY_PEDIA_CATEGORY_2_LABEL"
+                alt="Game Concepts">
             </button>
           </li>
           <li class="nav-item" role="presentation">
@@ -59,7 +60,8 @@
               data-bs-toggle="tab">
               <img src="./assets/images/category_tech_icon.png"
                 data-bs-toggle="tooltip" data-bs-placement="bottom"
-                data-bs-title="TXT_KEY_PEDIA_CATEGORY_3_LABEL" alt="Technologies">
+                data-bs-title="TXT_KEY_PEDIA_CATEGORY_3_LABEL"
+                alt="Technologies">
             </button>
           </li>
           <li class="nav-item" role="presentation">
@@ -99,7 +101,8 @@
               data-bs-toggle="tab">
               <img src="./assets/images/category_social_icon.png"
                 data-bs-toggle="tooltip" data-bs-placement="bottom"
-                data-bs-title="TXT_KEY_PEDIA_CATEGORY_8_LABEL" alt="Social Policies">
+                data-bs-title="TXT_KEY_PEDIA_CATEGORY_8_LABEL"
+                alt="Social Policies">
             </button>
           </li>
           <li class="nav-item" role="presentation">
@@ -125,7 +128,8 @@
               data-bs-toggle="tab">
               <img src="./assets/images/category_citystates_icon.png"
                 data-bs-toggle="tooltip" data-bs-placement="bottom"
-                data-bs-title="TXT_KEY_PEDIA_CATEGORY_11_LABEL" alt="City-States">
+                data-bs-title="TXT_KEY_PEDIA_CATEGORY_11_LABEL"
+                alt="City-States">
             </button>
           </li>
           <li class="nav-item" role="presentation">
@@ -133,7 +137,8 @@
               value="cat_12" data-bs-toggle="tab">
               <img src="./assets/images/category_terrain_icon.png"
                 data-bs-toggle="tooltip" data-bs-placement="bottom"
-                data-bs-title="TXT_KEY_PEDIA_CATEGORY_12_LABEL" alt="Terrain and Features">
+                data-bs-title="TXT_KEY_PEDIA_CATEGORY_12_LABEL"
+                alt="Terrain and Features">
             </button>
           </li>
           <li class="nav-item" role="presentation">
@@ -166,7 +171,8 @@
               value="cat_16" data-bs-toggle="tab">
               <img src="./assets/images/category_congress_icon.png"
                 data-bs-toggle="tooltip" data-bs-placement="bottom"
-                data-bs-title="TXT_KEY_PEDIA_CATEGORY_16_LABEL" alt="World Congress">
+                data-bs-title="TXT_KEY_PEDIA_CATEGORY_16_LABEL"
+                alt="World Congress">
             </button>
           </li>
         </ul>
@@ -227,7 +233,7 @@
       </div>
     </div>
 
-      <script id="view_1" type="text/html">
+    <script id="view_1" type="text/html">
             <div class="container-fluid py-4">
               <div class="row gx-5">
                 <div class="col-3 px-0">
@@ -1196,21 +1202,15 @@
                         {{translate strings.title}}
                       </div>
                     </div>
-                  </div>
-                  {{#if strings.heading}}
-                    {{#each strings.heading}}
-                    <div class="row mt-3">
-                      <div class="col-12 info-box-title">
-                        {{translate this}}
-                      </div>
-                      <div class="col-12 pe-0">
-                        <div class="bordered-text info-box-content">
-                          {{{translate (lookup ../strings.texts @index)}}}
-                        </div>
+                    {{#if strings.subtitle}}
+                    <div class="col-12">
+                      <div class="text-center item-title mt-2 py-2">
+                        {{translate strings.subtitle}}
                       </div>
                     </div>
-                    {{/each}}
-                  {{/if}}
+                    {{/if}}
+                  </div>
+                  
                   {{#if strings.summary}}
                   <div class="row pt-3 ps-4 align-items-start">
                     <div class="col-12">
@@ -1238,6 +1238,22 @@
                     </div>
                     </div>
                   </div>
+                  {{/if}}
+                  {{#if strings.heading}}
+                    {{#each strings.heading}}
+                    <div class="row pt-3 ps-4 align-items-start">
+                      <div class="col-12">
+                        <div class="info-box-title">
+                        {{translate this}}
+                      </div>
+                      </div>
+                      <div class="col-12">
+                        <div class="bordered-text info-box-content">
+                          {{{translate (lookup ../strings.texts @index)}}}
+                        </div>
+                      </div>
+                    </div>
+                    {{/each}}
                   {{/if}}
                   {{#if strings.special_abilities}}
                   <div class="row pt-3 ps-4 align-items-start">
@@ -1299,7 +1315,7 @@
               </div>
             </div>
         </script>
-      <script id="view_3" type="text/html">
+    <script id="view_3" type="text/html">
             <div class="container-fluid py-4">
               <div class="row gx-5">
                 <div class="col-3 mb-5 px-0">
@@ -1363,7 +1379,7 @@
             </div>
         </script>
 
-      <script id="view_2" type="text/html">
+    <script id="view_2" type="text/html">
           <div class="container-fluid py-4">
             <div class="row gx-5">
               <div class="col-3 px-0">
@@ -1435,5 +1451,5 @@
             </div>
           </div>
       </script>
-    </body>
-  </html>
+  </body>
+</html>
