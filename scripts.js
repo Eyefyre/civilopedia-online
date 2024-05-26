@@ -98,7 +98,6 @@ document.addEventListener("DOMContentLoaded", async function () {
     $("body").show()
 });
 
-
 function get_translation(language, key) {
     if (key in translations[language]) {
         return parse_tags(translations[language][key])
