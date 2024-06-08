@@ -57,7 +57,9 @@ var tag_mappings = {
     "[ICON_RES_OIL]": "<img class='icon align-top' src='./assets/images/icon_images/ICON_RES_OIL.png'>",
     "[ICON_RES_GOLD]": "<img class='icon align-top' src='./assets/images/icon_images/ICON_RES_GOLD.png'>",
     "[ICON_RES_SILVER]": "<img class='icon align-top' src='./assets/images/icon_images/ICON_RES_SILVER.png'>",
-    "[ICON_RES_COAL]": "<img class='icon align-top' src='./assets/images/icon_images/ICON_RES_COAL.png'>"
+    "[ICON_RES_COAL]": "<img class='icon align-top' src='./assets/images/icon_images/ICON_RES_COAL.png'>",
+    "[ICON_RES_WHEAT]": "<img class='icon align-top' src='./assets/images/icon_images/ICON_RES_WHEAT.png'>",
+    "[ICON_RES_BANANA]": "<img class='icon align-top' src='./assets/images/icon_images/ICON_RES_BANANA.png'>"
 }
 
 
